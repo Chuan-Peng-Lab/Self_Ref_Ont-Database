@@ -1,0 +1,20 @@
+// Reference=MNI
+// Yin, 2021, self-friend>friend-stranger (11 female, mean=20.47,SD=0.97) 
+// Subjects=28
+-12   66   -3
+-36   27   -9
+-27   -72  57
+24    -75  60
+
+// Yin, 2021, self-friend&self-stranger&friend-stranger>blank (11 female, mean=20.47,SD=0.97) 
+// Subjects=28
+-3    6    54
+-36   -3   63
+30    0    66
+21    -39  3
+-18   -42  3
+-36   -42  42
+-15   -72  54
+-27   -60  54
+27    -69  54
+30    -60  54

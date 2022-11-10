@@ -1,0 +1,12 @@
+// Reference=MNI
+// Park,2020: self > other(13 female,mean = 21.6,SD=2.9)
+// Subjects = 28
+-26	38	-4 
+-12	50	2 
+-24	48	-2
+
+// Park,2020: 1PP < 3PP(13 female,mean = 21.6,SD=2.9)
+// Subjects = 28
+6	-78	-6 
+20	-76	-16
+0	-86	-2

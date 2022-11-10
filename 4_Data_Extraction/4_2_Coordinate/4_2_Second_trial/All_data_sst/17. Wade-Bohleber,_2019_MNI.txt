@@ -1,0 +1,19 @@
+// Reference=MNI
+// Wade-Bohleber,2019: self-relevant > control
+// Subjects = 35
+32	-54	6
+32	16	10
+-24	16	10
+-14	-54	30
+-54	-68	8
+52	-70     0
+-2	2       50
+
+// Wade-Bohleber,2019: other > control
+// Subjects = 35
+-8	-56	34
+50	-68	2
+-52	-52	14
+-4	8	56
+-46	-22	56
+14	-52	-26

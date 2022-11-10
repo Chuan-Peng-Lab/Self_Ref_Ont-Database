@@ -1,0 +1,7 @@
+// Reference=MNI
+// Koski, 2020, Self>Unrelated other(study2,48female, mean=20.16,SD=2.27) 
+// Subjects=48
+56    74    56
+72    40    50
+54    52    47
+35    88    55

@@ -1,0 +1,18 @@
+// Reference=MNI
+// D'Argembeau, 2007: self>other(11females,mean=23,SD=3.4)
+// subjects=17
+-10	46	22
+10	44	24
+-8	50	-2
+12	44	0
+0	35	0
+-4	-52	44
+
+// D'Argembeau, 2007: third personperspective > first person(11females,mean=23,SD=3.4)
+// subjects=17
+-10	14	62
+-8	-86	-6
+-54	-54	26
+-10	-64	38
+-38	62	-2
+-52	-2	-32

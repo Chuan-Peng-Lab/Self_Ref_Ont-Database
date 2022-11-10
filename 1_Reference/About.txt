@@ -1,0 +1,2 @@
+NeuroQuery和synthesis为已有类似神经成像相关数据库的构建的文献。
+其他文献为相关的元分析规范报告，但并不完全适用于神经成像元分析（ALE meta-analysis）

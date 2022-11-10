@@ -1,0 +1,16 @@
+// Reference=MNI
+// Wang, 2015, self>other ( 13 female, mean=24.16,20-30,SD=2.59) 
+// Subjects=25
+-18   38   50
+-32   60   0
+16    48   8
+6     -18  42
+
+// Wang, 2016, self>other ( 16 female, mean=22.3,19-30,SD=2.35) 
+// Subjects=27
+-3     57     -3
+-18    22.5   9
+-24    -61.5  18
+25.5   57     27
+10.5   18     61.5
+30     -52.5  0

@@ -1,0 +1,32 @@
+Variable_Name,变量名称,Variable_description,变量说明,Variable_value,变量值,Variable_category,变量类型
+First Author,第一作者,the first named author of the article,署名排在第一位的作者,NA,NA,categorical,分类数据
+Last Author,最后作者,the last named author of the article,署名排在最后一位的作者,NA,NA,categorical,分类数据
+Year,年份,the year when the article is published,期刊发表的年份,NA,NA,numeric,数值数据
+Journal,期刊,the journal the article is publilshed,期刊名称,NA,NA,categorical,分类数据
+Study,研究,order of independent studies contained in one paper,文章中独立研究的顺序,"1, 2","1, 2",numeric,数值数据
+Article_ID,文章_编号,the ID of the article,文章编号,Author_Year_Journal,作者_年份_期刊,categorical,分类数据
+Definition of self-reference effect (verbal),自我参照效应定义(字面),author's definition of SRE in the article,作者在文章中对 SRE 的定义,NA,NA,categorical,分类数据
+Self-reference effect defined by contrast,由对照点定义的自我参照效应,how SRE is realized on a neural level,如何在神经层面体现 SRE,NA,NA,categorical,分类数据
+Self-reference effect defined by contrast(simplified),由对照点定义的自我参照效应（简化）,"the labels of self, other, neutral are simplified",自我，他人，中性刺激等标签得以简化,NA,NA,categorical,分类数据
+Task Name,任务名称,name of the task,任务的名称,NA,NA,categorical,分类数据
+Deviation_from_Rogers_1977,"是否偏离Rogers, 1977",whether the experiment design is different that of Rogers (1977),实验设计是否与罗杰斯（1977）不同,"Yes, No",是，否,categorical,分类数据
+Exp_Design_Type,实验设计,how experiment is designed,实验是如何设计的,"within, between, mixed",被试内，被试间，混合,categorical,分类数据
+Independent_Variable,自变量,a variable whose value does Not depend on aNother variable,其值不依赖于另一个变量的变量,NA,NA,categorical,分类数据
+Stimuli_Modality,刺激_模态,modalities of stimuli,刺激模态,"visual, auditory",视觉的，听觉的,categorical,分类数据
+Stimuli_Content,刺激_内容,content of stimuli ,刺激内容,"trait(personality description), statement(Non-personality description), video, pictures",人格特征，非人格特征描述，视频，图片,categorical,分类数据
+Stimuli_Categories,刺激_类型,types of stimuli,刺激类型,NA,NA,categorical,分类数据
+Task_Phase_1_In_Scanner_or_Not,任务_阶段1_是否在扫描仪内,whether the first phrase of the study is conducted in fMRI,研究的第一个阶段是否在fMRI中进行,"Yes, No",是，否,categorical,分类数据
+Task_Phase_1_Response_Type,任务_阶段1_反应类型,choices available to participants,参与者可用的选择,NA,NA,categorical,分类数据
+Task_Phase_1_Response_Method,任务_阶段1_反应方式,how do participants respond to stimuli,参与者如何对刺激做出反应,NA,NA,categorical,分类数据
+Task_Phase_1_Number_of_Trials_Total,任务_阶段1_总试次,number of trials in total,总试验次数,NA,NA,numeric,数值数据
+Task_Phase_1_Number_of_Trials_per_block,任务_阶段1_每批(block)次试次,number of trials each block,每个批次(block)的试验次数,NA,NA,numeric,数值数据
+Task_Phase_2_In_Scanner_or_Not,任务_阶段2_是否在扫描仪内,whether the second phrase of the study is conducted in fMRI,研究的第二个阶段是否在fMRI中进行,"Yes, No",是，否,categorical,分类数据
+Task_Phase_2_Response_Type,任务_阶段2_反应类型,choices available to participants,参与者可用的选择,NA,NA,categorical,分类数据
+Task_Phase_2_Response_Method,任务_阶段2_反应方式,how do participants respond to stimuli,参与者如何对刺激做出反应,NA,NA,categorical,分类数据
+Task_Phase_2_Number_of_Trials_Total,任务_阶段2_总试次,number of trials in total,总试验次数,NA,NA,numeric,数值数据
+Task_Phase_2_Number_of_Trials_per_block,任务_阶段2_每批(block)次试次,number of trials each block,每个区块的试验次数,NA,NA,numeric,数值数据
+fMRI_Acquistion_sys,功能核磁共振_数据提取_系统,the system of fMRI equipment,磁共振成像设备系统,NA,NA,categorical,分类数据
+fMRI_Acquistion_Magnetic_field,功能核磁共振_数据提取_磁场,the magnetic field of fMRI equipment,磁共振成像设备的磁场,NA,NA,categorical,分类数据
+fMRI_Software_Data_Analysis,功能核磁共振_软件_数据分析,the software people people used in analysis,分析中使用的软件,SPM,SPM,categorical,分类数据
+fMRI_Results_Conditions,功能核磁共振_结果_条件,the conditions of the experiment,实验条件,NA,NA,categorical,分类数据
+fMRI_Results_File_Names,功能核磁共振_结果_文件名称,the file names of fMRI results,磁共振成像结果的文件名,NA,NA,categorical,分类数据

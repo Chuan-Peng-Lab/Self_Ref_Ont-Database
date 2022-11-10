@@ -1,0 +1,7 @@
+// Reference=MNI
+// Gutchess, 2010: Self Remembered > Other Remembered（young,9male,mean=23.2）
+// subjects=17
+-8	42	-2
+-6	36	14
+10	40	-2
+-64	-46	18

@@ -1,0 +1,32 @@
+Variable_Name,Variable_description,Variable_value,Variable_category
+First Author,the first named author of the article,NA,categorical
+Last Author,the last named author of the article,NA,categorical
+Year,the year when the article is published,NA,numeric
+Journal,the journal the article is publilshed,NA,categorical
+Study,order of independent studies contained in one paper,NA,numeric
+Article_ID,the ID of the article,Author_Year_Journal,categorical
+Definition of self-reference effect (verbal),author's definition of SRE in the article,NA,categorical
+Self-reference effect defined by contrast,how self-reference effect is represented on a neural level by contrast,NA,categorical
+Control_Category,"the contrasts are simplified into four general references: self, close, stranger, nonperson",NA,categorical
+Task Name,name of the task,NA,categorical
+Deviation_from_Rogers_1977,whether the experiment design is different that of Rogers (1977),"Yes, No",categorical
+Exp_Design_Type,how experiment is designed,"within, between, mixed",categorical
+Independent_Variable,a variable whose value does Not depend on aNother variable,NA,categorical
+Stimuli_Modality,modalities of stimuli,"visual, auditory",categorical
+Stimuli_Content,content of stimuli ,"trait(personality description), statement(Non-personality description), video, pictures",categorical
+Stimuli_Categories,types of stimuli,NA,categorical
+Task_Phase_1_In_Scanner_or_Not,whether the first phrase of the study is conducted in fMRI,"Yes, No",categorical
+Task_Phase_1_Response_Type,choices available to participants,NA,categorical
+Task_Phase_1_Response_Method,how do participants respond to stimuli,NA,categorical
+Task_Phase_1_Number_of_Trials_Total,number of trials in total,NA,numeric
+Task_Phase_1_Number_of_Trials_per_block,number of trials each block,NA,numeric
+Task_Phase_2_In_Scanner_or_Not,whether the second phrase of the study is conducted in fMRI,"Yes, No",categorical
+Task_Phase_2_Response_Type,choices available to participants,NA,categorical
+Task_Phase_2_Response_Method,how do participants respond to stimuli,NA,categorical
+Task_Phase_2_Number_of_Trials_Total,number of trials in total,NA,numeric
+Task_Phase_2_Number_of_Trials_per_block,number of trials each block,NA,numeric
+fMRI_Acquistion_sys,the system of fMRI equipment,NA,categorical
+fMRI_Acquistion_Magnetic_field,the magnetic field of fMRI equipment,NA,categorical
+fMRI_Software_Data_Analysis,the software people people used in analysis,NA,categorical
+fMRI_Results_Conditions,the conditions of the experiment,NA,categorical
+fMRI_Results_File_Names,the file names of fMRI results,NA,categorical

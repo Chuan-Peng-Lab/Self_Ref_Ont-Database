@@ -1,0 +1,6 @@
+// Reference=MNI
+// Fossati, 2003: self>other(3male,mean=25.8,SD=4.4)
+// Subjects=10
+11.86	   55.27	7.67
+-16.04   46.74	21.32
+-13.46   -23.47	39.43

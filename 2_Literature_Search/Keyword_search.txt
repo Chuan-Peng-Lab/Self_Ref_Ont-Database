@@ -1,0 +1,9 @@
+一、心理自我
+ⅠPubMed 
+self-referen* AND (fMRI OR PET) from 2015/1/1 to 2021/12/2 413 results
+(self-referen* OR self-evaluat*) AND (fMRI OR PET)  from 2015/1/1 to 2021/12/2 531 results 
+(self-referen* OR self-evaluat* OR self-reflect* OR self-judg*) AND (fMRI OR PET)  from 2015/1/1 to 2021/12/2 598 results √
+ⅡWeb of Science-SCI
+ALL=((self-referen*) AND (fMRI OR PET)) from 2015/1/1 to 2021/12/3 291 results
+ALL=((self-referen* OR self-evaluat* OR self-reflect* OR self-judg*) AND (fMRI OR PET)) from 2015/1/1 to 2021/12/3 392 results
+

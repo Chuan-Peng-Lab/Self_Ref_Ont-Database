@@ -1,0 +1,70 @@
+article_ID,participant,modility,stimuli,task,phase_1,phase_2,control_condition,contrast,freq
+Bach_2021_ Eur Arch  Psychiatry Clin Neurosci,Germany,visual_auditory,video,self_evaluation_video,watch_calculate,no_phase2,multi,close_stranger,1
+Chen_2015_Cult Brain,Chinese_MoreEastern/LessEastern,visual,video, trait_judgment,judgment,no_phase2,single,close,1
+Fuentes_2020_Neurolmage Clin,Spanish,visual,sentence,Self_other ,judgment,no_phase2,single,non_person,1
+Furuichi_2019_Asian J Psychiatr,Japanese,visual,sentence,trait_judgment,judgment,no_phase2,multi,non_person;close,1
+Herold_2015_Brain Struct Funct,Germany,visual,picture,online_forced_choice,judgment,retrieval_in_scanner,single,non_person,1
+Herold_2017_J Affect Disord,Germany,visual,picture,online_forced_choice,judgment,retrieval_in_scanner,single,non_person,1
+Hornung_2019_Front Behav Neurosci,Germany,visual,word,trait_judgment,judgment,no_phase2,single,celebrity;non_person,1
+Kedia_2017_Soc Neurosci,English,visual,photo,attractive_judg,judgment,no_phase2,single,close,1
+Knyazev_2020_Front Hum Neurosci,Russian,visual,word,trait_judgment,judgment,no_phase2,multi,close_stranger,1
+Koski_2020_Neurolmage,Multi,visual,photo_word,trait_judgment,evaluation,retrievalRK_out_scanner,single,stranger,1
+Li_2019_Neurosci Lett,Chinese,visual,word,trait_judgment,judgment,retrievalRK_out_scanner,multi,close;celebrity;non_person,1
+Noll_2018_Soc Cogn Affect Neurosci,Multi,visual,word,trait_judgment,judgment,no_phase2,single,non_person,1
+Van_2017_Brain and Cogn,Netherlands,visual,word,trait_judgment,judgment,no_phase2,single,close,1
+Yamawaki_2017_Hum Brain Mapp,Japanese,visual,photo,friendship_judgment,evaluation,retrievalRK_out_scanner,multi,close;stranger,1
+Yaoi_2015_Front Hum Neurosci,Japanese,visual,word,trait_judgment,evaluation,retrieval_in_scanner,single,celebrity,1
+Yin_2021_J Neurosci,Chinese,visual,colored_circle,wm_ location_judg,judgment,no_phase2,single,stranger,1
+Wade-Bohleber_2019_Behav Brain Res,Switzerland,visual,picture,arousal_ valence_rate,evaluation,no_phase2,single,non_person,1
+Wang_2016_Front Psychol,Chinese,visual,word,trait_judgment,judgment,no_phase2,single,celebrity,1
+Park_2020_Aust NZJ Psychiatry,Korea,visual,word,trait_judgment,evaluation,no_phase2,single,close,1
+Zhang_2015_Neurolmage,Netherlands,visual,sentence,trait_judgment,judgment,no_phase2,single,non_person,1
+Benoit_2010_Neurolmage,English,visual,word,trait_judgment,evaluation,retrieval_out_scanner,multi,close;non_person,1
+Cikara_2014_Neuroimage,US,visual,word,trait_judgment,judgment,no_phase2,single,celebrity,1
+D'Argembeau_2007_J Cogn Neurosci,France,visual,word,trait_judgment,evaluation,no_phase2,single,close,1
+Fossati_2003_Am J Psychiatry,English,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,non_person,1
+Gutchess_2007_Soc Neurosci,US,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,celebrity,1
+Gutchess_2010_Soc Neurosci,US,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,celebrity,1
+Han_2008_Soc Neurosci-UK,Chinese_Non-religious/Christians,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,non_person,1
+Han_2010_Soc Cogn Affect Neurosci,Chinese,visual,word,trait_judgment,judgment,retrievalRK_out_scanner,multi,celebrity;non_person,1
+Heatherton_2006_SCAN,US,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,close;non_person,1
+Jenkins_2011_Soc Neurosci,US,visual,word,trait_judgment,evaluation,no_phase2,single,celebrity,1
+Kelly_2002_J Cogn Neurosci,US,visual,word,trait_judgment,judgment,retrieval_out_scanner,single,celebrity,1
+Lombardo_2010_Brain,English,visual,sentence,trait_judgment,evaluation,no_phase2,single,celebrity,1
+Lou_2004_PNAS,Danish,visual,word,trait_judgment,evaluation,no_phase2,multi,celebrity;non_person,1
+Ma_2011_Brain,Chinese,visual_auditory,sentence,trait_judgment,judgment,retrieval_visuAdito_out,single,celebrity,1
+Ma_2011_Brain,Chinese,auditory,sentence,trait_judgment,judgment,retrieval_auditory_out,single,celebrity,1
+Ma_2014_Brain,Chinese/Danish,visual,word,trait_judgment,judgment,evaluation_out,single,celebrity,1
+McAdams_2014_SCAN,US,visual,word,trait_judgment,evaluation,evaluation_out,single,close,1
+Modinos_2009_PLoS One,Netherlands,visual,sentence,trait_judgment,judgment,no_phase2,single,close,1
+Modinos_2011_Neuropsychology,Netherlands,visual,word,trait_judgment,judgment,no_phase2,multi,close;non_person,1
+Moran_2011_J Cogn Neurosci,US,visual,word,trait_judgment,judgment,no_phase2,single,close,1
+Ochsner_2005_Neuroimage,US,visual,word,trait_judgment,judgment,no_phase2,multi,close;non_person;stranger,1
+Pauly_2013_SCAN, Germay,visual,word,trait_judgment,judgment,retrieval_in_scanner,multi,close;non_person,1
+Pauly_2014_SCAN,Germany,visual,word,trait_judgment,judgment,no_phase2,multi,close;non_person,1
+Pfeifer_2007_JCogn Neurosci,US,visual,word,trait_judgment,judgment,no_phase2,multi,celebrity;non_person,1
+Powell_2010_J Cogn Neurosci,English,visual,word,Agentic_Conceptual,select_card,evaluation_in_scanner,single,non_person,1
+Powell_2010_J Cogn Neurosci,English,visual,word,Agentic_Conceptual,select_card,retrieval_in_scanner,single,non_person,1
+Sarsam_2013_PLoS One,English,visual,word,trait_judgmnet,judgment,no_phase2,single,celebrity,1
+Schmitz_2004_Neuroimage,US,visual,word,trait_judgmnet,judgment,no_phase2,multi,close;non_person,1
+Sul_2011_Soc Neurosci-UK,Korea,visual,word,trait_judgmnet,judgment,retrieval_out_scanner,single,celebrity,1
+Van_2010_Hum Brain Mapp,Netherlands,visual,word,trait_judgmnet,judgment,no_phase2,multi,celebrity;non_person,1
+Van_2012_Schizophr Res,Netherlands,visual,word,trait_judgmnet,judgment,no_phase2,single,non_person,1
+Vanderwal_2008_Neuroimage,US,visual,word,trait_judgmnet,judgment,no_phase2,single,close,1
+Wang_2012_Soc Cogn Affect Neurosci,Chinese,visual,word,trait_judgmnet,judgment,retrieval_out_scanner,multi,"non_person;celebrity;friend,father",1
+Wu_2010_SCAN,Chinese_Han/Tibetan,visual,word,trait_judgmnet,judgment,retrieval_out_scanner,multi,celebrity;close,1
+Yang_2012_Neuropsychologia,Chinese,visual,sentence,trait_judgmnet,judgment,no_phase2,multi,non_person;close,1
+Yang_2013_PLoS One,Chinese,visual,word,judg_RF,judgment,retrieval_out_scanner,single,celebrity,1
+Yoshimura_2009_Brain Cogn,Janpanese,visual,word,trait_judgmnet,judgment,retrieval_out_scanner,multi,celebrity;non_person,1
+Zhang_2006_Sci China Life Sci,Chinese,visual,word,trait_judgmnet,judgment,retrievalRK_out_scanner,multi,celebrity;non_person,1
+Zhang_2006_Sci China Life Sci,Chinese,visual,word,trait_judgmnet,judgment,retrievalRK_out_scanner,multi,close;non_person,1
+Y. Zhu_2007_Neuroimage,Chinese/western,visual,word,trait_judgmnet,judgment,retrievalRK_out_scanner,single,non_person,1
+L.Zhu_2012_Hippocampus,Chinese,visual,word,trait_judgmnet,judgment,retrieval_in_scanner,single,celebrity,1
+Zeng_2021_Journal Pers,Chinese,visual,sentence,trait_judgmnet,evaluation,no_phase2,single,non_person,1
+Long_2020_Cortex,Multi,visual,word,trait_judgmnet,judgment,evaluation_out_scanner,single,close,1
+Laurita_2020_Soc Cogn Affect Neurosci,US,visual,word,trait_judgmnet,evaluation,no_phase2,single,close,1
+Fields_2019_Soc Cogn Affect Neurosci,US,visual,sentence,trait_judgmnet,judgment,no_phase2,single,non_person,1
+Martial_2018_Brain Cogn,France,visual,word,trait_judgmnet,evaluation,evaluation_out_scanner,single,close,1
+Oetken_2017_Neuropsychologia,Germany,visual_auditory,sentence_music,trait_judgmnet,evaluation,no_phase2,single,non_person,1
+Yang_2016_Nature,Chinese,visual,word,trait_judgmnet,evaluation,no_phase2,single,celebrity,1
+McAdams_2016_Soc Cogn Affect Neurosci,US,visual,word_photo,trait_face,evaluation,passiveView_in_scanner,single,close,1

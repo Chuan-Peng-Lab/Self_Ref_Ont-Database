@@ -1,0 +1,75 @@
+First Author,Last Author,Year,Journal,Article_ID,Study,Sample_Size,Number_of_Female,Ethnicity/Race_Caucasian,"Ethnicity/Race_Mongoloid
+","Ethnicity/Race_Negroid
+","Ethnicity/Race_Other
+",Age_mean,,,,Age_min,Age_max,Education,Recruitment_Channel,Data_Collection_Location
+,,,,,,,,,,,,Healthy,Unhealthy,Young ,Elderly,,,,,
+Bach,Lem¨¦nager,2021,European Archives of Psychiatry and Clinical Neuroscience,Bach_2021_ EurArchPsychiatryClinNeurosci,1,40,0,NA,NA,NA,NA,21.23,NA,NA,NA,18,27,NA,advertisement,"Mannheim, Germany"
+Chen,Heatherton,2015,Cult Brain,Chen_2015_CultBrain,1,27,13,0,100%,0,0,NA,NA,NA,NA,21,27,graduate students,Dartmouth College,US
+Fuentes,Salvador,2020,NeuroImage: Clinical,Fuentes_2020_NeurolmageClin,1,50,23,0,0,0,0,NA,NA,NA,NA,NA,NA,Graduates or undergraduates,hospitals and communities,"Barcelona, Spain"
+Furuichi,Suzuki,2019,Asian Journal of Psychiatry,Furuichi_2019_AsianJPsychiatr,1,30,14,NA,NA,NA,NA,27,27.5,NA,NA,NA,NA,NA,hospitals; communities,"Toyama, Japan"
+Herold,Bermpohl,2015,Brain Struct Funct,Herold_2015_BrainStructFunct,1,28,14,NA,NA,NA,NA,38.57,NA,NA,NA,30,50,NA,NA,"Berlin,Germany"
+Herold,Felix Bermpohl,2017,Journal of Affective Disorders,Herold_2017_JAffectDisord,1,28,8,100%,0,0,0,38.07,33.78,NA,NA,NA,NA,NA,NA,Germany
+Hornung,Derntl,2019,Frontiers in Behavioral Neuroscience,Hornung_2019_FrontBehavNeurosci,1,34,17,100%,0,0,0,33.59,NA,NA,NA,NA,NA,14.65(F); 14.29(M),University,"Aachen, Germany"
+Kedia,Linden,2017,Social Neuroscience,Kedia_2017_SocNeurosci,1,18,18,100%,0,0,0,20.06,NA,NA,NA,NA,NA,NA,NA,"Cardiff, Wales"
+Knyazev,Rudych,2020,Frontiers in Human Neuroscience,Knyazev_2020_FrontHumNeurosci,1,47,26,0,100%,0,0,23.5,NA,NA,NA,NA,NA,"Undergraduates, postgraduates and staff members",University,Russia
+Koski,Beer,2020,NeuroImage,Koski_2020_Neurolmage,1,43,43,39.50%,30.30%,9.30%,20.90%,19.4,NA,NA,NA,NA,NA,NA,University of Texa,"Texas, US"
+Li,Wu,2019,Neuroscience Letters,Li_2019_NeurosciLett,1,40,20,0,100%,0,0,19.55,NA,NA,NA,NA,NA,NA,community,China
+Noll,Fisher,2018,Social Cognitive and Affective Neuroscience,Noll_2018_SocCognAffectNeurosci,1,37,37,86.50%,5.40%,0,8.10%,31.16,NA,NA,NA,20,43,NA,social media,"Oregon, US"
+Van der Cruijsen,Crone,2017,Brain and Cognition,Van_2017_BrainandCogn,1,30,15,NA,NA,NA,NA,22.6,NA,NA,NA,20,24,NA,NA,"Leiden, The Netherlands"
+Yamawaki,Tsukiura,2017,Human Brain Mapping,Yamawaki_2017_HumBrainMapp,1,19,9,0,100%,0,0,22.5,NA,NA,NA,NA,NA,Graduates or undergraduates,University,Japan
+Yaoi,Osaka,2015,Frontiers in Human Neuroscience,Yaoi_2015_FrontHumNeurosci,1,18,4,NA,NA,NA,NA,23.3,NA,NA,NA,NA,NA,NA,NA,"Kyoto, Japan"
+Yin,Egner,2021,The Journal of Neuroscience,Yin_2021_JNeurosci,1,28,11,NA,NA,NA,NA,20.47,NA,NA,NA,NA,NA,NA,NA,China
+Wade-Bohleber,Richter,2019,Behavioural Brain Research,Wade-Bohleber_2019_BehavBrainRes,1,35,27,NA,NA,NA,NA,33.85,NA,NA,NA,NA,NA,13.71,"University, Internet, hospital","Zurich, Switzerland"
+Wang,Sui,2016,Frontiers in Psychology,Wang_2016_FrontPsychol,1,27,16,0,100%,0,0,22.3,NA,NA,NA,19,30,NA,NA,"Beijing, China"
+Park,An,2020,Australian & New Zealand Journal of Psychiatry,Park_2020_AustNZJPsychiatry,1,50,19,NA,NA,NA,NA,21.6,21.8,NA,NA,NA,NA,13(Unhealthy); 14.5(Healthy),"Internet, program","Seoul, Korea"
+Zhang,Meer,2015,NeuroImage,Zhang_2015_Neurolmage,1,55,28,NA,NA,NA,NA,29.95,38.72,NA,NA,NA,NA,"6(BD), 5.65(SZ), 5.76(HCs)",NA,The Netherlands
+Benoit,Burgess,2010,NeuroImage,Benoit_2010_Neurolmage,1,13,5,100%,0,0,0,24.2,NA,NA,NA,19.4,31,NA,NA,NA
+Cikara,Saxe,2014,Neuroimage,Cikara_2014_Neuroimage,1,21,11,NA,NA,NA,NA,23.1,NA,NA,NA,NA,NA,NA,University,US
+D'Argembeau,Salmon,2007,J Cogn Neurosci,D'Argembeau_2007_JCognNeurosci,1,17,11,NA,NA,NA,NA,23,NA,NA,NA,NA,NA,NA,University of Liege,"Belgium,France"
+Fossati,Mayberg,2003,Am J Psychiatry,Fossati_2003_AmJPsychiatry,1,10,7,NA,NA,NA,NA,25.8,NA,NA,NA,NA,NA,17.9,University of Toronto community,
+Gutchess,Schacter,2007,Social Neuroscience,Gutchess_2007_SocNeurosci,1,36,21,NA,NA,NA,NA,,NA,23,72,"18(young), 61(elderly)","28(young), 80(elderly)","15.84(young), 15.35(elderly)",NA,US
+Gutchess,Schacter,2010,Social Neuroscience,Gutchess_2010_SocNeurosci,1,32,19,NA,NA,NA,NA,,NA,23.34,71.6,"18(young), 61(elderly)","28(young), 80(elderly)",NA,NA,US
+Han,Ma,2008,Social Neuroscience,Han_2008_SocNeurosci-UK,1,28,14,0,100%,0,0,23.05,NA,NA,NA,19,41,NA,NA,"Beijing, China"
+Han,Ma,2010,Social Cognitive and Affective Neuroscience,Han_2010_SocCognAffectNeurosci,1,14,7,0,100%,0,0,25.4,NA,NA,NA,21,31,college,NA,"Beijing, China"
+Heatherton,Kelley,2006,SCAN,Heatherton_2006_SCAN,1,30,16,NA,NA,NA,NA,24,NA,NA,NA,18,31,NA,community,US
+Jenkins,Mitchell,2011,Soc Neurosci,Jenkins_2011_SocNeurosci,1,15,10,100%,0,0,0,21.2,NA,NA,NA,19,32,NA,NA,USA
+Kelly,Heatherton,2002,Journal of Cogntive Neuroscience,Kelly_2002_JCognNeurosci,1,21,9,100%,0,0,0,20,NA,NA,NA,18,30,NA,community,America
+Lombardo,Baron-Cohen,2010,Brain,Lombardo_2010_Brain,1,59,0,NA,NA,NA,NA,27.97,26.59,NA,NA,18(Healthy); 18 (Autism),42(Healthy); 41 (Autism),NA,NA,UK
+Lou,Lisanby,2004,PNAS,Lou_2004_PNAS,1,13,7,100%,0,0,0,27,NA,NA,NA,20,38,NA,NA,Danish
+Ma,Han,2011,Brain,Ma_2011_Brain_exp1,1,23,12,0,100%,0,0,22,NA,NA,NA,18,28,NA,University,"Beijing,China"
+Ma,Han,2011,Brain,Ma_2011_Brain_exp2,1,19,10,0,100%,0,0,23.2,NA,NA,NA,19,28,NA,University,"Beijing,China"
+Ma,Han,2014,SCAN,Ma_2014_Brain,1,60,30,NA,NA,NA,NA,23.85,NA,NA,NA,18 (Chinese); 18 (Danish),28 (Chinese); 28 (Danish),,University,"Chinese, Danish"
+McAdams,Krawczyk,2014,SCAN,McAdams_2014_SCAN,1,37,37,NA,NA,NA,NA,24.5,26.1,NA,NA,18 (Healthy); 18 (Recover from anorexia),39 (Healthy); 40 (Recover from anorexia),15.8 (Healthy); 14.9 (Recover from anorexia),NA,"Texas, us"
+Modinos,?leman,2009,PLoS One,Modinos_2009_PLoSOne,1,16,6,100%,0,0,0,20.8,NA,NA,NA,18,27,university students,University,"Groningen, the Nertherlands"
+Modinos,Aleman,2011,Neuropsychology,Modinos_2011_Neuropsychology,1,36,16,NA,NA,NA,NA,20.3,NA,NA,NA,NA,NA,NA,NA,The Netherlands
+Moran,Gabrieli,2011,Journal of Cognitive Neuroscience,Moran_2011_JCognNeurosci,1,21,13,NA,NA,NA,NA,24.3,NA,NA,NA,19,41,NA,NA,American
+Ochsner,D¡¯Esposito,2005,Neuroimage,Ochsner_2005_Neuroimage,1,17,9,NA,NA,NA,NA,29,NA,NA,NA,NA,NA,NA,University,"California, US"
+,,,,Ochsner_2005_Neuroimage,1,16,9,NA,NA,NA,NA,22.95,NA,NA,NA,NA,NA,NA,University,"Standford, US"
+Pauly,Habel,2013,SCAN,Pauly_2013_SCAN,1,24,12,100%,0,0,0,33.84,NA,NA,NA,NA,NA,NA,NA,German
+Pauly,Habel,2014,SCAN,Pauly_2014_SCAN,2,26,12,NA,NA,NA,NA,34.46,36.23,NA,NA,NA,NA,NA,NA,Germany
+Pfeifer,Dapretto,2007,Journal of Cognitive Neuroscience,Pfeifer_2007_JCognNeurosci,1,24,12,100%,0,0,0,26.1,NA,NA,NA,23.0(adults),31.7(adults),"NA, graduate students",Internet: mails and flyers,Los Angeles
+Powell,Mitchell,2010,J Cogn Neurosci,Powell_2010_JCognNeurosci_exp2,1,13,9,100%,0,0,0,20,NA,NA,NA,18,24,NA,NA,NA
+Powell,Mitchell,2010,J Cogn Neurosci,Powell_2010_JCognNeurosci_exp3,1,18,8,100%,0,0,0,20,NA,NA,NA,18,31,NA,NA,NA
+Sarsam,Kinderman,2013,PLoS One,Sarsam_2013_PLoSOne,1,14,NA,100%,0,0,0,26.4,NA,NA,NA,18,65,15(3),hospital; community,"Liverpool, United Kingdom"
+Schmitz,Johnson,2004,Neuroimage,Schmitz_2004_Neuroimage,1,18,NA,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,16,University,"Madison,USA"
+Sul,Kang,2011,Social Neuroscience,Sul_2011_Soc Neurosci-UK,1,19,10,0,100%,0,0,24,NA,NA,NA,21,29,college students,NA,Korea
+Van,Vink,2010,Human Brain Mapping,Van_2010_HumBrainMapp,1,19,11,100%,0,0,0,21.5,NA,NA,NA,NA,NA,NA,University,"Utrecht, the Nertherlands"
+Buuren,Kahn,2012,Schizophrenia Research,Vanderwal_2008_Neuroimage,1,50,32,NA,NA,NA,NA,4.46,NA,NA,NA,NA,NA,Own education: 6.3 (Healthy); 6.1 (Unaffected siblings),database of the Genetic Risk and Outcome of Psychosis,The Netherlands
+Vanderwal,Schultz,2008,Neuroimage,Vanderwal_2008_Neuroimage,1,17,7,NA,NA,NA,NA,21.5,NA,NA,NA,NA,NA,NA,University,US
+Wang,Han,2012,Social Cognitive and Affective Neuroscience,Wang_2012_Soc CognAffectNeurosci,1,32,16,0,100%,0,0,22.7,NA,NA,NA,19,27,,University,"Beijing,China"
+Wu,Zhang,2010,Soc Cogn Affect Neurosci,Wu_2010_SCAN,1,31,15,0,100%,0,0,Han:20.1,NA,NA,NA,"Han:18,Tibetan:17","Han:23,Tibetan:22",NA,University,"Beijing,China"
+Yang,Zhang,2012,Neuropsychologia,Yang_2012_Neuropsychologia,1,17,8,0,100%,0,0,22.4,NA,NA,NA,NA,NA,,University,China
+W. Yang,Q.Zhang,2013,PLoS One,Yang_2013_PLoSOne,1,25,14,0,100%,0,0,22.5,NA,NA,NA,19,24,undergraduate students,University,"Chongqing, China"
+Yoshimura,Yamawaki,2009,Brain and Cognition,Yoshimura_2009_BrainCogn,1,15,8,0,100%,0,0,23.3,NA,NA,NA,NA,NA,NA,NA,Japan
+Zhang,Y.Zhu,2006,Sci China C Life Sci,Zhang_2006_SciChinaLifeSci_exp1,1,7,3,0,100%,0,0,20.4,NA,NA,NA,18,22,undergraduate students,University,"Beijing, China"
+Zhang,Y.Zhu,2006,Sci China C Life Sci,Zhang_2006_SciChinaLifeSci_exp2,1,7,4,0,100%,0,0,20.4,NA,NA,NA,18,22,undergraduate students,University,"Beijing, China"
+Y. Zhu,Han,2007,NeuroImage,Y. Zhu_2007_Neuroimage,1,26,10,38.46%,50%,7.69%,3.85%,22.3,NA,NA,NA,NA,NA,2â€? years university,University,"Beijing,China"
+L. Zhu,Yang,2012,Hippocampus,L.Zhu_2012_Hippocampus,1,14,10,0,100%,0,0,22.64,NA,NA,NA,20,30,NA,University,"Shanghai,China"
+Zeng,Yang,2021,Journal of Personality,Zeng_2021_JournalPers,,50,27,0,100%,0,0,20.16,NA,NA,NA,18,24,NA,University,China
+Long,Cunningham,2020,Cortex,Long_2020_Cortex,,,12,16%,52%,8%,24%,19.7,NA,NA,NA,18,31,NA,NA,"Toronto, Canada"
+Laurita,Spreng,2020,Social Cognitive and Affective Neuroscience,Laurita_2020_SocCognAffectNeurosci,,56,28,NA,NA,NA,NA,,NA,24,67,29(Young); 27(old),29(Young); 27(old),29(Young); 27(old),NA,US
+Fields,Kuperberg,2019,Social Cognitive and Affective Neuroscience,Fields_2019_SocCognAffectNeurosci,,17,17,0,5.88%,0,94.12%,20.7,NA,NA,NA,18,23,NA,University,"Massachusetts, US"
+Martial,D'Argembeau,2018,Brain and Cognition,Martial_2018_BrainCogn,,20,12,NA,NA,NA,NA,22,NA,NA,NA,19,26,NA,University,France
+Oetken,Pohl,2017,Neuropsychologia,Oetken_2017_Neuropsychologia,,20,11,NA,NA,NA,NA,26.5,NA,NA,NA,21,42,NA,NA,"Aachen, German"
+Yang,Han,2016,Nature,Yang_2016_Nature,,25,12,0,100%,0,0,20.1,NA,NA,NA,NA,NA,NA,University,"Chongqing, China"
+McAdams,Krawczyk,2016,Social Cognitive and Affective Neuroscience,McAdams_2016_SocCognAffectNeurosci,,59,59,NA,NA,NA,NA,27.9,28.6,NA,NA,20,45,NA,"on-campus flyers, referrals, websites",US

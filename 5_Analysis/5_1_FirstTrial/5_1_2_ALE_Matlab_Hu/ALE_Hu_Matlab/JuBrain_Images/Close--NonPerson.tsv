@@ -1,0 +1,91 @@
+Image: Close--NonPerson [u=0.0, k=0]
+
+Cluster 1 	97 vox	 -14	+48	+0
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area p32	75.4	5.1
+Area Fp2	20.2	2.4
+Area p24c	0.1	0.0
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area p32	55.5	30.3	1.83	1.78	1.89
+Area Fp2	29.4	32.2	0.91	0.86	0.97
+Area s32	6.8	19.8	0.34	0.31	0.38
+Area p24c	11.9	19.4	0.61	0.53	0.68
+Area p24ab	0.8	20.4	0.04	0.01	0.07
+Area s24	0.8	22.5	0.04	0.01	0.06
+
+Top probabilites at peak voxels	Union across peaks
+Area p32	1.0
+Area Fp2	1.0
+Area s32	0.1
+Area p24c	0.0
+
+Probabilities at local maxima	-14.0 / +48.0 / +0.0 (Height: 2.3)	-4.0 / +54.0 / -8.0 (Height: 2.2)	-14.0 / +48.0 / -4.0 (Height: 2.2)	-8.0 / +54.0 / -12.0 (Height: 2.1)	-10.0 / +50.0 / -8.0 (Height: 2.1)	-12.0 / +56.0 / +4.0 (Height: 1.9)
+Area p32	77.4	25.8	55.9	9.1	59.1	55.7
+Area Fp2	0.0	69.4	0.0	71.7	15.7	31.9
+Area s32	4.3	0.0	9.4	0.0	0.6	0.0
+Area p24c	0.0	0.0	0.0	0.0	0.0	0.0
+
+
+Reference List
+
+Area Fp2
+S. Bludau, S.B. Eickhoff, H. Mohlberg, S. Caspers, A.R. Laird, P.T. Fox, A. Schleicher, K. Zilles, K. Amunts. Cytoarchitecture, probability maps and functions of the human frontal pole. NeuroImage, 93: 260-275, 2014.
+
+Area s32
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p24c
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area s24
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p32
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area p24ab
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+
+
+
+Cluster 2 	53 vox	 +2	+40	+12
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area p24ab	59.4	7.6
+Area p24c	21.9	2.6
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area p24ab	57.1	20.4	2.80	2.68	2.92
+Area p24c	35.1	19.4	1.81	1.70	1.92
+Area p32	8.7	30.3	0.29	0.26	0.32
+Area 33	5.7	17.5	0.32	0.27	0.39
+
+Top probabilites at peak voxels	Union across peaks
+Area p24ab	0.9
+Area p24c	0.1
+
+Probabilities at local maxima	+2.0 / +40.0 / +12.0 (Height: 2.5)
+Area p24ab	86.0
+Area p24c	13.1
+
+
+Reference List
+
+Area p24c
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area p32
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area 33
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p24ab
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+
+
+

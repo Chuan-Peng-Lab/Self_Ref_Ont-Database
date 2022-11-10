@@ -1,0 +1,42 @@
+// Reference=MNI
+// Gutchess, 2007: self>other(young,elderly)
+// subjects=36
+-8	60	4
+-8	46	-2
+-6	28	-6
+-22	50	24
+-2	-18	42
+-70	-40	22
+-60	-44	16
+-48	-44	8
+-2	-8	4
+
+// Gutchess, 2007: other>self(young,elderly)
+// subjects=36
+10	-76	-2
+4	-88	12
+-68	-8	-18
+
+// Gutchess, 2007: self.young>other.young
+// subjects=19
+-4	34	14
+-6	40	0
+-4	12	4
+-68	-48	22
+-56	-48	18
+-24	54	24
+28	52	42
+-26	38	42
+
+// Gutchess, 2007: other.young>self.young
+// subjects=19
+18	-80	0
+12	-68	-6
+-6	-88	20
+-36	-10	-26
+-56	-16	-22
+-44	-22	22
+-48	-22	36
+62	-12	20
+-26	-32	-22
+56	-4	20

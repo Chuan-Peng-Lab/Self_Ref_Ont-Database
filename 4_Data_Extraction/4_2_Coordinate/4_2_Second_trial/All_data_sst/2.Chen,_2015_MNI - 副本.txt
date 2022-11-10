@@ -1,0 +1,35 @@
+// Reference=MNI
+// Chen, 2015: self>mother(all participants at Time 1)
+// Subjects = 27
+9	-48	45
+-9	-39	45
+0	51	-3
+45	-84	18
+-48	-18	-30
+60	-24	18
+9	-21	9
+-63	-39	18
+-60	-51	-18
+30	30	36
+-9	-6	69
+
+// Chen, 2015: self>mother(in the Less-Eastern group than in the More-Eastern group at Time 1)
+// Subjects = 13
+-21	-72	-12
+-24	-63	-15 
+    
+// Chen, 2015: self>mother(in the Less-Eastern group than in the More-Eastern group at  Time 2)
+// Subjects = 13
+15	48	-3
+-9	51	-3
+-18	-66	39
+-6	-3	36
+9	6	33
+63	-51	15
+48	0	-24
+-48	-75	6
+42	-27	39
+42	-42	36
+60	-9	12
+-57	-36	15
+-54	-45	27      

@@ -1,0 +1,27 @@
+﻿Variable_Name,变量名称,Variable_description,变量说明,Variable_value,变量值,Variable_category,变量类型
+First Author,第一作者,the first named author of the article,署名排在第一位的作者,NA,NA,categorical,分类数据
+Last Author,最后作者,the last named author of the article,署名排在最后一位的作者,NA,NA,categorical,分类数据
+Year,年份,the year when the article is published,期刊发表的年份,NA,NA,numeric,数值数据
+Journal,期刊,the journal the article is publilshed,期刊名称,NA,NA,categorical,分类数据
+Article_ID,文章_编号,the ID of the article,文章编号,Author_Year_Journal,作者_年份_期刊,categorical,分类数据
+Study,研究,order of independent studies contained in one paper,文章中独立研究的顺序,"1, 2","1, 2",numeric,数值数据
+Sample_Size,样本_数量,number of samples,样本量,NA,NA,numeric,数值数据
+Number_of_Female,女性数量,number of female participants,女性参与者数量,NA,NA,numeric,数值数据
+Ethnicity/Race_Caucasian,种族_高加索人,"people who come from Europe, America, and western Asia1",来自于欧洲，美洲，西亚的人1,NA,NA,numeric,数值数据
+Ethnicity/Race_Mongoloid,种族_蒙古人,people who come from Asia2,来自于亚洲的人2,NA,NA,numeric,数值数据
+Ethnicity/Race_Negroid,种族_黑人,people who come from African countries below the Sahara desert3,来自于撒哈拉沙漠以南非洲国家的人3,NA,NA,numeric,数值数据
+Ethnicity/Race_Other,种族_其他,people who come from other places,来自于其他地方的人,NA,NA,numeric,数值数据
+Group,组别,groups that participants are divided into,参与者的组别,"healthy, unhealthy; young, old; bipolar, schizophrenia, healthy",健康人群，不健康人群；年轻人，老年人；双相型障碍，精神分裂，健康人群,categorical,分类数据
+Age_mean,年龄_平均数,the mean of age,年龄的平均值,NA,NA,numeric,数值数据
+Age_min,年龄_最小值,the minimum age,年龄最小值,NA,NA,numeric,数值数据
+Age_max,年龄_最大值,the maximum age,年龄最大值,NA,NA,numeric,数值数据
+Education,教育,years of education,受教育的年份,NA,NA,numeric,数值数据
+Recruitment_Channel,招募_渠道,the channels of recruitment,招募被试的渠道,NA,NA,categorical,分类数据
+Data_Collection_Location,数据_收集_地点,the location data is collected,收集数据的地点,"Province/State, Country",省份/州，国家,categorical,分类数据
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Reference:,,,,,,,
+"[1] Wikimedia Foundation. (2022, August 6). Caucasian race. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Caucasian_race",,,,,,,
+"[2] Wikimedia Foundation. (2022, September 11). Mongoloid. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Mongoloid",,,,,,,
+"[3] Wikimedia Foundation. (2022, September 1). Negroid. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Negroid",,,,,,,

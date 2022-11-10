@@ -1,0 +1,230 @@
+Image: Celebrity--Close [u=0.0, k=0]
+
+Cluster 1 	134 vox	 -18	+46	+48
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+
+Top probabilites at peak voxels	Union across peaks
+
+Probabilities at local maxima
+
+
+Reference List
+
+
+
+
+Cluster 2 	97 vox	 -10	+38	+2
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area p24ab	69.2	16.3
+Area p24c	18.6	4.0
+Area 33	2.7	0.7
+Area p32	0.9	0.1
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area p24ab	46.6	20.4	2.28	2.22	2.35
+Area p24c	23.6	19.4	1.22	1.15	1.30
+Area 33	14.9	17.5	0.85	0.79	0.89
+Area p32	11.0	30.3	0.36	0.33	0.39
+Area s24	3.9	22.5	0.17	0.15	0.21
+Area s32	1.2	19.8	0.06	0.04	0.09
+
+Top probabilites at peak voxels	Union across peaks
+Area p24ab	0.6
+Area p24c	0.5
+Area p32	0.4
+Area 33	0.3
+Area s24	0.1
+Area s32	0.0
+
+Probabilities at local maxima	-10.0 / +38.0 / +2.0 (Height: 2.4)	-8.0 / +36.0 / +8.0 (Height: 2.3)	-4.0 / +42.0 / -6.0 (Height: 1.7)
+Area p24ab	17.9	26.7	30.6
+Area p24c	36.9	17.2	12.4
+Area p32	0.0	0.0	36.4
+Area 33	9.3	22.5	0.0
+Area s24	0.0	0.0	11.8
+Area s32	0.0	0.0	1.0
+
+
+Reference List
+
+Area s32
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p24c
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area s24
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p32
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area 33
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p24ab
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+
+
+
+Cluster 3 	87 vox	 +0	+58	+4
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area Fp2	26.9	2.9
+Area p32	26.0	1.6
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area Fp2	62.5	32.2	1.94	1.81	2.06
+Area p32	44.9	30.3	1.48	1.39	1.58
+Area p24ab	4.6	20.4	0.23	0.17	0.28
+Area Fp1	7.1	39.1	0.18	0.13	0.23
+Area p24c	1.8	19.4	0.09	0.04	0.14
+
+Top probabilites at peak voxels	Union across peaks
+Area p32	0.9
+Area Fp2	0.0
+Area p24ab	0.0
+
+Probabilities at local maxima	-2.0 / +54.0 / +14.0 (Height: 2)	-4.0 / +54.0 / +8.0 (Height: 1.8)
+Area p32	75.7	64.2
+Area Fp2	0.0	2.5
+Area p24ab	0.0	0.2
+
+
+Reference List
+
+Area Fp2
+S. Bludau, S.B. Eickhoff, H. Mohlberg, S. Caspers, A.R. Laird, P.T. Fox, A. Schleicher, K. Zilles, K. Amunts. Cytoarchitecture, probability maps and functions of the human frontal pole. NeuroImage, 93: 260-275, 2014.
+
+Area Fp1
+S. Bludau, S.B. Eickhoff, H. Mohlberg, S. Caspers, A.R. Laird, P.T. Fox, A. Schleicher, K. Zilles, K. Amunts. Cytoarchitecture, probability maps and functions of the human frontal pole. NeuroImage, 93: 260-275, 2014.
+
+Area p24c
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area p32
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+Area p24ab
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+
+
+
+Cluster 4 	40 vox	 -58	-54	+20
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area PFm (IPL)	19.4	0.5
+Area PGa (IPL)	6.9	0.2
+Area PF (IPL)	1.6	0.0
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area PGa (IPL)	17.5	20.5	0.85	0.78	0.93
+Area PFm (IPL)	15.4	21.7	0.71	0.64	0.78
+Area PF (IPL)	11.1	20.7	0.54	0.46	0.61
+Area PFcm (IPL)	1.3	17.8	0.07	0.04	0.10
+Area PGp (IPL)	0.6	25.1	0.02	0.02	0.04
+Area TE 3	0.1	24.0	0.00	0.00	0.01
+
+Top probabilites at peak voxels	Union across peaks
+Area PGa (IPL)	0.4
+Area PFm (IPL)	0.2
+Area PF (IPL)	0.1
+Area PGp (IPL)	0.0
+
+Probabilities at local maxima	-58.0 / -54.0 / +20.0 (Height: 2.1)	-64.0 / -50.0 / +18.0 (Height: 1.9)
+Area PGa (IPL)	40.0	6.9
+Area PFm (IPL)	1.4	15.6
+Area PF (IPL)	0.0	11.4
+Area PGp (IPL)	1.1	0.0
+
+
+Reference List
+
+Area PFm (IPL)
+S. Caspers, S. Geyer, A. Schleicher, H. Mohlberg, K. Amunts, K. Zilles. The human inferior parietal cortex: Cytoarchitectonic parcellation and interindividual variability. Neuroimage 33 (2): 430-448, 2006. 
+S. Caspers, S. B. Eickhoff, S. Geyer, F. Scheperjans, H. Mohlberg, K. Zilles, K. Amunts. The human inferior parietal lobule in stereotaxic space. Brain Structure and Function 212 (6): 481-495, 2008.
+
+Area PGp (IPL)
+S. Caspers, S. Geyer, A. Schleicher, H. Mohlberg, K. Amunts, K. Zilles. The human inferior parietal cortex: Cytoarchitectonic parcellation and interindividual variability. Neuroimage 33 (2): 430-448, 2006. 
+S. Caspers, S. B. Eickhoff, S. Geyer, F. Scheperjans, H. Mohlberg, K. Zilles, K. Amunts. The human inferior parietal lobule in stereotaxic space. Brain Structure and Function 212 (6): 481-495, 2008.
+
+Area PGa (IPL)
+S. Caspers, S. Geyer, A. Schleicher, H. Mohlberg, K. Amunts, K. Zilles. The human inferior parietal cortex: Cytoarchitectonic parcellation and interindividual variability. Neuroimage 33 (2): 430-448, 2006. 
+S. Caspers, S. B. Eickhoff, S. Geyer, F. Scheperjans, H. Mohlberg, K. Zilles, K. Amunts. The human inferior parietal lobule in stereotaxic space. Brain Structure and Function 212 (6): 481-495, 2008.
+
+Area PFcm (IPL)
+S. Caspers, S. Geyer, A. Schleicher, H. Mohlberg, K. Amunts, K. Zilles. The human inferior parietal cortex: Cytoarchitectonic parcellation and interindividual variability. Neuroimage 33 (2): 430-448, 2006. 
+S. Caspers, S. B. Eickhoff, S. Geyer, F. Scheperjans, H. Mohlberg, K. Zilles, K. Amunts. The human inferior parietal lobule in stereotaxic space. Brain Structure and Function 212 (6): 481-495, 2008.
+
+Area PF (IPL)
+S. Caspers, S. Geyer, A. Schleicher, H. Mohlberg, K. Amunts, K. Zilles. The human inferior parietal cortex: Cytoarchitectonic parcellation and interindividual variability. Neuroimage 33 (2): 430-448, 2006. 
+S. Caspers, S. B. Eickhoff, S. Geyer, F. Scheperjans, H. Mohlberg, K. Zilles, K. Amunts. The human inferior parietal lobule in stereotaxic space. Brain Structure and Function 212 (6): 481-495, 2008.
+
+Area TE 3
+P. Morosan, J. Rademacher, N. Palomero-Gallagher, and K. Zilles. Anatomical organization of the human auditory cortex: Cytoarchitecture and transmitter receptors. In: The auditory cortex: Towards a synthesis of human and animal research, edited by R. K?nig, P. Heil, E. Budinger, and H. Scheich, Mahwah, New Jersey:Lawrence Erlbaum, 2005, p. 27-50.
+
+
+
+
+Cluster 5 	15 vox	 +6	+54	-10
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+Area Fp2	75.8	1.4
+Area p32	22.5	0.2
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area Fp2	51.9	32.2	1.61	1.55	1.68
+Area p32	30.6	30.3	1.01	0.91	1.11
+Area s32	0.3	19.8	0.02	0.01	0.02
+
+Top probabilites at peak voxels	Union across peaks
+Area p32	0.4
+Area Fp2	0.4
+Area s32	0.0
+
+Probabilities at local maxima	+6.0 / +54.0 / -10.0 (Height: 1.9)
+Area p32	44.5
+Area Fp2	42.9
+Area s32	0.0
+
+
+Reference List
+
+Area Fp2
+S. Bludau, S.B. Eickhoff, H. Mohlberg, S. Caspers, A.R. Laird, P.T. Fox, A. Schleicher, K. Zilles, K. Amunts. Cytoarchitecture, probability maps and functions of the human frontal pole. NeuroImage, 93: 260-275, 2014.
+
+Area s32
+Palomero-Gallagher N, Eickhoff1 SB, Hoffstaedter F, Schleicher A, Mohlberg H, Vogt BA, Amunts K, Zilles K. Functional organization of human subgenual cortical areas: relationship between architectonical segregation and connectional heterogeneity. NeuroImage 115, 177-190, 2015.
+
+Area p32
+Palomero-Gallagher N, Hoffstaedter F, Mohlberg H, Eickhoff SB, Amunts K, Zilles K. (2018) Human pregenual anterior cingulate cortex: structural, functional and connectional heterogeneity. Cerebral Cortex. doi: 10.1093/cercor/bhy124.
+
+
+
+
+Cluster 6 	14 vox	 -22	+54	+28
+
+Assignment based on Maximum Probability Map	Percent of Cluster volume in Area	Percent of Area activated by Cluster
+
+Probability exceedance by Area	Mean probability at Cluster location (%)	Mean probability across PMap (%)	Ratio	95% CI	95% CI
+Area Fp1	0.2	39.1	0.00	0.00	0.01
+
+Top probabilites at peak voxels	Union across peaks
+
+Probabilities at local maxima
+
+
+Reference List
+
+Area Fp1
+S. Bludau, S.B. Eickhoff, H. Mohlberg, S. Caspers, A.R. Laird, P.T. Fox, A. Schleicher, K. Zilles, K. Amunts. Cytoarchitecture, probability maps and functions of the human frontal pole. NeuroImage, 93: 260-275, 2014.
+
+
+
+

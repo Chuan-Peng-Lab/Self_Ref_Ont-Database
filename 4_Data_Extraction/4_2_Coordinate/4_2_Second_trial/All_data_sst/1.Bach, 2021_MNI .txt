@@ -1,0 +1,6 @@
+// Reference=MNI
+// Bach, 2021, self > familiar + unknown person( 13female， mean=23.3,SD=4) 
+// Subjects=29
+-42	12	-2
+30	24	6
+4	28	26

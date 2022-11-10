@@ -1,0 +1,157 @@
+First Author,,,Bach,Chen,Fuentes-Claramonte,Furuichi,Herold,Dorrit Herold,Hornung,Kedia,Knyazev,Koski,Li,Noll,Van der Cruijsen,Yamawaki,Yaoi,Yin,Wade-Bohleber,Wang,Park,Zhang,Benoit,Cikara,D'Argembeau,Fossati,Gutchess,Gutchess,Han,Han,Heatherton,Jenkins,Kelly,Lombardo,Lou,Ma,Ma,Ma,McAdams,Modinos,Modinos,Moran,Ochsner,,Pauly,Pauly,Pfeifer,Powell,Powell,Sarsam,Schmitz,Sul,Van,Buuren,Vanderwal,Wang,Wu,Yang,W. Yang,Yoshimura,Zhang,Zhang,Y. Zhu,L. Zhu,Zeng,Long,Laurita,Fields,Martial,Oetken,Yang,McAdams
+Last Author,,,Leménager1,Heatherton,Salvador,Suzuki,Bermpohl,Felix Bermpohl,Derntl,Linden,Rudych,Beer,Wu,Fisher,"Crone,",Tsukiura,Osaka,Egner,Richter,Sui,An,Meer,Burgess,Saxe,Salmon,Mayberg,Schacter,Schacter,Ma,Ma,Kelley,Mitchell,Heatherton,Baron-Cohen,Lisanby,Han,Han,Han,Krawczyk,Áleman,Aleman,Gabrieli,D’Esposito,,Habel,Habel,Dapretto,Mitchell,Mitchell,Kinderman,Johnson,Kang,Vink,Kahn,Schultz,Han,Zhang,Zhang,Q.Zhang,Yamawaki,Y.Zhu,Y.Zhu,Han,Yang,Yang,Cunningham,Spreng,Kuperberg,D'Argembeau,Pohl,Han,Krawczyk
+Year,,,2021,2015,2020,2019,2015,2017,2019,2017,2020,2020,2019,2018,2017,2017,2015,2021,2019,2016,2020,2015,2010,2014,2007,2003,2007,2010,2008,2010,2006,2011,2002,2010,2004,2011,2011,2014,2014,2009,2011,2011,2005,,2013,2014,2007,2010,2010,2013,2004,2011,2010,2012,2008,2012,2010,2012,2013,2009,2006,2006,2007,2012,2021,2020,2020,2019,2018,2017,2016,2016
+Journal,,,European Archives of Psychiatry and Clinical Neuroscience,Cult Brain,NeuroImage: Clinical,Asian Journal of Psychiatry,Brain Struct Funct,Journal of Affective Disorders,Frontiers in Behavioral Neuroscience,Social Neuroscience,Frontiers in Human Neuroscience,NeuroImage,Neuroscience Letters,Social Cognitive and Affective Neuroscience,Brain and Cognition,Human Brain Mapping,,The Journal of Neuroscience,Behavioural Brain Research,Frontiers in Psychology,Australian & New Zealand Journal of Psychiatry,NeuroImage,NeuroImage,Neuroimage,J Cogn Neurosci,Am J Psychiatry,Social Neuroscience,Social Neuroscience,Social Neuroscience,Social Cognitive and Affective Neuroscience,SCAN,Soc Neurosci,Journal of Cogntive Neuroscience,Brain,PNAS,Brain,Brain,SCAN,SCAN,PLoS One,Neuropsychology,Journal of Cognitive Neuroscience,Neuroimage,,SCAN,SCAN,Journal of Cognitive Neuroscience,J Cogn Neurosci,J Cogn Neurosci,PLoS One,Neuroimage,Social Neuroscience,Human Brain Mapping,Schizophrenia Research,Neuroimage,Social Cognitive and Affective Neuroscience,Soc Cogn Affect Neurosci,Neuropsychologia,PLoS One,Brain and Cognition,Sci China C Life Sci,Sci China C Life Sci,NeuroImage,Hippocampus,Journal of Personality,Cortex,Social Cognitive and Affective Neuroscience,Social Cognitive and Affective Neuroscience,Brain and Cognition,Neuropsychologia,Nature,Social Cognitive and Affective Neuroscience
+Study,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1/1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1/2,2/2,1,1,1,1,1,1/2,2/2,1,1,1,1/2,2/2,1/1,1/1,2,1,1,1,1/1,1/1,1,1/1,1,1/2,2/2,1/1,1/1,1,1,1,1,1,1,1,1
+Article_ID,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Result_encoding/other,RT,Notes,NA,NA,NA,NA,NA,,NA,self: self-other; other_1 = familiar-other,Mean(SD),,"Mean(SD): 1PP, 3PP",self: self condition; other_1: change condition,"When directly comparing self- and mother-traits, we found that academic negative (p=.035) and prosocial negative traits (p<.001) were rated to fit better with the self, whereas physical negative (p=.027) and prosocial positive traits (p=.001) were rated to fit better with mother.","Mean(SD): subsequent hit, subsequent miss",,NA,NA,P4 see TABLE 1,NA,P205 | Table 2,Mean(SEM),NA,a main effect of perspective,n=6,P121 | Figure 2,NA,"Mean(SD): Non-religious, Christians",Mean(SD),other_1: friend; other_2: case,,Mean(SD),NA,,NA,NA,NA,See supplementary,Mean,,"Mean(SEM): character, appearence",P800 | Results,P802 | Behavioral data,P881 | RESULTS,NA,NA,"page5table1,conceptual task","page5table1,conceptual task",page5 para2,page4 para7,NA,Mean(SD),,Other_1 = mother; neutral = letter,page4 table1,page4para1,P1268 | Behavioral data,Page4 Table1,"Mean(SD): positive, negative",NA,NA,NA,page3 par2,NA,NA,NA,NA,P25 | Table 1,NA,Figure 2.,NA
+,,self,,,,,,"0.75 (26), p=0.46",,(page 46) Figure 2 | Response times in the different experimental conditions.,"me: 1,400 (604)","Remembered Self :1313.29(185.08)ms
+Forgotten Self:1326.42(200.91)ms","self: 428.0(13.7), 428.8(13.8)",,怎么把上面的内容转化成数字,"self: 2,173.1 (469.0), 2127.1(571.0)",,,,,1981.3 (63.3) ms,"Self_pos   BD: 2.20 (0.35)   SZ: 2.26 (0.34)   HC: 2.06 (0.32) 
+Self_neg   BD: 2.18 (0.29)   SZ: 2.26 (0.30)   HC: 2.03 (0.29) ",self: 1966(79),,1P (M = 1970 ms),"positive:1816(472)ms
+ negative:1824(478)ms",,,"self: 1077(46), 1125(50)",self: 1093(34),1772 (29),2177 ( 219) ms,self: 1812(27),,,NA,NA,,"Self: 2069 (293), 2176 (343)",self: 1917,,"self: 1305.15(32), 1267.24(38)",1322.3 ms,,,self-reference vs. other-reference (Z = -1.05; p = .295),,,,"Positive: 1317(276)ms
+ Neutral:1565(137)ms
+ Negative:1344(251)ms
+  Pos – Neg:87(16)ms",SE:1.79s,,self: 1403(162),,1965ms ± 487,1143 (158)ms,"Han: 877 (19)ms
+ Tibetan:1311 (20)",,NA,"self: 1530.1(255.6), 1517.0(262.4)",NA,NA,NA,"Relevant 1,242 (46)ms
+ Irrelevant 1,319 (51)ms",,,NA,,"general: 1746 (288) 
+specific: 1766 (293)",NA,,"ANC: 2191 (253), AN-WR: 2217 (252),  HC: 2094 (303)"
+,,other_1,,,,,,"-1.12 (26), p=0.27",,,"firend: 1,291 (678)","Remembered Minimally-Related Other:1364.65(195.25)ms
+Remembered Unrelated Other:1465.15(246.39)ms
+Forgotten Minimally-Related  Other:1361.49(180.70)ms
+Forgotten Other:1461.71(229.94)ms","friend: 420.2(15.0), 418.2(15.0)",,,"friend: 2,242.9 (577.6), 2217.0(634.2)",,,,,2109.2 (69.4) ms,"Other_pos   BD: 2.25 (0.37)    SZ:2.31 (0.35)    HC:2.06 (0.39) 
+Other_neg   BD: 2.12 (0.29)   SZ: 2.28 (0.39)    HC:2.07 (0.40)",other:1997(102),,3P (M = 2115 ms),"positive:1584(349)ms
+ negative:1616(218)ms",,,"Sakyamuni: 1091(59), 1217(56)",Sakyamuni: 932(22),1725 (39),2241 ( 212 )ms,Other(Bush): 1881(24),,,NA,NA,,"Friend: 2025 (290), 1966 (355)",Other: 1986,,"mother: 1299.51(39), 1259.01(37)",1367.8 ms,,,self-reference vs. lexical processing (Z = -.50; p = .620),,,,"Positive:1624(281)ms 
+ Neutral:1720(216)ms 
+ Negative:1520(301)ms
+ Pos - Neg:34(30)ms",OE:1.81s,,other(prime minister): 1434(188),,1971ms ± 481,"mother: 1120 (101)
+father:1110 (117)","[mother]
+ Han:872 (19)
+ Tibetan: 1247 (21)",,NA,"other(Prime minister): 1560.6(259.9), 1558.6(233.2)",NA,NA,NA,"Relevant 1,308 (47)ms
+ Irrelevant 1,329 (50)ms",,,NA,,"general: 1747 (302) 
+specific: 1804 (320)",NA,,"ANC: 2062 (278), AN-WR: 2102 (266), HC: 2095 (285)"
+,,other_2,,,,,,,,,"stranger: 1,543 (750)",,"famous: 426.1(15.0), 383.5(15.0)",,,"other: 2,292.4 (584.8), 2285.1(592.8)",,,,,,,,,,,,,"Jesus: 1058(55), 983(46)",Jesus: 950(25),1600 (27),,,,,NA,NA,,"Reflected: 2168 (281), 2145 (373)",,,"Bush: 1444.12(34), 1329.20(39)",,,,,,,,NA,NA,,,,," Best friend: 1150 (114) 
+ Liu-Xiang:1167 (124)","Han:875 (20)
+ Tibetan: 1258 (25)",,NA,"semantic: 1615.8(190.7), 1673.1(163.0)",NA,NA,NA,NA,,,NA,,,NA,,"ANC: 2212 (245), AN-WR: 2151(254),  HC: 2132 (308)"
+,,neutral,,,,,,,,,"unpleasant: 1,650 (850)",,,,,,,,,,,,,,,"positive:1472(291)ms
+ negative:1396(336)ms",,,"Zhu-Rongji: 1081(51), 1040(39)",Zhu-Rongji: 1044(48),,,,,,NA,NA,,,,,,,,,,,,,"Positive:1260(208)ms 
+ Neutral:1248(189)ms 
+ Negative:1245(265)ms",SPE:1.77s,,,,1312ms ± 302,999 (129),"[font]
+ Han: 622 (15)
+ Tibetan: 845 (23)",,NA,,NA,NA,NA,NA,,,NA,,,NA,,
+,,statistics,,,,,,,"(page 6) TABLE 4 | Mean number of assigned attributes across the self- and
+other-conditions (yes-answers) with the standard deviation in brackets","F(1,17) = 9.541, p = .007; η2 = .36).",,,"font: 392.1(14.8), 367.7(14.8)",(page 540) Table 3. Intercorrelations for variables of interest in the full sample,,,(page 4) TABLE 1 | Mean reaction time (RT) and standard deviation (SD) in the evaluation task,,,"F(1,26) = 8.06, p = 0.01",,,syllables:2169(92),"P10 Fself/other(1,20)= 0.88,","F(1,16) = 18.69, p < .001","judgment condition (F=1.87, df=2, 4, n.s.) 
+ valence (F=0.07, df=1, 5, n.s.)","F(1, 34)＞14.51, MSE＞13014.40, p＞.002.",,,Font: 751(22),P21 | Table 1,"F(1, 14) = 14.97, p < .002, d = 1.03",Case: 1607(34),,P 6831 | Table 5,NA,NA,,,Semantic: 1937,P299 | Reaction times,,,,,,,"self trials (M =1739 msec, SD = 137) than other trials (M = 1837 msec,
+ SD = 193) [t(12) = 2.79, p < .05, d = 0.81]","participants were significantly faster to make judgments during self trials (M = 1739 msec, SD =164) than other trials (M = 1884 msec, SD = 244) [t(15) =
+ 3.45, p < .01, d = 0.99]","category F = 40, p<0.0001","F =0.609, P = 0.55",,social desirable: 1299(182),??? Nothing in supplementary,"F [2,50]=17.97, p < .0001",,"main effect of tasks
+ Han: F(3,45) = 84.49, P < 0.01; Tibetan: F(3,42) = 50.96,
+ P < 0.01",,NA,"letter: 1065.5(173.5), 1117.7(155.3)",NA,NA,NA,"was significantly greater than zero in
+ the self-reference task (t(13) = 3.18, P < 0.01)",,,NA,,,NA,,
+,Rating,note,,NA,,"rating should be revised as ""accuracy""",NA,Valence and arousal ratings of stimuli,,,"Only the main effect of task was significant (F(3,138) = 7.7, p < 0.001).",,"there was a significant main effect of condition, F(3, 114) = 19.568, p < 0.001;
+there was also a significant interaction effect of condition and group, F(3, 114) = 4.557, p < 0.01",,,"a significant main effect of encoding condition [F(2,36) 5 6.65, P < 0.01, gp2 5 0.27]",,, self-relevant condition more arousing,,,,"page 4 study phase
+the effect was only significant for the comparison of self and syllables judgments (t(12) =−2.62, p<0.05; other versus syllables: t(12) = −1.85, p<0.09; self versus other: t(12) = −0.72, p = 0.49).",,,,P121 | Figure 2,,page 6 Behavior performance,"page 4 Behavior performance, Para 1",,,"page 2 Behavioral results, para 1",,,NA,NA,,,page 3 Behavioral data,,"page 5, E1, Behavioral results",,,P881 | RESULTS,,,,,,NA,page 7 Bahavioral results,page 6 Bahavioral results,,,‘Yes’ responses (%),NA,,NA,"page 3, 3.1, para 1",NA,NA,NA,NA,P139 | behavioral results,,NA,"proportion of questions unanswered： 3.1%
+accuracy: 91%",,NA,,
+,,self,,NA,,NA,NA,"valence: t(26)=1.03, p=0.31, arousal: t(26)=0.33, p=0.45",,,,"Positive traits :1326.62(177.30)
+Negative traits:1384.90(187.21)
+",,,,,,,5.29,,,,page 4 Table 1,,,,,,,,,,,,,NA,NA,,"Self: 2.53 (0.08), 2.44 (0.15)",,,,,,,,,,,,NA,,,,,50.7 (9.9),NA,,NA,,NA,NA,NA,NA,personal self-worth: 2.87(0.37),,NA,,,NA,,
+,,other_1,,NA,,NA,NA,"valence: t(26)=0.85, p=0.4, arousal: t(26)=-1.5, p=0.15",,,,"""Positive traits :
+Minimally-Related Other:1385.13(189.39)
+Unrelated Other:1464.00(226.69)
+Negative traits:
+Minimally-Related Other:1415.83(193.79)
+Unrelated Other:1453.38(211.63)""",,,,,,,4.44,,,,,,,,,,,,,,,,,NA,NA,,"Friend: 2.49 (0.10), 2.46 (0.13)",,,,,,,,,,,,NA,,,,,"Mother:46.2 (8.1)
+  Father: 44.1 (10.4)",NA,,NA,,NA,NA,NA,NA,relational self-worth: 3.09(0.19),,NA,,,NA,,
+,,other_2,,NA,,NA,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,,"Other: 2.53 (0.07), 2.38 (0.11)",,,,,,,,,,,,NA,,,,,"Best friend: 45.4 (9.0)
+  Liu-Xiang: 44.5 (9.3)",NA,,NA,,NA,NA,NA,NA,collective self-worth: 3.07(0.19),,NA,,,NA,,
+,,statistics,,NA,,"F (1,26) = 7.74, p < 0.05",NA,,,,,,,,,,,location probe match trials,（P788）see Fig. 3,,,,,,,,,,,,,,,P615 | Table 2,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,,"F(2,147) = 10.32, p < 0.001",,NA,,,NA,,
+Retrieval_result,RT,note,,NA,,,NA,,,,no,,,,怎么解读这个数据？ P10 好像和self-other无关,"Mean(SD): hit, miss",,755.76 ( 110.00) ms,,,,,"Mean(SEM):old/same, old/different, new",,,,,,,,,,Mean(SD),,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,"Relevant 2,069 (173)ms
+ Irrelevant 2,448 (316)ms",,P261 | Table 1,,,,,,
+,,Self,,NA,,,NA,,,,,,,,,"self: 1,653.5 (374.0), 1821.5(359.1)",,776.47 ( 108.82) ms,,,,,"self: 1627(55), 1981(74), 1695(88)",,,,,,,,,,self: 1137(31),,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,"Relevant 2,841 (331)
+ Irrelevant 2,621 (250)",,,,,,,,
+,,other_1,,NA,,,NA,,,,,,,,,"friend: 1,664.6 (334.2), 1817.5(357.8)",,800.81 (115.24 )ms,,,,,"other:1821(92), 1951(93), 1680(96)",,,,,,,,,,Other(Bush): 1188(23),,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,,,,,,,,,
+,,other_2,,NA,,,NA,,,,,,,,,"other: 1,727.4 (368.7), 1825.8(409.2)",,,,,,,,,,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,,,,,,,,,
+,,Neutral,,NA,,,NA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,NA,,NA,,NA,NA,NA,"F(1, 13) = 27.34, P <
+ 0.001",,,,,,,,
+,,statistics,,NA,,,NA,,,,,,,,,,,,,,,,"syllables:2004(93), 1983(79), 1753(99)",,,,,,,,,,Case: 1152(24),,,(the proportion of hits minus false alarms),(the proportion of hits minus false alarms),,,,,,,,,,,,,,NA,,,,,"the
+proportion of hits minus false alarms",NA,,mean proportion of old recognition rates for old responses,,"Mean values of total recognition ratio,R and K","Mean values of total recognition ratio,R and K",NA,Hit rate(%),,"(F(1,37) = 459.208, p < .001)",,,,,,
+,Accuracy,note,,NA,,,NA,,,,,( % remembered):,,,,,,,,,,,page 4 test phase,,,,,,,,other_1: friend; other_2: case,,"page 2 Behavioral results, para 2",,,"Visual:0.362 (0.039) 
+ Auditory:0.309 (0.034)",Auditory:0.377 (0.038),,,,,,,,,,,,,,NA,,,,, 44.5 (19.3),NA,,"forget :0.67(0.21)
+ remember :0.76(0.16)",,"Total:0.81(0.15) 
+ Remember:0.72(0.13) 
+ Know:0.08(0.04)","Total:0.85(0.11) 
+ Remember:0.64(0.17) 
+ Know:0.21(0.19)",NA,"Relevant 90.12 (1.48)
+ Irrelevant82.80 (3.00)",,,,,,,,
+,,Self,,NA,,,NA,,,,,"
+Relevant Traits:31.33(9.63)
+Irrelevant Traits:28.26(10.04)
+",,,,,84.2,,,,,,"Mean(SEM):old/same, old/different, new",,,,,,"Mean(SD): Non-religious, Christians",Mean(SD),0.62 (0.04),,"proportion of hits – false alarms, Mean(SD)",,,"Visual:0.310 (0.340) 
+ Auditory:0.220 (0.030)",Auditory:0.354 (0.041),,,,,,,,,,,,,,NA,NA,,,,"father:36.6 (16.3)
+mother: 38.6 (18.2)",NA,,"forget :0.55(0.19)
+ remember :0.67(0.19)","proportion of hits – false alarms, Mean(SD): positive, negative","Total:0.67(0.09) 
+ Remember:0.44(0.19) 
+ Know:0.23(0.14)",,NA,"Relevant 72.63 (3.37)
+ Irrelevant69.07 (3.50)",,,,,,,,
+,,other_1,,NA,,,NA,,,,,"Relevant Traits:
+Minimally-Related Other  24.00(7.62)
+Unrelated Other 21.91(8.94)
+Irrelevant Traits:
+Minimally-Related Other:21.00(10.44)
+Unrelated Other :20.47(11.14)",,,,,64.1,,,,,,"self: 82.2(2.5), 72.7(3.1), 93.5(1.3)",,,,,,"self: 43.4(10.4), 48.3(20.3)",self: 0.57(0.135),0.53 (0.03),,self: 0.49(0.02),,,,,,,,,,,,,,,,,,NA,,,,," Best friend :36.1 (20.3)
+Liu-Xiang:29.2 (16.7)",NA,,NA,"self: 0.68(0.15), 0.57(0.19)",,"Total :0.74(0.16) 
+ Remember: 0.57(0.21) 
+ Know:0.18(0.12)",NA,,,,,,,,,
+,,other_2,,NA,,,NA,,,,,,,,,,,,,,,,"other: 74.2(3.2), 76.2(3.4), 89.4(2.5)",,,,,,"Sakyamuni: 27.7(12.7), 32.5(18.4)",Sakyamuni: 0.45(0.144),0.21 (0.05),,Other(Bush): 0.36(0.03),,,"Visual:0.344 (0.340) 
+ Auditory:0.250 (0.027)",Auditory:0.283 (0.041),,,,,,,,,,,,,,NA,,,,, Font: 7.0 (8.4),NA,,NA,"other(Prime minister): 0.46(0.17), 0.43(0.22)","Total :0.73(0.10) 
+ Remember: 0.50(0.19) 
+ Know:0.23(0.12)","Total :0.78(0.07) 
+ Remember: 0.50(0.15) 
+ Know:0.28(0.16)",NA,,,,,,,,,
+,,Neutral,,NA,,,NA,,,,,,,,,,,,,,,,,,,,,,"Jesus: 31.1(15.1), 37.0(17.9)",Jesus: 0.40(0.179),,,,,,"F(1,22) = 11.25, P = 0.003",NA,,,,,,,,,,,,,,NA,,,,,,NA,,"main effect of the
+ reference type [F (1, 24) = 25.247, P = 0.000, partial η2= 0.473]
+  directed forgetting of self referential information [F (1, 24) = 5.23, P = 0.029, partial
+ η2= 0.140] is smaller than that of other-referential information
+ [F (1, 24) = 33.821, P = 0.000, partial η2= 0.514].","semantic: 0.53(0.13), 0.50(0.18)","self-referential VS semantic-processing:higher in R (F(1,12)=6.11, p<0.05), but lower in
+ K (F(1,12)=7.13, p<0.05) 
+ self vs other:higher in Ranalysis of R (F(1,12)=9.50, p<0.05), but lower K 
+  (F(1,12)=5.85, p<0.05)",NA,NA,"F(1,13)= 43.84, P < 0.001",,,,,,,,
+,,statistics,,,,,,,,,,,,,,,"t(17) = 6.2, p < 0.001",,,,,,,,,"Proportion of Correct Responses 
+ (hit rate–false-alarm rate),n=14",,"self, other: F(1, 30) = 23.17, p<.001
+other, case: F(1, 30) = 106.24, p<.001","Zhu-Rongji: 32.2(12.9), 34.9(17.4)",Zhu-Rongji: 0.41(0.122),P21 | Table 1,,,,,NA,NA,,,,,,,,,,,(hits) minus (false alarms),(hits) minus (false alarms),,NA,,,,,,Z (hit) – Z (false alarm),,NA,,NA,NA,"Corrected recognition scores (the proportion of hits minus false
+ alarms)",,,,,,,,,
+,Signal-detection-theory results,Self,,NA,,,NA,,,,,,,,,,,,,,,,"syllables: 63.5(3.1), 64.8(3.8), 85.6(3.1)",,,"positive:0.66(0.17)
+ negative:0.72(0.13)",,,"Font: 9.29(12.4), 13.6(10.0)",Font: 0.10(0.113),,,Case: 0.17(0.03),,,NA,NA,,,,,,,,,,,"Agentic Task: 0.43 (0.16)
+ Conceptual Task: 0.77 (0.11)","High Confidence: 0.44 (0.14) 
+  Low Confidence:0.27 (0.16)",,NA,,,,,,"Han participants: 1.41 (0.02)
+ Tibetan Participants: 0.88 (0.03)",,NA,"letter: —, —",NA,NA,,,,,,,,,,
+,,other_1,,NA,,,NA,,,,,,,,,,,,,,,,page 4 test phase,,,"positive:0.53(0.28)
+ negative:0.68(0.15)",,,,"page 4 Behavior performance, Para 2",,,"page 2 Behavioral results, para 2",,,NA,NA,,,,,,,,,,,"Agentic Task: 0.34 (0.12)
+ Conceptual Task: 0.68 (0.14)","High Confidence:0.36 (0.17)
+  Low Confidence: 0.30 (0.19)",,NA,,,,,,"[Mother]
+ Han participants: 1.27 (0.03)
+ Tibetan Participants: 0.77 (0.03)",,NA,"page 3, 3.1, para 2",NA,NA,,,,,,,,,,
+,,other_2,,NA,,,NA,,,,,,"Mean(SD): 1PP, 3PP",,,Mean(SD),,,,,,,no,,,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,"Han participants: 1.15 (0.02)
+ Tibetan Participants:0.70 (0.03)",,NA,,NA,NA,,,,,,,,,,
+,,Neutral,,NA,,,NA,,,,,,"Hit rate_self_R: 0.42(0.05), 0.36(0.04)",,,Hit rate_self: 61.0(15.9),,,,,,,,,,"positive:0.24(0.18)
+ negative:0.31(0.15)",,,,,,,,,,NA,NA,,,,,,,,,,,"(Novel)
+ Agentic Task: 0.22 (0.12)
+ Conceptual Task: 0.23 (0.10)","(Novel)
+ High Confidence:0.13 (0.12) 
+  Low Confidence: 0.33 (0.21)",,NA,,,,,,"[font]
+ Han participants: 0.36 (0.02)
+ Tibetan Participants: 0.30 (0.02)",,NA,,NA,NA,,,,,,,,,,
+,,statistics,,NA,,,NA,,,,,,"Hit rate_friend_R: 0.40(0.05), 0.37(0.04)",,,Hit rate_friend: 58.8(13.5),,,,,,,,,,,,,,,,,,,,NA,NA,,,,,,,,,,,"on the conceptual self-reference task for trials on self
+ (M = 0.54, SD = 0.15, range = 0.23 to 0.77) than other (M = 0.45, SD = 0.18, range = 0.21 to 0.77)
+ [t(12) = 3.70, p < .01, Cohenʼs d = 1.07].
+ on the agentic self-reference task for trials self(M = 0.21, SD = 0.12, range = -0.02 to 0.37) ,other(M = 0.11,SD = 0.08, range = 0.0 to 0.25) [t(12) = 3.85, p < .003,d = 1.11].","memory performance was better for items that participants self-selected (M = 0.26, SD = 0.29, range = -0.16to 0.82) than those randomly selected by the computer(M = 0.21, SD = 0.30, range = -0.10 to 0.81) [t(17) =2.14, p < .05, d = 0.52]",,NA,,,,,,NA,,NA,,NA,NA,"self vs other:Chinese: total score: F(1,24) = 4.69, p< 0.05; R score: F(1,24) =
+ 4.87, p< 0.05; Westerner: total score: F(1,24) = 4.90, p< 0.05;
+ R score: F(1,24) = 5.71, p< 0.05)
+ self vs mother:Chinese subjects (total score: F(1,24) = 1.65, p> 0.1; R score:
+ F(1,24) = 1.10, p> 0.1)
+  Western subjects (total score: F(1,24) =
+ 3.68, p< 0.06; R score: F(1,24) = 5.80, p< 0.05",,,,,,,,,
+Other_result,,note,,,,,,,,,,,"Hit rate_famous_R: 0.37(0.05), 0.35(0.04)",,,Hit rate_other: 56.4(15.0),,,,,,,,,main effect of judgment target,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,
+,,self,,,,,,,,,,,"Hit rate_font_R: 0.23(0.03), 0.22(0.04)",,,False alarm rate_distracter: 19.8(9.4),,,,,,,,,NA,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,
+,,other_1,,,,,,,,,,,"the results of “remember” judgment was similar with the result of total hit rate, showed a significant condition main effect, F (3, 114) = 36.962, p < 0.001",,,"a one-way repeated-measure ANOVA for hit rates showed a significant effect of encoding condition [F(2,36) 5 3.56, P < 0.05, eta squ = 0.17]",,,,,,,,,NA,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,
+,,other_2,,,,,,,,,no,,,,,,,,,,,,no,,NA,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,
+,,neutral,,,,,,,"F(1,35) = 23.46, p < 0.001, η2 = 0.40",,,,,,,,,,,,,,,,NA,,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,
+,,Anova or t-test,,,,,,,"(1) self male attributes, (2) self female attributes, (3) prototypical man male attributes, (4) prototypical man female attributes, (5) prototypical woman male attributes, (6) prototypical woman female attributes, (7) lexical male attributes, (8) lexical female attributes.",,,,,,,,,,,,,,,,"F(1,16) = 0.68, p = .42",,,,,,,,,,,NA,NA,,,,,,,,,,,,,,NA,,,,,,,,NA,,NA,NA,NA,,,,,,,,,

@@ -1,0 +1,27 @@
+﻿Variable_Name,Variable_description,Variable_value,Variable_category
+First Author,the first named author of the article,NA,categorical
+Last Author,the last named author of the article,NA,categorical
+Year,the year when the article is published,NA,numeric
+Journal,the journal the article is publilshed,NA,categorical
+Article_ID,the ID of the article,Author_Year_Journal,categorical
+Study,order of independent studies contained in one paper,NA,numeric
+Sample_Size,number of samples,NA,numeric
+Number_of_Female,number of female participants,NA,numeric
+Ethnicity/Race_Caucasian,"people who come from Europe, South Asia and Western Asia1",NA,numeric
+Ethnicity/Race_Mongoloid,people who come from Asia2,NA,numeric
+Ethnicity/Race_Negroid,people who come from African countries below the Sahara desert3,NA,numeric
+Ethnicity/Race_Other,people who come from other places,NA,numeric
+Group,groups that participants are divided into,"healthy, unhealthy; young, old; bipolar, schizophrenia, healthy",categorical
+Age_mean,the mean of age,NA,numeric
+Age_min,the minimum age,NA,numeric
+Age_max,the maximum age,NA,numeric
+Education,years of education,NA,numeric
+Recruitment_Channel,the channels of recruitment,NA,categorical
+Data_Collection_Location,the location where data is collected,"Province/State, Country",categorical
+,,,
+,,,
+,,,
+Reference:,,,
+"[1] Wikimedia Foundation. (2022, August 6). Caucasian race. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Caucasian_race",,,
+"[2] Wikimedia Foundation. (2022, September 11). Mongoloid. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Mongoloid",,,
+"[3] Wikimedia Foundation. (2022, September 1). Negroid. Wikipedia. Retrieved September 24, 2022, from https://en.wikipedia.org/wiki/Negroid",,,
