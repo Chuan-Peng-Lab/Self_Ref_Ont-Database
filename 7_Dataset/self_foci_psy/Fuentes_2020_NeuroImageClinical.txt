@@ -1,0 +1,57 @@
+// Reference=MNI
+// Fuentes-Claramonte, 2020: self>facts (healthy, 10 females, mean=38.74, sd=10.2)
+// Standardized name for contrast: self>nonPerson
+// Subjects=27
+-4	-52	30
+-10	58	-6
+-44	-60	22
+54	12	-30
+0	-20	36
+
+// Fuentes-Claramonte, 2020: acquaintance>facts (healthy, 10 females, mean=38.74, sd=10.2)
+// Subjects=27
+-4	-52	30
+-52	-62	22
+48	-56	24
+-8	58	-4
+
+// Fuentes-Claramonte, 2020: acquaintance>self (healthy, 10 females, mean=38.74, sd=10.2)
+// Subjects=27
+2	-64	32
+-50	18	-34
+50	-64	30
+30	60	-6
+-56	-64	18
+58	-6	-26
+
+// Fuentes-Claramonte, 2020: self>facts (schizophrenia, 7 females, mean=37, sd=8.06)
+// Standardized name for contrast: self>nonPerson
+// Subjects=23
+2	-52	28
+-16	58	32
+-44	-60	24
+-48	-6	-40
+50	4	-34
+56	-22	-14
+
+// Fuentes-Claramonte, 2020: acquaintance>facts (schizophrenia,7 females, mean=37, sd=8.06)
+// Subjects=23
+-46	6	-40
+-4	-52	30
+-14	52	32
+36	12	-42
+6	-86	-8
+
+// Fuentes-Claramonte, 2020: self>facts (healthy>schizophrenia)
+// Subjects=50
+-52	14	36
+
+// Fuentes-Claramonte, 2020: acquaintance>Facts(healthy>schizophrenia)
+// Subjects=50
+22	-46	18
+-42	50	14
+-54	8	34
+
+// Fuentes-Claramonte, 2020: acquaintance>self(healthy>schizophrenia)
+// Subjects=50
+48	-64	30

@@ -1,0 +1,103 @@
+// Reference=MNI
+//(Healthy Control=HC; individuals with subclinical delusionalideation=PDI; schizophrenia patients=SZ)
+// Pankow, 2015: self>Angela Merkel (all) 
+// Standardized name for contrast: self>celebrity
+// Subjects=88
+−9	44	−2
+9	41	−5
+6	38	13
+0	−16	37
+42	11	−5
+−9	−61	16
+−30	−64	−26
+// Pankow, 2015: self>syllables (all) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=88
+-3	-52	28
+-12	53	34
+-9	59	28
+0	-16	37
+57	-61	28
+69	-46	7
+51	-31	-5
+-24	-85	-23
+// Pankow, 2015: Angela Merkel>syllables (all) 
+// Subjects=88
+-3	-52	28
+-6	-88	34
+-42	-14	-34
+-60	-7	-20
+-48	5	-32
+0	47	-17
+-12	53	37
+-9	59	28
+42	14	-32
+60	-4	-23
+39	29	-17
+57	-64	28
+69	-46	7
+24	-76	-26
+0	-16	40
+0	14	-11
+-12	11	10
+45	-19	64
+12	-10	46
+
+// Pankow, 2015: self>Angela Merkel (all, Group by self > Angela Merkel interaction)
+// Subjects=88
+9	38	1
+0	53	-1
+-3	50	-2
+
+// Pankow, 2015: self>Angela Merkel (HC>SZ)
+// Subjects=88
+9	38	1
+-6	47	-2
+
+// Pankow, 2015: self>Angela Merkel (PDI >SZ)
+// Subjects=88
+3	56	1
+9	41	-2
+
+// Pankow, 2015: self>syllables (Group by self > syllables interaction)
+// Subjects=88
+-6	26	61
+-15	35	49
+-18	53	31
+
+// Pankow, 2015: Angela Merkel > syllables (Group by other > syllables interaction)
+// Subjects=88
+-6	26	61
+-54	20	7
+-3	-49	22
+
+// Pankow, 2015: self > syllables (HC>SZ)
+// Subjects=88
+-9	26	61
+-15	35	49
+-18	56	28
+-12	44	37
+-6	47	46
+-42	14	43
+-45	17	40
+
+// Pankow, 2015: self > syllables (PDI>SZ)
+-6	26	61
+54	20	7
+-57	23	10
+
+// Pankow, 2015: Angela Merkel > syllables (HC>SZ)
+-9	26	61
+-15	38	49
+
+// Pankow, 2015: Angela Merkel > syllables (PDI>SZ)
+-54	20	7
+-45	23	-8
+-6	26	61
+-9	-49	16
+-3	-49	22
+6	-52	19
+
+// Pankow, 2015: Angela Merkel > syllables (PDI>HC)
+-57	20	4
+-51	17	7

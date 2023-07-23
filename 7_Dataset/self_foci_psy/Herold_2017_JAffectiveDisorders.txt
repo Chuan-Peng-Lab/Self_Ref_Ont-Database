@@ -1,0 +1,12 @@
+// Reference=MNI
+// Herold, 2017: self-referential>non-self-referential (healthy, 4 females, mean=38.07, sd=5.84) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=14
+-20	40	46
+-8	44	6
+-44	34	-14
+-10	-52	28
+
+// Herold, 2017: self-referential>non-self-referential (healthy>Mania) 
+// Subjects=28
+-6	54	10

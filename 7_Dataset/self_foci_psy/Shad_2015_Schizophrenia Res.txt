@@ -1,0 +1,17 @@
+// Reference=MNI
+// Shad, 2015: SR vs OR and unawareness of symptoms(All)
+// (self-referential=SR,other-referential=OR)
+// Subjects=32
+−51	9	30
+45	−30	54
+−18	−60	−18
+−63	−21	18
+−24	−60	15
+
+// Shad, 2015: SR vs OR and misattribution of symptoms(All)
+// Subjects=32
+−48	15	−3
+15	3	−3
+−15	−190	0
+
+

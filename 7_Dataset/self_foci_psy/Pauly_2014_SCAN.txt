@@ -1,0 +1,94 @@
+// Reference=MNI
+// Pauly, 2014: self>lexical (healthy, 6 females, mean=34.46, sd=8.58)
+// Standardized name for contrast: self>nonPerson
+// Subjects=13
+-3	59	20
+-43	30	-17
+40	20	-33
+-3	-53	20
+-50	-10	-20
+
+// Pauly, 2014: self>other (healthy, 6 females, mean=34.46, sd=8.58)
+// Standardized name for contrast: self>close
+// Subjects=13
+46	20	-30
+-3	20	-20
+-20	-10	-33
+
+// Pauly, 2014: other>lexical (healthy, 6 females, mean=34.46, sd=8.58)
+// other: an intimate person
+// Subjects=13
+-3 	56 	33
+-50 	30 	-13
+-3 	-53 	20
+
+// Pauly, 2014: Conjunction of self>lexical and other>lexical (healthy, 6 females, mean=36.23, sd=9.46)
+// Subjects=13
+0	56	20
+-50	30	-13
+-3	-53	20
+
+// Pauly, 2014: self>lexical (schizophrenia, 6 females, mean=36.23, sd=9.46)
+// Standardized name for contrast: self>nonPerson
+// Subjects=13
+-13 	46 	46
+-46 	30 	-17
+-3 	-56 	30
+-10 	-59 	-3
+
+// Pauly, 2014: other>lexical (schizophrenia, 6 females, mean=36.23, sd=9.46)
+// Subjects=13
+-13	46	49
+-43	30	-17
+
+// Pauly, 2014: Conjunction of self>lexical and other>lexical (schizophrenia, 6 females, mean=36.23, sd=9.46)
+// Subjects=13
+-13	46	49
+-43	30	-17
+
+// Pauly, 2014: self>other (schizophrenia, 6 females, mean=36.23, sd=9.46)
+// Subjects=13
+-10 	53 	16
+23 	36 	20
+43 	30 	20
+46 	-7 	46
+-10 	-89 	33
+
+// Pauly, 2014:  self>other (healthy>schizophrenia)
+// Subjects=26
+NA
+
+// Pauly, 2014: self>other (schizophrenia>healthy)
+// Subjects=26
+49	-7	46
+36	-20	43
+
+// Pauly, 2014: self>lexical (healthy>schizophrenia)
+// Subjects=26
+-40	-10	-26
+
+// Pauly, 2014: self>lexical (schizophrenia>healthy)
+// Subjects=26
+NA
+
+// Pauly, 2014: other>lexical (healthy>schizophrenia)
+// Subjects=26
+0 	56 	16
+16 	33 	16
+33 	20 	13
+-43 	3 	10
+-7 	-76 	26
+
+// Pauly, 2014: other>lexical (schizophrenia>healthy)
+// Subjects=26
+NA
+
+// Pauly, 2014: self masked with other (healthy>schizophrenia)
+// Subjects=26
+33 	30 	0
+-43 	13 	-33
+36 	13 	-33
+
+// Pauly, 2014: self masked with other (schizophrenia>healthy)
+// Subjects=26
+NA

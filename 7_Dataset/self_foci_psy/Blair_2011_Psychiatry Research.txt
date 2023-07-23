@@ -1,0 +1,12 @@
+// Reference=TAL
+// Blair, 2011: you>self (All,13 females)
+// (HC=Healthy control,GSP=Generalized Social Phobia)
+// Subjects=30
+13	-79	-4
+
+// Blair, 2011:self>you (HC,6 females,mean=31.1,SD=6.37)
+// Standardized name for contrast: self>other
+// Subjects=15
+7	50	11
+17	-78	-5
+42	-54	28

@@ -1,0 +1,8 @@
+// Reference=MNI
+// Beeney, 2016: self > friend (All) 
+// Standardized name for contrast: self>close
+// Subjects=38
+-4.5	34.5	16.5
+52.5 	19.5	10.5
+-1.5 	-40.5	52.5
+-4.5	13.5	7.5

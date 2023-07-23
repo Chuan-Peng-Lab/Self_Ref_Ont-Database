@@ -1,0 +1,11 @@
+// Reference=MNI
+// Lemogne, 2009: self>general(All, 25females) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=30
+6	48	18
+
+// Lemogne, 2009: self>general(depressed patients, 14females, mean=33.7, sd=9.5) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+9	42	33
+-42	9	36

@@ -1,0 +1,19 @@
+// Reference=MNI
+// (self characteristics=SC,general facts=GF,post-traumatic stress disorder=PTSD,healthy controls=HC)
+// Bluhm,2012: SC>GF (HC,13 females,mean=35,sd=9.53)
+// Standardized name for contrast: self>nonperson
+// Subjects=15
+0	62	18
+2	52	-12
+8	-54	18
+
+// Bluhm,2012: SC>GF (PTSD,13 females,mean=38.3,sd=9.33)
+// Standardized name for contrast: self>nonperson
+// Subjects=20
+-10	60	22
+4	-54	6
+
+// Bluhm,2012: SC>GF (HC>PTSD)
+// Standardized name for contrast: self>nonperson
+// Subjects=35
+2	58	-12

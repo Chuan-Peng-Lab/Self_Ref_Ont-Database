@@ -1,0 +1,27 @@
+// Reference=MNI
+// Nejad,2019: self>general(Remitted patients,21 females,mean=38.8,sd=12)
+// Standardized name for contrast: self>nonperson
+// Subjects=25
+−6	40	22
+−4	42	6
+8	52	28
+10	36	8
+−28	20	−10
+−42	22	0
+12	16	58
+20	54	16
+22	−74	−28
+42	22	−16
+−10	−4	8
+−8	20	54
+44	30	−6
+12	−2	8
+
+// Nejad,2019: self>general(healthy controls,25 females,mean=41.4,sd=12.8)
+// Standardized name for contrast: self>nonperson
+// Subjects=29
+−28	20	−14
+-8	50	20
+−4	40	22
+6	50	28
+4	34	8

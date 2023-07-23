@@ -1,0 +1,14 @@
+// Reference=MNI
+// Quevedo, 2016: self > other face (All) 
+// (healthy controls=HC/depressed adolescents with high suicidality=HS/depressed adolescents with low suicidality=LS)
+// Standardized name for contrast: self>stranger
+// Subjects=119
+20	-62	46
+30	-86	0
+10	-16	-2
+
+// Quevedo, 2016: Self vs Other Condition by Happy Facial Expression Interaction (HC>LS>HS) (All)
+// Subjects=119
+28	-36	2
+12	64	8
+-16	-20	-12

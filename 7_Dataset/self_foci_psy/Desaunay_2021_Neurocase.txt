@@ -1,0 +1,87 @@
+// Reference=MNI
+// (Kleine-Levin syndrom=KLS)
+// Desaunay,2021: self>semantic (encoding phase: KLS Patient>Controls)
+// Standardized name for contrast: self>nonperson
+// Subjects=31
+4	−50	28
+64	−36	2
+58	−56	40
+−64	−16	−6
+30	−22	−18
+6	8	68
+-36	-72	40
+58	6	-20
+4	50	12
+-4	48	16
+−4	48	−14
+-10	30	60
+-26	10	52	
+56	-10	46	
+22	46	40
+
+// Desaunay,2021: self>semantic (encoding phase: Controls>KLS Patient)
+// Standardized name for contrast: self>nonperson
+// Subjects=31
+−44	4	32
+56	-48	-4	
+52	26	28
+-42	-40	44
+46	24	0
+-64	-46	-6
+28	-72	-6
+22	4	54
+30	-64	40
+-6	-48	-8
+
+// Desaunay,2021: self>semantic (the successful encoding: KLS Patient>Controls)
+// Standardized name for contrast: self>nonperson
+// (Kleine-Levin syndrom=KLS)
+// Subjects=31
+22	46	40
+−28	22	−12
+24	−2	4
+−6	58	36
+64	−34	−2
+−54	30	2
+54	−6	−32
+52	40	2
+52	−60 	48
+−66 	−28 	−2
+−26	 54 	14
+60 	−4 	32
+−24 	18 	50
+50	−64 	8
+−60 	−14	42
+−34 	−74	44
+−60 	4 	−2
+
+// Desaunay,2021: self>semantic (the successful encoding: Controls>KLS Patient)
+// Standardized name for contrast: self>nonperson
+// Subjects=31
+−6	−54	−12
+34	−52	66
+42	−34	50
+46	24	2
+−22	−80	34
+−42	−36	40
+34	−82	24
+−46	−76	−10
+
+// Desaunay,2021: self>semantic (the successful  recognition: KLS Patient>Controls)
+// Standardized name for contrast: self>nonperson
+// Subjects=31
+24	2	64
+16	−58	−24
+34	6	6
+−18	8	−10
+−38	−58	−16
+58	−46	−8
+−22	−46	70
+
+// Desaunay,2021: self>semantic (the successful recognition: Controls>KLS Patient)
+// Standardized name for contrast: self>nonperson
+// Subjects=31
+60	0	32
+60	-36	20
+
+

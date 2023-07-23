@@ -1,0 +1,55 @@
+// Reference=MNI
+// Ma, 2011: Self>Other (healthy subjects, 10 females, mean=23.2, 19-28, experiment2, Aural session) 
+// Note: Other is Xuan Liu or Xiang Liu
+// Standardized name for contrast: self>celebrity
+// Subjects=19
+NA
+
+// Ma, 2011: Other>Valence (healthy subjects,10 females, mean=23.2, 19-28, experiment2, Aural session) 
+// Subjects=19
+6	58	24
+6	-56	20	
+
+// Ma, 2011: Valence>Rest (healthy subjects, 10 females, mean=23.2, 19-28, experiment2, Aural session) 
+// Subjects=19
+56	-16	6
+-60	-14	2	
+6	4	54
+-28	-58	-32	
+16	-2	14	
+
+// Ma, 2011: Rest>Valence(healthy subjects,10 females, mean=23.2, 19-28, experiment2, Aural session) 
+// Subjects=19
+8	-38	46
+-6	54	8
+42	-80	34
+-36	-82	32
+-30	-28	60
+28	26	52
+28	-30	-18	
+
+// Ma, 2011: Self>Other (Blind, 8 females, mean=25.2, 18-28, experiment2, Aural session) 
+// Standardized name for contrast: self>celebrity
+// Subjects=19
+6	50	12
+6	34	24
+
+// Ma, 2011: Other>Valence (Blind, 8 females, mean=25.2, 18-28, experiment2, Aural session) 
+// Subjects=19
+-6	-58	24
+-4	54	20		
+
+// Ma, 2011: Valence>Rest (Blind, 8 females,mean=25.2, 18-28, experiment2, Aural session) 
+// Subjects=19
+48	-32	14	
+-62	-24	10	
+-48	14	36
+-34	24	2	
+4	6	58	
+18	-78	-8	
+-20	-68	-18
+
+// Ma, 2011: Rest>Valence (Blind, 8 females,mean=25.2, 18-28, experiment2, Aural session) 
+// Subjects=19
+2	-50	38	
+-10	64	8
