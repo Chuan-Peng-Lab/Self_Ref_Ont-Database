@@ -1,5 +1,5 @@
 # Ontology_Self_reference
-This repository contains information of self reference meta-research database. Raw coordinate data from literatures and analysis code for an ALE are included. 
+I'm shanshan717, and this is a project by someone else in my frok group, with a little modification based on it. This repository contains information from a self-referenced meta-study database. It includes raw coordinate data from the literature and analysis codes from ALE.
 
 This is a folder structure of the project :        
    
@@ -7,7 +7,10 @@ This is a folder structure of the project :
     
 ## Software    
 
-This project used Endnote for article storage, R and Matlab R2018B for anlysis.   
+Project v1: Articles were stored using Endnote and analyzed using R and Matlab R2018B.
+
+Project v2: Articles were stored using Endnote and analyzed using Ginger ALE and Matlab R2021A.
+
 
 ## Licenses
  Under which license(s) the files are shared  
