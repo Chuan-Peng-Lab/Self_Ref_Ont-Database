@@ -20,10 +20,12 @@ Our ontological dataset originates from neuroimaging studies on self-reference. 
 - Updated the Codebook to record disease information of affected subjects.
 
 ## Related Publication
-孙淑婷, 王楠, 温佳慧, 等. 自我参照的神经成像认知本体论数据集[J/OL]. 中国科学数据, 2023, 8(3). (2023-07-27). DOI: 10.11922/11-6035.csd.2022.0047.zh
+孙淑婷, 王楠, 温佳慧, 等. 自我参照的神经成像认知本体论数据集[J/OL]. 中国科学数据, 2023, 8(3). (2023-07-27). 
+DOI: 10.11922/11-6035.csd.2022.0047.zh
          
 ## Contact
 For inquiries, please contact:
+- Hu Chuan-Peng (Prof.Hu), email: hcp4715@hotmail.com
 - Sun Shuting, email: sunshuting19@163.com - Version 2
 - Zhu Shanshan, email: zhushanshan0717@gmail.com - Version 3
   
