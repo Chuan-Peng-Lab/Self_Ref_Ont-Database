@@ -16,7 +16,7 @@ Our ontological dataset originates from neuroimaging studies on self-reference. 
 - Uploaded meta-analysis results of normal subjects.
 
 **2024.01.17 - Version 3**
-- Updated the self-reference database (article selection period), inclusive of children and subjects with mental illnesses.
+- The self-referencing database was updated (the final article screening date was 2023.11.01) to include children, participants involved in psychiatric disorders.
 - Updated the Codebook to record disease information of affected subjects.
 
 ## Related Publication
