@@ -27,6 +27,18 @@ There are 118 articles in the database, of which 73 are in version 1 and 45 are 
 Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).
 DOI: 10.11922/11-6035.csd.2022.0047.zh
 
+## Data Files
+- "Codebook_Self_Ref_Article_Info.csv": Codebook for "Self_Ref_Article_Info.csv".
+- "Codebook_Self_Ref_Operationalization.csv": Codebook for "Self_Ref_Operationalization.csv".
+- "Self_Ref_Article_Info.csv": Basic information on selected literature, such as author, journal, sample size.
+- "Self_Ref_Operationalization.csv": Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
+
+## Contact
+For inquiries, please contact:
+- Prof. Hu Chuan-Peng, email: hcp4715@hotmail.com
+- Shu-ting Sun, email: sunshuting19@163.com (Version 2)
+- Shanshan Zhu, email: zhushanshan0717@gmail.com (Version 3)
+
 ## Contribution
 1. Hu Chuan-Peng (2021.11-)
    Overall scheme design, data verification, organization, and paper writing and revision
@@ -44,15 +56,3 @@ DOI: 10.11922/11-6035.csd.2022.0047.zh
    Data collection and proofreading, database verification, data analysis
 8. Ya-qi Li (2023.07-)
    Database collection and proofreading
-
-## Contact
-For inquiries, please contact:
-- Prof. Hu Chuan-Peng, email: hcp4715@hotmail.com
-- Shu-ting Sun, email: sunshuting19@163.com (Version 2)
-- Shanshan Zhu, email: zhushanshan0717@gmail.com (Version 3)
-
-## Data Files
-- "Codebook_Self_Ref_Article_Info.csv": Codebook for "Self_Ref_Article_Info.csv".
-- "Codebook_Self_Ref_Operationalization.csv": Codebook for "Self_Ref_Operationalization.csv".
-- "Self_Ref_Article_Info.csv": Basic information on selected literature, such as author, journal, sample size.
-- "Self_Ref_Operationalization.csv": Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
