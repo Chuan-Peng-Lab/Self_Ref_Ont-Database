@@ -40,18 +40,12 @@ The `suppl_material` folder is home to supplementary documents and files that su
 - Shanshan Zhu (Version 3, zhushanshan0717@gmail.com)
 
 ## Contribution
-1. `[2021.11-]`Hu Chuan-Peng: Overall scheme design, data verification, organization, and paper writing and revision
-2. Shu-ting Sun  (2021.11-2022.12)
-   Data collection and proofreading, summarization, data analysis, and paper writing and revision 
-3. Nan Wang (2021.11-2022.12)
-   Data collection and proofreading, summarization and collation, and paper writing and revision 
-4. Jia-hui Wen (2021.11-2022.07)
-   Data collection
-5. Shanshan Zhu (2023.01-)
-   Data collection and proofreading, summarization and collation, and paper writing and revision
-6. Jia-qi Wu (2023.01-)
-   Data collection and proofreading, summarization and collation
-7. Jian Xiao (2023.07-2023.11)
-   Data collection and proofreading, database verification, data analysis
-8. Ya-qi Li (2023.07-)
-   Database collection and proofreading
+- `[2021.11-]` Hu Chuan-Peng: Overall scheme design, data verification, organization, and paper writing and revision.
+- `[2021.11-2022.12]` Shu-ting Sun: Data collection and proofreading, summarization, data analysis, and paper writing and revision.
+- `[2021.11-2022.12]` Nan Wang: Data collection and proofreading, summarization and collation, and paper writing and revision.
+- `[2021.11-2022.07]` Jia-hui Wen: Data collection.
+- `[2023.01-]` Shanshan Zhu: Data collection and proofreading, summarization and collation, and paper writing and revision.
+- `[2023.01-]` Jia-qi Wu: Data collection and proofreading, summarization and collation.
+- `[2023.07-2023.11]` Jian Xiao: Data collection and proofreading, database verification, data analysis.
+- `[2023.07-]` Ya-qi Li: Database collection and proofreading.
+
