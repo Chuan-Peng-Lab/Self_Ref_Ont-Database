@@ -14,7 +14,7 @@ Participants include 2406 women, with ages from adolescents to the elderly, and 
 - Used Zotero for literature organization and MATLAB R2021A for analysis (Versions 3).
 
 ## Related Publication
-Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).DOI: 10.11922/11-6035.csd.2022.0047.(https://doi.org/10.11922/11-6035.csd.2022.0047.zh)
+Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).[DOI: 10.11922/11-6035.csd.2022.0047.zh](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)
 
 ## Repository Structure
 ### `Self_foci_raw/`
@@ -40,8 +40,7 @@ The `suppl_material` folder is home to supplementary documents and files that su
 - Shanshan Zhu (Version 3, zhushanshan0717@gmail.com)
 
 ## Contribution
-1. Hu Chuan-Peng (2021.11-)
-   Overall scheme design, data verification, organization, and paper writing and revision
+1. `[2021.11-]`Hu Chuan-Peng: Overall scheme design, data verification, organization, and paper writing and revision
 2. Shu-ting Sun  (2021.11-2022.12)
    Data collection and proofreading, summarization, data analysis, and paper writing and revision 
 3. Nan Wang (2021.11-2022.12)
