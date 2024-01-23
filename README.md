@@ -1,43 +1,43 @@
 # Ontology of Self-Reference in Neuroimaging
-
-Our ontological dataset is derived from neuroimaging studies on self-reference. The literature was systematically searched up to November 1, 2023, following a standard protocol. Compiled by two independent coders, our dataset offers standardized data on self-referential behaviors and neural responses. It includes CSV files detailing operational aspects in neuroimaging studies of self-referencing, BrainMap formatted data of brain regions activated by self-reference, and associated codebooks.
+This dataset, compiled up to November 1, 2023, standardizes neuroimaging data on self-referential behaviors and neural responses from 4054 participants across 117 studies. It reflects a broad demographic range and includes data from 15 countries.
 
 ## Data Description
-There were a total of 4,054 participants in the database, of which 2,406 were women, 2,993 were healthy, and 1,061 were sick.
-There are 118 articles in the database, of which 73 are in version 1 and 45 are in version 2.
+Participants include 2406 women, with ages from adolescents to the elderly, and 1061 individuals with mental health conditions like Generalized Anxiety Disorder, Major Depressive Disorder, and Schizophrenia.
 
 ## Version History
-**Version 3 - 2024.01.22**
-- Updated the self-referencing database (last article screening date: November 1, 2023) to include children and participants with psychiatric disorders.
-- Revised the Codebook to record disease information of the affected subjects.
-
-**Version 2 - 2022.11.28**
-- Updated the self-reference database for adults, excluding diseases.
-- Added meta-analysis results of normal subjects.
-
-**Version 1 - 2022.07.25**
-- Uploaded operational definition CSV files for the self-reference database.
-- Uploaded article information CSV files for the self-reference database.
+- **Version 3 (Jan 22, 2024)**: Includes adolescents and elderly, enhanced disease info in the Codebook.
+- **Version 2 (Nov 28, 2022)**: Adult population focus, meta-analysis of healthy subjects.
+- **Version 1 (Jul 25, 2022)**: Initial operational definitions and article information.
 
 ## Software Used
-- Articles were stored in Endnote and analyzed using R and Matlab R2018B (Versions 1- Version 2).
-- Articles were stored in Zotero and analyzed using Matlab R2021A (Version 3). 
+- Used Endnote for literature storage and R and MATLAB R2018B for analysis (Versions 1-2).
+- Used Zotero for literature organization and MATLAB R2021A for analysis (Versions 3).
 
 ## Related Publication
-Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).
-DOI: 10.11922/11-6035.csd.2022.0047.zh
+Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).DOI: 10.11922/11-6035.csd.2022.0047.(https://doi.org/10.11922/11-6035.csd.2022.0047.zh)
 
-## Data Files
-- "Codebook_Self_Ref_Article_Info.csv": Codebook for "Self_Ref_Article_Info.csv".
-- "Codebook_Self_Ref_Operationalization.csv": Codebook for "Self_Ref_Operationalization.csv".
-- "Self_Ref_Article_Info.csv": Basic information on selected literature, such as author, journal, sample size.
-- "Self_Ref_Operationalization.csv": Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
+## Repository Structure
+### `Self_foci_raw/`
+This folder contains fMRI coordinate results extracted from each literature source included in the study. Each file within the folder is named after the corresponding study and formatted according to the BrainMap.
+#### Example Files
+- `Bach_2021_EurArchPsychiatryCliNeurosci.txt`: This file includes fMRI results from the study by Bach et al. (2021), published in the European Archives of Psychiatry and Clinical Neuroscience, detailing the brain regions activated during self-referential tasks.
+
+### `suppl_material/`
+The `suppl_material` folder is home to supplementary documents and files that support the database. 
+#### Included Files
+- `Self_Ref_Article_Info.csv`: Basic information on selected literature, such as author, journal, sample size.
+- `Self_Ref_Operationalization.csv`: Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
+- `Codebook_Self_Ref_Article_Info.csv`: Codebook for `Self_Ref_Article_Info.csv`.
+- `Codebook_Self_Ref_Operationalization.csv`: Codebook for `Self_Ref_Operationalization.csv`.
+- `自我参照_文章信息.csv`: Basic information on selected literature, such as author, journal, sample size.
+- `自我参照_操作化定义.csv`: Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
+- `手册_自我参照_文章信息.csv`: Codebook for `自我参照_文章信息.csv`.
+- `手册_自我参照_操作化定义.csv`: Codebook for `自我参照_操作化定义.csv`.
 
 ## Contact
-For inquiries, please contact:
-- Prof. Hu Chuan-Peng, email: hcp4715@hotmail.com
-- Shu-ting Sun, email: sunshuting19@163.com (Version 2)
-- Shanshan Zhu, email: zhushanshan0717@gmail.com (Version 3)
+- Prof. Hu Chuan-Peng (hcp4715@hotmail.com)
+- Shu-ting Sun (Version 2, sunshuting19@163.com)
+- Shanshan Zhu (Version 3, zhushanshan0717@gmail.com)
 
 ## Contribution
 1. Hu Chuan-Peng (2021.11-)
