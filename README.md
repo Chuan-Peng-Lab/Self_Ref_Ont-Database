@@ -35,6 +35,8 @@ The `Suppl_Materials_Version2` folder contains supplementary materials for a met
 - `手册_自我参照_文章信息.csv`: Codebook for `自我参照_文章信息.csv`.
 - `手册_自我参照_操作化定义.csv`: Codebook for `自我参照_操作化定义.csv`.
 
+```
+.
 ├── Self_foci_raw
 │ ├── Abraham_2013_Brain_Imaging_Behav.txt
 │ ├── ...
@@ -66,6 +68,8 @@ The `Suppl_Materials_Version2` folder contains supplementary materials for a met
 ├── Self_Ref_Operationalization.csv
 │
 └── README.md (Overall project documentation)
+
+```
 
 ## Contact
 - Prof. Hu Chuan-Peng (hcp4715@hotmail.com)
