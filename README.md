@@ -36,25 +36,25 @@ The `Suppl_Materials_Version2` folder contains supplementary materials for a met
 - `手册_自我参照_操作化定义.csv`: Codebook for `自我参照_操作化定义.csv`.
 
 ├── Self_foci_raw
-│   ├── Abraham_2013_Brain Imaging Behav.txt
-│   ├── ...
-│   └── Zhang_2015_NeuroimageClin.txt
-│   
+│ ├── Abraham_2013_Brain_Imaging_Behav.txt
+│ ├── ...
+│ └── Zhang_2015_NeuroimageClin.txt
+│
 ├── Suppl_Materials_Version2
-│   ├── Suppl_Data_Results_Version2
-│   │   ├── celebrity-nonPerson_cFWE.nii
-│   │   ├── close-celebrity_cFWE.nii
-│   │   ├── close-nonPerson_cFWE.nii
-│   │   ├── Figure4_data.csv
-│   │   ├── Interrater_Reliability_Raw.csv
-│   │   ├── self_all_cFWE.nii
-│   │   ├── Self_all.txt
-│   │   ├── Self_celebrity.txt
-│   │   ├── Self_close.txt
-│   │   ├── Self_nonPerson.txt
-│   │   ├── Suppl_RNotebook.nb.html
-│   │   └── Suppl_RNotebook.Rmd
-│   └── Supplementary_Materials_Version2.docx
+│ ├── Suppl_Data_Results_Version2
+│ │ ├── celebrity-nonPerson_cFWE.nii
+│ │ ├── close-celebrity_cFWE.nii
+│ │ ├── close-nonPerson_cFWE.nii
+│ │ ├── Figure4_data.csv
+│ │ ├── Interrater_Reliability_Raw.csv
+│ │ ├── self_all_cFWE.nii
+│ │ ├── Self_all.txt
+│ │ ├── Self_celebrity.txt
+│ │ ├── Self_close.txt
+│ │ ├── Self_nonPerson.txt
+│ │ ├── Suppl_RNotebook.nb.html
+│ │ └── Suppl_RNotebook.Rmd
+│ └── Supplementary_Materials_Version2.docx
 │
 ├── 手册_自我参照_操作化定义.csv
 ├── 手册_自我参照_文章信息.csv
