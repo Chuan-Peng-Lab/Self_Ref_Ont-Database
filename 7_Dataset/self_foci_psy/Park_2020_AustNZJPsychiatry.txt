@@ -1,0 +1,49 @@
+// Reference=MNI
+// Park, 2020: self>a family member (HC, 13 females, mean = 21.6, sd=2.9)
+// (healthy control=HC,ultra-high risk patients=UHR)
+// Standardized name for contrast: self>close
+// Subjects=28
+-26	38	-4 
+-12	50	2 
+-24	48	-2
+
+// Park, 2020: 1PP<3PP (HC, 13 females, mean = 21.6, sd=2.9)
+// Subjects=28
+6	-78	-6 
+20	-76	-16
+0	-86	-2
+
+// Park, 2020: 1PP<3PP (UHR, 6 females, mean = 21.8, sd=4.1)
+// Subjects=22
+-12	-88	4
+-22	-88	8
+20	-78	4
+-44	-38	-6
+-58	-26	-4
+26	-52 	52
+30 	-72 	28
+18 	-66 	56
+38 	0 	30
+24 	-4 	44
+36 	12 	42
+-44 	-48 	26
+-36 	-56 	18
+-44 	-62 	26
+
+// Park, 2020: 1PP>3PP (UHR, 6 females, mean = 21.8, sd=4.1)
+// Standardized name for contrast: self>nonperson
+// Subjects=22
+-8 	-56	 22
+12 	-64 	22
+12 	-48 	20
+
+// Park, 2020: self>a family member (HC>UHR)
+// Standardized name for contrast: self>close
+// Subjects=50
+-24	 38 	-4
+-22 	 48 	-2
+-26 	 38 	-12
+
+// Park, 2020: 1PP<3PP (HC<UHR)
+// Subjects=50
+24	-78	4

@@ -1,0 +1,22 @@
+// Reference=TAL
+// Kennedy,2008: self>other (healthy,0 females, mean=27.5,SD=10.9)
+NA
+
+// Kennedy,2008: self>other (Autism,0 females, mean=26.9,SD=12.3)
+NA
+
+// Kennedy,2008: other>self (healthy,0 females, mean=27.5,SD=10.9)
+// Subjects=12
+-6	-73	0
+22	-68	4
+7	-57	27
+-18	-45	4
+22	-45	7
+18	-25	17
+
+// Kennedy,2008: other>self (Autism,0 females, mean=26.9,SD=12.3)
+// Subjects=13
+-25	-76	-4
+11	-80	0
+3	-60	32
+14	-25	20

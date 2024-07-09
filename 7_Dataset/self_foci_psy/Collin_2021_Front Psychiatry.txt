@@ -1,0 +1,21 @@
+// Reference=MNI
+// (healthy controls=HC,familial high risk=FHR)
+// Collin,2021: self>semantic (HC,10 females,mean=9.3,sd=1.7)
+// Standardized name for contrast: self>nonperson
+// Subjects=19
+-4	-68	28
+−4	36	−8
+
+// Collin,2021: self>semantic (FHR,10 females,mean=9.6,sd=2.0)
+// Standardized name for contrast: self>nonperson
+// Subjects=15
+−4	48	10
+−6	−62	32
+
+// Collin,2021: self>semantic (FHR>HC)
+// Standardized name for contrast: self>nonperson
+// Subjects=34
+16	-64	22
+-10	-44	22
+16	-40	26
+-20	-34	-8

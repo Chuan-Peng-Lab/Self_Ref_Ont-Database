@@ -1,0 +1,68 @@
+// Reference=MNI
+// Murphy,2010: SE>SPE (HC,6 females,mean=29.6,sd=8.4)
+// (self-evaluation=SE,other evaluation=OE,semantic positivity-evaluation=SPE,healthy controls=HC,schizophrenia=SZ)
+// Standardized name for contrast: self>nonPerson
+// Subjects=10
+0	-56	26
+4	56	20
+-18	60	10
+54	-36	14
+
+// Murphy,2010: OE>SPE (HC,6 females,mean=29.6,sd=8.4)
+// Subjects=10
+0	-56	26
+-46	-66	24
+-10	44	20
+-30	38	46
+24	30	52
+50	-68	24
+
+// Murphy,2010: OE>SE (HC,6 females,mean=29.6,sd=8.4)
+// Subjects=10
+52	-16	-22
+-60	-16	-20
+
+// Murphy,2010: SE>OE (HC,6 females,mean=29.6,sd=8.4)
+// Standardized name for contrast: self>close
+// Subjects=10
+NA
+
+// Murphy,2010: SE>SPE (SZ,4 females,mean=26.7,sd=6.36)
+// Standardized name for contrast: self>nonPerson
+// Subjects=11
+-8	-60	24
+-26	32	52
+-6	58	14
+-6	58	-2
+
+// Murphy,2010: OE>SPE (SZ,4 females,mean=26.7,sd=6.36)
+// Subjects=11
+2	-58	28
+
+// Murphy,2010: OE>SE (SZ,4 females,mean=26.7,sd=6.36)
+// Subjects=11
+NA
+
+// Murphy,2010: SE>OE (SZ,4 females,mean=26.7,sd=6.36)
+// Subjects=11
+NA
+
+// Murphy,2010: SE>SPE(HC>Schizophrenia)
+// Standardized name for contrast: self>nonPerson
+// Subjects=21
+-10	-78	46
+-40	-62	32
+10	-72	0
+
+// Murphy,2010: OE>SPE(HC>Schizophrenia) 
+// Subjects=21
+16	-84	-6
+-36	-66	42
+
+// Murphy,2010: OE>SE(HC>Schizophrenia) 
+// Subjects=21
+52	-54	30
+
+// Murphy,2010: SE>OE(HC>Schizophrenia) 
+// Subjects=21
+NA

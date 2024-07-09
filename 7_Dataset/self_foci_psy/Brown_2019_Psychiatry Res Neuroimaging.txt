@@ -1,0 +1,68 @@
+// Reference=MNI
+// Brown,2019,self>other(SAD>HC)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+24	−85	10
+
+// Brown,2019,self>other(HC>SAD)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+NA
+
+// Brown,2019,self>other(All)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+27	−67	−2
+−21	−85	10
+−45	−79	13
+51	-64	-8
+
+// Brown,2019,self>other(SAD>HC)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+39	7	−17
+
+// Brown,2019,self>other(HC>SAD)
+// Standardized name for contrast: self>nonperson
+// Subjects=64
+−54	−49	7
+
+// Brown,2019,self>other(SAD,24 females,mean=27.3,SD=6.0)
+// Standardized name for contrast: self>nonperson
+// Subjects=51
+42	38	28
+
+// Brown,2019,self>other(HC,8 females,mean=29.1,SD=7.4)
+// Standardized name for contrast: self>nonperson
+// Subjects=13
+-9	38	13
+-42	-61	10
+-33	-91	10
+-24	-70	-29
+-3	-40	10
+-63	-37	22
+
+// Brown,2019,self>other (SAD:treatment>waitlist)
+// Standardized name for contrast: self>nonperson
+// Subjects=51
+−42	11	10
+−3	35	37
+−36	−49	37
+33	−52	49
+45	−1	43
+15	−46	52
+
+// Brown,2019,other>self(All)
+// Subjects=64
+-12	-82	-8
+-54	-19	7
+57	-7	1
+
+// Brown,2019,other>self(HC,8 females,mean=29.1,SD=7.4)
+// Subjects=13
+12	-82	4
+
+// Brown,2019,other>self(SAD,24 females,mean=27.3,SD=6.0)
+// Subjects=51
+-54	-19	4
+57	-7	1

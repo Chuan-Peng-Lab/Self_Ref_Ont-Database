@@ -1,0 +1,36 @@
+// Reference=MNI
+// (autism spectrum disorder=AD, healthy control=HC)
+// Morita,2016: self>other(HC, 0 female,mean=23.3,SD=3.3) 
+// Standardized name for contrast: self>stranger
+// Subjects=18
+48	10	28
+42	32	10
+36	24	0
+8	12	60
+4	2	34
+0	36	6
+-32	16	8
+40	-66	-12
+42	-54	-12
+36	-82	6
+2	-16	-18
+26	-30	-12
+8	-18	2
+
+// Morita, 2016: self>other(ASD, 0 female,mean=24.5,SD=6.7) 
+// Standardized name for contrast: self>stranger
+// Subjects=14
+-36	28	0
+-42	10	10
+-40	2	26
+
+// Morita, 2016: self>other(HC>ASD,0females) 
+// Standardized name for contrast: self>stranger
+// Subjects=32
+36	-68	-12
+18	-70	-4
+
+
+
+
+

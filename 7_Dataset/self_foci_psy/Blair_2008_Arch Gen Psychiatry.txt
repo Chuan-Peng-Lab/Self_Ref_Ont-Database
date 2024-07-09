@@ -1,0 +1,14 @@
+// Reference=TAL
+// Blair, 2008: self > other (All, 15females) 
+// Standardized name for contrast: self>stranger
+// Subjects=34
+−41	22	17
+ 50	25	23
+−20	36	25
+ −35	−3	47
+−44	−43	9
+ 45	−21	−5
+49	2	−10
+−60	−57	33
+ −28	−56	−1
+28	−73	−9

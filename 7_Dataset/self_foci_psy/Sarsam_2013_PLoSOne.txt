@@ -1,0 +1,44 @@
+// Reference=Talairach
+// Sarsam, 2013: Self>queen (healthy, 8 females)   
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+-6	33 	14
+21	-15	24
+-7 	-33 	35
+-16	0	27
+50	-31	4
+0	-8	12
+7 	-32	 3
+-42	-27	-8
+-2 	-44 	47
+-21	31	46
+-30 	-49 	-15
+-38	-65	-18
+6 	-26	-18
+
+// Sarsam, 2013: Self>queen (Depression, 10 females)   
+// Standardized name for contrast: self>celebrity
+// Subjects=13
+-1	31	40
+-4	36	11
+-42	29	7
+-6	33	14
+21	-15	74
+-7	-33	35
+-16	0	27
+50	-31	4
+0	-8	12
+7	-32	3
+-42	-27	-8
+7	-32	3
+-42	-27	-8
+-2	-44	47
+-21	31	46
+-30	-49	-15
+-38	-65	-18
+6	-26	-18
+
+// Sarsam, 2013: Self>queen (depressed>healthy, 8 females)   
+// Standardized name for contrast: self>celebrity
+// Subjects=27
+-1	21	48

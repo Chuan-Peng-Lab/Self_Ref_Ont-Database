@@ -1,0 +1,169 @@
+// Reference=MNI
+// Schneider,2012: Self>Semantic (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Standardized name for contrast: self>nonPerson
+// Subjects=17
+-6	53	-2
+0	32	22
+-3	38	-2
+-12	-52	22
+9	-49	22
+-3	-46	22
+
+// Schneider,2012: Friend>Semantic (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+0	35	19
+-9	41	-14
+6	56	19
+6	-52	22
+-6	-52	22
+-6	-40	-2
+
+// Schneider,2012: Harry Potter>Semantic (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+-12	-52	19
+-3	-55	10
+12	-52	22
+-48	-70	22
+-39	-76	37
+3	41	-14
+0	32	-17
+3	59	10
+60	-4	-17
+51	-7	-17
+42	17	-29
+-51	-10	-17
+-60	-7	-20
+-60	-16	-11
+
+// Schneider,2012: Self>Harry Potter (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Standardized name for contrast: self>celebrity
+// Subjects=17
+0	35	4 
+-15	47	1
+-12	17	4 
+18	-58	40
+
+// Schneider,2012: Friend>Harry Potter (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+0	35	16 
+0	23	1
+
+// Schneider,2012:Harry Potter>self (healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+12	-46	7
+6	-52	10
+-9	-49	7
+
+// Schneider,2012: Self>Rest(healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+-6	20	58
+-12	53	34
+-9	44	43
+-45	26	-8
+-39	26	-17
+-51	17	7
+48	-67	-29
+24	-79	-32	
+6	-79	-26
+-21	8	13
+-18	-19	22
+-15	-13	16
+18	17	10
+18	8	22
+9	-1	16
+
+// Schneider,2012: Friend>Rest(healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+-6	20	61
+0	56	19
+-9	53	31
+-45	26	-8
+-39	23	-17
+-63	-10	-20
+18	14	13
+24	8	-5
+-21	2	-8
+-15	11	16
+-15	-7	22
+24	-82	-29
+45	-67	-32
+42	-76	-29
+
+// Schneider,2012: Harry Potter>Rest(healthy subjects,5 females,mean=15.79,sd=2.08)
+// Subjects=17
+-6	20	61
+-9	32	52
+-12	20	49
+-42	29	-8
+-48	23	1
+-39	38	-8
+
+// Schneider,2012: Self>Harry Potter (22q11.2 deletion syndrome,7 females,mean=16.13,sd=2.36)
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+-3	-58	-2
+15	-73	1
+-9	-79	1
+
+// Schneider,2012: Harry Potter>Friend (22q11.2 deletion syndrome,7 females,mean=16.13,sd=2.36)
+// Subjects=14
+36	5	16
+21	14	19
+33	26	13
+
+// Schneider,2012: Self>Rest (22q11.2 deletion syndrome,7 females,mean=16.13,sd=2.36)
+// Subjects=14
+-9	44	43
+-9	23	58
+-15	53	34
+-63	-10	-23
+-45	-1	-29
+-60	-31	-14
+-42	26	-17
+-48	32	-11
+-48	23	-8
+-27	2	-5
+-21	-1	4
+-12	11	10	
+
+// Schneider,2012: Friend>Rest (22q11.2 deletion syndrome,7 females,mean=16.13,sd=2.36)
+// Subjects=14
+-63	-13	-23
+-60	-28	-17
+-51	-22	-20
+-24	2	-5
+-15	5	19
+-12	14	7
+-42	35	-14
+-42	26	-17
+-48	41	-11
+0	53	19
+-15	47	43
+-12	26	58
+15	17	4
+21	8	-5
+-39	-19	61
+-33	-13	64
+
+// Schneider,2012: Self>Rest (healthy subjects>22q11.2 deletion syndrome)
+// Subjects=31
+-18	23	19
+-18	32	16
+-27	47	25
+
+// Schneider,2012: Self>Semantic (healthy subjects>22q11.2 deletion syndrome)
+// Subjects=31
+-3	23	4
+-15	44	-8
+9	23	16
+
+// Schneider,2012: Self>Harry Potter (healthy subjects>22q11.2 deletion syndrome)
+// Subjects=31
+-21	35	10
+-18	50	4
+18	8	25
+
+// Schneider,2012: Self>Semantic(IQ covariate) (healthy subjects>22q11.2 deletion syndrome)
+// Subjects=31
+3	-1	31
+9	83	1

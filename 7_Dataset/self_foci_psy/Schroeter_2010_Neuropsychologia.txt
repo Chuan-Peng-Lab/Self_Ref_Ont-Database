@@ -1,0 +1,57 @@
+// Reference=TAL
+// Schroeter, 2010: evaluative vs semantic condition (diffuse axonal injury, 1female,mean=28,SD=10.2) 
+// Subjects=7
+−38	23	−9
+−47	−1	−30
+43	−1	−18
+10	53	27
+−29	−73	−21
+−53	−58	30
+52	−58	42
+19	−61	−9
+−8	11	57
+52	−34	9
+−8	41	9
+4	47	9
+61	−37	15
+
+// Schroeter, 2010: evaluative vs semantic condition (healthy, 1female,mean=26.4,SD=4.6) 
+// Subjects=7
+13	45	21
+ 7	−51	30
+−41	−57	24
+−20	48	24
+ 40	6	−9
+−44	0	−30
+
+// Schroeter, 2010: evaluative vs semantic condition (diffuse axonal injury vs healthy) (All)
+// Subjects=14
+−47	23	3
+−17	29	−6
+1	47	12
+37	14	−18
+−35	−55	39
+−5	56	21
+22	−64	−12
+34	23	15
+55	−58	36
+46	−46	48
+−5	5	48
+4	44	21
+10	38	45
+−11	−10	51
+4	26	12
+
+// Schroeter, 2010: evaluative vs semantic condition (healthy vs diffuse axonal injury) (All)
+// Subjects=14
+7	−63	21
+4	−24	−9
+
+// Schroeter, 2010: evaluative vs semantic condition (healthy > diffuse axonal injury) (All)
+// Subjects=14
+10	5	-9
+
+
+// Schroeter, 2010: evaluative vs semantic condition (diffuse axonal injury > healthy) (All)
+// Subjects=14
+-6	5	9

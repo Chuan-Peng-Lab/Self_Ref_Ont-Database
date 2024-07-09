@@ -1,0 +1,108 @@
+// Reference=MNI
+// Zhang, 2015: self>semantic (healthy, 9 females, mean=29.95, sd=10.99) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=21
+-2	62	14	
+-18	56	32	
+-20	50	38	
+-6	-56	32	
+-2	-18	34	
+12	-70	60	
+-52	-64	38	
+-46	-56	24	
+-48	-60	32	
+26	-82	-34	
+42	-44	62
+58	-26	52
+38	-36	42
+
+// Zhang, 2015: Other>self (healthy, 9 females, mean=29.95, sd=10.99) 
+// other: a relative or close friend
+// Subjects=21
+4	-56	30
+12	-82	4
+
+// Zhang, 2015: Other>semantic (healthy, 9 females, mean=29.95, sd=10.99) 
+// Subjects=21
+-4	-56	32	
+4	-52	28	
+0	-18	34	
+0	62	16	
+-6	58	38	
+-10	44	52	
+-54	-64	34	
+-48	2	-26	
+-30	16	-14	
+-42	14	-26	
+-52	-22	-10
+-60	-14	-8	
+50	10	-28	
+26	-82	-34	
+52	-64	36	
+46	-58	34	
+56	-66	22
+
+// Zhang, 2015: self>semantic (Bipolar disorder, 10 females, mean=41.29, sd=11.82) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=17
+0 	-44 	28
+-10 	-58 	32
+-2 	60 	14
+-22 	60 	20
+-8 	48	 2
+2 	-18 	36
+24 	42 	46
+-52 	-66 	36
+-12 	28 	56
+56 	-62 	34
+
+// Zhang, 2015: other>semantic (Bipolar disorder, 10 females, mean=41.29, sd=11.82) 
+// Subjects=17
+0 	-46 	30
+2 	-18 	34
+-4	 58 	18
+-8 	48 	2
+0 	62 	-2
+22 	40 	48
+54 	-60 	26
+-50 	-6 	-20
+-50 	-14 	-14
+-50 	-64 	32
+56 	2 	-24
+60 	-10 	-14
+-38 	20 	46
+-28 	16 	-14
+
+// Zhang, 2015: other>self (bipolar disorder, 10 females, mean=41.29, sd=11.82) 
+// Subjects=17
+-20 	-8 	-10
+-50 	-6 	-20
+56 	-10 	-10
+
+// Zhang, 2015: self>semantic (schizophrenia, 6 females, mean=35.53, sd=9.74) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=17
+-2	60	14
+-8	62	26
+-22 	54 	32
+-6 	-54 	32
+2 	-50 	30
+8 	-70 	40
+-44	-58 	26
+-38 	-54 	32
+
+// Zhang, 2015: other>semantic (schizophrenia, 6 females, mean=35.53, sd=9.74) 
+// Subjects=17
+6 	-56 	32
+-6 	-54	32
+0 	58 	16
+-6 	58 	38
+-10 	42 	52
+-44 	-58 	26
+-46 	-66 	42
+50 	-58 	28
+-48 	2 	-26
+-56 	-14 	-10
+-54 	-4 	-20
+50 	10 	-30
+56 	-12	-14

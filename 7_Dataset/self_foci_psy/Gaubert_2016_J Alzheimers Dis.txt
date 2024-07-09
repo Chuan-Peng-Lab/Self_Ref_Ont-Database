@@ -1,0 +1,39 @@
+// Reference=MNI
+// (mild cognitive impairment or early Alzheimer’s disease=MCI/AD)
+// Gaubert,2016: self>semantic(healthy controls,15 females,mean=66.6,sd=6.63)
+// Standardized name for contrast: self>nonperson
+// Subjects=28
+-4	56	24
+-4	-56	24
+–46	-68	30
+4	60	22
+-62	-16	-12
+54	6	-30
+-36	22	-22
+-26	-24	-18
+48	-62	28
+
+// Gaubert, 2016: self>semantic (MCI/AD patients,8 females, mean=70.1, sd=9.8)
+// Standardized name for contrast: self>nonperson
+// Subjects=15
+-6	56	24
+4	64	18
+-4	-56	26
+-52	-14	-16
+-44	-66	22
+34	-6	-8
+-44	26	-6
+48	-62	30
+-26	-12	-22
+-18	-74	-12
+54	6	8
+
+// Gaubert,2016: self>semantic(healthy controls>MCI/AD patients)
+// Standardized name for contrast: self>nonperson
+// Subjects=43
+-44	-68	30
+
+// Gaubert,2016: self>semantic(MCI/AD patients>healthy controls)
+// Standardized name for contrast: self>nonperson
+// Subjects=43
+NA
