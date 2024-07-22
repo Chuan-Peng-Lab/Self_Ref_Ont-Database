@@ -58,6 +58,7 @@ Participants (N = 4054, 2406 females) range from adolescents to the elderly. In 
 │ ├── Ont_Heal_Self_foci_v1
 │ └── self_foci_psy
 │
+├── .gitignore
 ├── LICENSE
 └── README.md (Overall project documentation)
 
