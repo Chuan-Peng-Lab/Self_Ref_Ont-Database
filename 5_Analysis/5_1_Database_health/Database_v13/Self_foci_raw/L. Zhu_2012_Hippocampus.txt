@@ -1,0 +1,45 @@
+// Reference=MNI
+// Zhu, 2012: self>Bruce Lee (encoding, (SRR+SIR+SF - ORR - OIR - OF), 10 females, mean=22.64, sd=2.69, 20-30)
+// Notes: (1) SRR, items endorsed as self-relevant in self-reference task and later judged as 4, 5, 6 in memory test;  (2) SIR, self-irrelevant items judged as 4, 5, 6;  (3) SF, self-relevant and self-irrelevant items judged as 1, 2, 3 were combined together because of the low number of trials;  (4) ORR, items endorsed as other-relevant in other-reference task and later judged as 4, 5, 6 in memory test;  (5) OIR, other-irrelevant items judged as 4, 5, 6;  (6)OF, other-relevant and other-irrelevant items judged as 1, 2, 3 were also combined together
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+0	50	-8
+20	54	16
+-22	50	28
+-16	60	20
+2	-14	38
+-58	-48	22
+28	20	-20
+-26	22	-22
+10	22	62
+8	28	50
+-56	-62	-14
+-52	-34	4
+-2	-50	48
+-8	10	-12
+-28	58	-8
+
+// Zhu, 2012: SRR>SIR (self-descriptiveness judgment,10 female, mean=22.64, sd=2.69, 20-30)
+// Subjects=14
+12	30	2
+-14	-38	6
+4	-96	2
+
+// Zhu, 2012: (SRR-SF) masked by (SIR-SF) (Memory, Self-Relevant and Self-Irrelevant ,10 female, mean=22.64, sd=2.69, 20-30)
+// Subjects=14
+-34	-28	-6
+
+// Zhu, 2012: (SIR-SF) masked by (SRR-SF) (Memory, Self-Relevant and Self-Irrelevant,10 female, mean=22.64, sd=2.69, 20-30)
+// Subjects=14
+32	-60	-10
+
+// Zhu, 2012: other-relevant>other-irrelevant (retrieval, (ORR - OF) masked by (OIR - OF), 10 female, mean=22.64, sd=2.69, 20-30)
+// Subjects=14
+-6	14	6
+14	-70	0
+20	-40	-2
+30	-40	-2
+
+// Zhu, 2012: other-relevant > other-irrelevant (retrieval, (OIR - OF) masked by (ORR – OF), 10 female, mean=22.64, sd=2.69, 20-30)
+// Subjects=14
+NA

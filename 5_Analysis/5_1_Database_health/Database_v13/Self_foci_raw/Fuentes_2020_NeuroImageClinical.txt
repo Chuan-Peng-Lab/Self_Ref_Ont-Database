@@ -1,0 +1,47 @@
+// Reference=MNI
+// Fuentes-Claramonte, 2020: self>facts (control, 10 females, mean=38.74, sd=10.2)
+// Standardized name for contrast: self>nonPerson
+// Subjects=27
+-4	-52	30
+-10	58	-6
+-44	-60	22
+54	12	-30
+0	-20	36
+
+// Fuentes-Claramonte, 2020: acquaintance>facts (control, 10 females, mean=38.74, sd=10.2)
+// Subjects=27
+-4	-52	30
+-52	-62	22
+48	-56	24
+-8	58	-4
+
+// Fuentes-Claramonte, 2020: acquaintance>self (control, 10 females, mean=38.74, sd=10.2)
+// Subjects=27
+2	-64	32
+-50	18	-34
+50	-64	30
+30	60	-6
+-56	-64	18
+58	-6	-26
+
+// Fuentes-Claramonte, 2020: self>facts (Patients, 7 females, mean=37, sd=8.06)
+// Subjects=23
+2	-52	28
+-16	58	32
+-44	-60	24
+-48	-6	-40
+50	4	-34
+56	-22	-14
+
+// Fuentes-Claramonte, 2020: acquaintance>facts (Patients,7 females, mean=37, sd=8.06)
+// Subjects=23
+-46	6	-40
+-4	-52	30
+-14	52	32
+36	12	-42
+6	-86	-8
+
+// Fuentes-Claramonte, 2020: acquaintance>self (Patients)
+// Subjects=16
+-4	-70	42
+-44	6	-32

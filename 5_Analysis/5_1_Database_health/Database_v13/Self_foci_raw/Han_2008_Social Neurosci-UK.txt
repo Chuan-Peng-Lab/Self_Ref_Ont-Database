@@ -1,0 +1,17 @@
+// Reference=Talairach
+// Han, 2008: self>font-judgment (8 females, mean=22.5, sd=6, non-religious)  
+// Standardized name for contrast: self>nonPerson
+// Subjects=14 
+-40	25	-1
+-4	45	44
+-61	-33	3
+-77	-21	5.34
+
+// Han, 2008: self>font-judgment (6 females, mean=23.6, sd=2.87, Christian)  
+// Standardized name for contrast: self>nonPerson
+// Subjects=14  
+-48	25	1
+-10	52	36
+-53	-61	17
+-79	-25	4.92
+

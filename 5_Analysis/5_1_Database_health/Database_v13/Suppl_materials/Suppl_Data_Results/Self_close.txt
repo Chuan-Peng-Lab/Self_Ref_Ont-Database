@@ -1,0 +1,235 @@
+// Reference=MNI
+// Benoit, 2010: self>other (5 females, mean=24.2, range=19.4-31, Study phase)
+// Standardized name for contrast: self>close 
+// Subjects=13
+26	50	26
+-12	34	26
+-42	32	10
+46	28	4
+52	10	-6
+42	4	24
+34	4	6
+38	-4	-34
+-32	0	2
+0	-2	18
+62	-36	40
+
+// Chen, 2015: self>mother (all participants at Time 1)
+// Standardized name for contrast: self>close 
+// Subjects=27
+9	-48	45
+-9	-39	45
+0	51	-3
+45	-84	18
+-48	-18	-30
+60	-24	18
+9	-21	9
+-63	-39	18
+-60	-51	-18
+30	30	36
+-9	-6	69
+
+// D'Argembeau, 2007: self>other (11 females, mean=23, sd=3.4)
+// Standardized name for contrast: self>close 
+// Subjects=17
+-10	46	22
+
+// Furichi, 2019: (self>button)>(other>button) (healthy subjects,7 females, mean=27.5, sd=4.3)  
+// Standardized name for contrast: self>close 
+// Subjects=15
+-23	-21	-10
+-1	-15	46
+
+// Heatherton, 2006: self>friend (16 females, mean=24, 18-31) 
+// Standardized name for contrast: self>close 
+// Subjects=30
+1.11	44.7	10.02
+-8.87	60.23	-7.03
+7.32	63.48	-7.63
+-47.82	24.61	-18.53
+52.59	36.56	-22.55
+49.56	16.21	-10.4
+64.92	-38.84	-2.97
+14.66	31.57	52.55
+-50.73	-72.5	-12.24
+
+// Kedia, 2019: Self-other>familiar-other (18 females, mean=20.06, sd=1.43) 
+// Standardized name for contrast: self>close 
+// Subjects=18
+3	47	7
+27	-76	-5
+-30	-88	-5
+
+// Knyazev, 2020: Me>Friends>Stranger>Unpleasant (26 females, mean=23.5, sd=4.9, foci is not clearly defined) 
+// Standardized name for contrast: self>close 
+// Subjects=47
+27	-64	50
+9	-55	53
+
+// Laurita, 2020: partner and self>parent and friend (young, 16 females, mean=24, sd=3.5) 
+// Standardized name for contrast: self>close 
+// Subjects=29
+-8	-68	38
+-22	-96	-4
+46	-40	32
+8	-24	32
+40	8	54
+52	-50	-4
+-42	-48	34
+-60	18	12
+10	30	26
+16	12	52
+-40	48	10
+24	-28	0
+-14	30	-24
+-58	-16	-40
+-12	22	-6
+30	18	-8
+62	16	14
+-24	24	-6
+
+// Li, 2019, 3PP: Self>Friend (10 females, mean=19.5, sd=1.2) 
+// Standardized name for contrast: self>close 
+// Subjects=20
+-3	41	16
+6	 38	13
+3	 50	22
+
+// McAdams, 2014: self>friend (healthy,18 females, mean=24.5, sd=6.4, 18-39, social)
+// Standardized name for contrast: self>close 
+// Subjects=18
+-4	-94	-4
+-16	-90	8
+-10	-78	-2
+8	-82	-4
+12	-90	12
+16	-88	-10
+32	-86	12
+24	-76	16
+-24	-68	-18
+-28	-78	-20
+-18	-70	-4
+
+// McAdams, 2016: Self>Friend (19 females, mean=27.9, sd=6, 20-45, HC, Social Identity-V2 Task) 
+// Standardized name for contrast: self>close 
+// Subjects=19
+32	-56	36
+
+// Modinos, 2009: [self>semantic]>[an acquaintance>semantic] (6 females, mean=20.8, sd=2.5)
+// Standardized name for contrast: self>close 
+// Subjects=16
+-8	28	28
+6	28	28
+26	54	30
+-24	52	32
+20	52	36
+-24	50	22
+66	-40	18
+8	10	62
+-36	20	4
+
+// Modinos, 2011: Self>Other (Subjects With Low Psychosis Proneness, 8 females, mean=20.8, sd=2.3)
+// Standardized name for contrast: self>close 
+// Subjects=18
+-2	42	6 
+-40	20	4
+44	18	-6 
+-12	54	2 
+
+// Moran, 2011: Self>mother (13 females, mean=24.3, 19-41)
+// Standardized name for contrast: self>close 
+// Subjects=21
+-6	60	9
+3	45	0
+6	-24	39
+
+// Ochsner, 2005: You About Self>You About Friend (exp2, 9 females, mean=22.95)
+// Standardized name for contrast: self>close 
+// Subjects=16
+26	42	4
+
+// Park,2020: self>other (HC,13 females, mean = 21.6, sd=2.9)
+// Standardized name for contrast: self>close 
+// Subjects=28
+-26	38	-4 
+-12	50	2 
+-24	48	-2
+
+// Pauly, 2013: positive self effect>positive other effect (12 females, mean=33.84, sd=7.13, encoding)
+// Standardized name for contrast: self>close 
+// Subjects=24
+-56	17	36
+7	23	-20
+3	23	66
+16	-3	-26
+
+// Pauly, 2014: self>other (Control, 6 females, mean=34.46, sd=8.58)
+// Standardized name for contrast: self>close 
+// Subjects=13
+46	20	-30
+-3	20	-20
+-20	-10	-33
+
+// Schmitz 2004: self evaluation>significant other evaluation (9 females, mean=24, sd=3) 
+// Standardized name for contrast: self>close 
+// Subjects=18
+29.14	58.52	7.06
+-29.18	51.94	8.7
+33.42	-42.42	-16.65
+
+// Van, 2017: self>mother (15 females, mean=22.6, sd=1.2) 
+// Standardized name for contrast: self>close 
+// Subjects=30
+-30	26	-11
+-51	5	-23
+-51	14	-26
+-9	-19	1
+18	-22	-2
+-24	-16	-5
+-54	-31	1
+-60	-40	10
+-51	-19	-5
+48	2	-35
+57	8	-29
+30	-61	-23
+30	-46	-23
+-3	-70	-8
+
+// Vanderwal, 2008: self>mother (7 females, mean=21.5, sd=1.8) 
+// Standardized name for contrast: self>close 
+// Subjects=17
+14.04	40.08	5.78
+7.77	41.61	22.54
+-37.79	-45.24	-8.43
+
+// Wang, 2012: Self>father judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>close 
+// Subjects=32
+-6	46	20
+
+// Wu, 2010: Self>mother (15 females, mean=19.8, sd=1.4, Han+Tibetan)  
+// Standardized name for contrast: self>close 
+// Subjects=31
+-38 	-54	43
+
+// Yamawaki, 2017: self>friend and self>other (9 females, mean=22.5, sd=1.6) 
+// Standardized name for contrast: self>close 
+// Subjects=19
+-6	55	22 
+51	-59	-8 
+
+// Yang, 2012: Self-reference>other-reference (8 females, mean=22.4, sd=1.6, 19-24) 
+// Standardized name for contrast: self>close 
+// Subjects=17
+0.14	32.35	15.74
+
+// Zhang, 2006: Self>Mother (experiment2, 4 females, mean=20.4,18-22)  
+// Standardized name for contrast: self>close 
+// Subjects=7
+-14.19	44.36	-4.25
+-9.99	52.26	-11.83
+
+// Y.Zhu, 2007: self>mother (Western, 5 females, mean=23.1, sd=2.33) 
+// Standardized name for contrast: self>close 
+// Subjects=13 
+-4	46	-6

@@ -47,8 +47,12 @@ Participants (N = 4054, 2406 females) range from adolescents to the elderly. In 
 │ └── 4_3_Manual
 │
 ├── 5_Analysis
-│ ├── 5_3_ThirdTrial
-│ └── About.txt
+│ ├── 5_1_Database_health
+│ │ └── Database_v13
+│ └── 5_2_Database_psych
+│ │ ├── 手册_自我参照_操作化定义.csv
+│ │ ├── ...
+│ │ └── Self_Ref_Operationalization.csv
 │
 ├── 6_Reports
 │ ├── 6_1_Project_reports [slides]
