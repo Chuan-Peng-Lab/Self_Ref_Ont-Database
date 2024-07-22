@@ -1,0 +1,14 @@
+// Reference=Talairach
+// Fossati, 2003: self>other (7 females, mean=25.8, sd=4.4, other: whether the trait was socially desirable)
+// Standardized name for contrast: self>nonPerson
+// Subjects=10
+10	49	16
+-16	40	27
+-14	 -27	37
+
+// Fossati, 2003: both self and other (7 females, mean=25.8, sd=4.4, other: whether the trait was socially desirable)
+// Subjects=10
+16	9	49
+-22	-14	55
+-21	22	54
+9	-44	53

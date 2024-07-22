@@ -1,0 +1,34 @@
+// Reference=Talairach
+// Heatherton, 2006: self>friend (16 females, mean=24, 18-31)
+// Standardized name for contrast: self>close
+// Subjects=30
+0 	39 	17
+-9 	55 	3
+6 	58 	3
+-45 	23 	-11
+48 	34 	-12
+45 	14 	-3
+59	-38 	-1
+12 	23 	54
+-48 	-68 	-14
+
+// Heatherton, 2006: self>case (16 females, mean=24, 18-31)
+// Standardized name for contrast: self>nonPerson
+// Subjects=30
+-45 	23 	-11
+50 	23	-11
+9 	58 	0
+-33 	-71	-14
+3 	-46 	19
+27 	-74 	-24
+
+// Heatherton, 2006: friend>self (16 females, mean=24, 18-31)
+// Subjects=30
+-39	-59	44
+15	-48	-25	
+
+// Heatherton, 2006: friend>case (16 females, mean=24, 18-31)
+// Subjects=30
+-30	31	-24
+3	34	-24
+0	14	46	

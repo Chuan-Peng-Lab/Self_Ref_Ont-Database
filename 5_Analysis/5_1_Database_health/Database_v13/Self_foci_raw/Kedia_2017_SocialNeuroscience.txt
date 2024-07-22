@@ -1,0 +1,7 @@
+// Reference=MNI
+// Kedia, 2019: Self-other>familiar-other (18 females, mean=20.06, sd=1.43) 
+// Standardized name for contrast: self>close
+// Subjects=18
+3	47	7
+27	-76	-5
+-30	-88	-5

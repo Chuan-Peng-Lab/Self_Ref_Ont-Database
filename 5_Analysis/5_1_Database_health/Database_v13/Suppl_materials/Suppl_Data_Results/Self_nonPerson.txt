@@ -1,0 +1,431 @@
+// Subjects// Reference=MNI
+// Benoit, 2010: self>syllables (5 females, mean=24.2, range=19.4-31, Study phase)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-8	36	52
+50	30	-8
+-48	28	-8
+-50	-2	-32
+68	-10	-20
+-2	-12	36
+-6	-50	24
+-44	-56	26
+58	-64	24
+
+// Fields, 2019: Self-Positive>Fixation (17 females, mean=20.7, sd=1.3, 18-23) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=17
+-52	22	0
+-50	24	-4
+-44	10	-22
+-54	-30	-2
+-52	-4	-18
+-44	-16	62
+2	10	60
+-6	64	28
+18	-90	2
+-20	-90	-14
+40	-86	-8
+42	12	-24
+
+// Fossati, 2003: self>other (7 females, mean=25.8, sd=4.4) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=10
+11.86	55.27	7.67
+-16.04	46.74	21.32
+-13.46	-23.47	39.43
+
+// Fuentes-Claramonte, 2020: self>facts (Control,10 females, mean=38.74, sd=10.2)
+// Standardized name for contrast: self>nonPerson
+// Subjects=27
+-4	-52	30
+-10	58	-6
+-44	-60	22
+54	12	-30
+0	-20	36
+
+// Furuichi, 2019: self>button (healthy subjects, 7 females, mean=27.5, sd=4.3)   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=15
+-18.05	-99.86	3.36
+-44.06	17.62	21.31
+-3.78	24.4	45.73
+0.15	-17.92	6.15
+-50.68	-35.95	-.17
+
+// Han, 2008: self>font-judgment (8 females, mean=22.5, sd=6, non-religious)   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=14
+-42.29	27.79	-7.74
+-2.86	53.87	39.44
+-64.69	-33.56	3.2
+-81.99	-20.62	4.83
+
+// Han, 2008: self>font-judgment (6 females, mean=23.6, sd=2.87, Christian)   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=14
+-50.91	27.97	-5.37
+-9.48	60.46	29.93
+-55.73	-61.86	21.53
+-84.14	-24.92	4.83
+
+// Han, 2010: self>font (7 females, mean=25.4, sd=2.46)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=14
+-10	34	50
+-42	26	-4
+-38	8	46
+-58	0	-12
+32	-76	-32
+
+// Heatherton, 2006: self>case (16 females, mean=24, 18-31) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=30
+-47.82	24.61	-18.53
+54.81	24.97	-20.32
+10.52	63.18	-11.02
+-34.52	-75.64	-12.2
+4.73	-45.48	21.12
+30.18	-79.64	-24.11
+
+// Herold, 2015: Self-referential>social (14 females, mean=38.57, sd=5.27, 30-50) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=28
+-32	34	-14
+-50	36	6
+-54	8	26
+-18	38	46
+-6	40	20
+-4	32	-12
+-4	46	2
+22	-66	10
+-6	-94	2
+-32	-88	18
+14	-84	10
+16	-82	-6
+-58	-54	-14
+-34	-70	42
+30	-42	-6
+-40	-6	8
+44	-14	56
+10	0	54
+-26	-52	-18
+
+// Herold, 2017: Self-referential>Non-Self-referential (healthy, 4 females, mean=38.07, sd=5.84) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=14
+-20	40	46
+-8	44	6
+-44	34	-14
+-10	-52	28
+
+// Hornung, 2019: Self>Lexical (17 females, mean=33.59, sd=13.09) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=34
+-10	54	34
+28	-81	-34
+59	-6	-20
+-28	-81	-34
+
+// Lou, 2004: self>Control (6 females, mean=27, 20-38, PET )   
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-7.02	49.58	51.14
+5.98	-48.59	33.74
+-50.13	-65.8	36.4
+-46.76	32.16	-18.18
+57.98	-69.26	39.38
+-11.2	-98.2	32.21
+24.64	-96	-38.09
+
+// Li, 2019, 1PP: Self>Font (10 females, mean=19.6, sd=1.0) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=20
+-6	38	55
+-6	23	64
+-15	47	40
+-6	-52	31
+-9	-52	7
+6	-76	7 
+0	-13	43
+-39	11	46
+
+// Li, 2019, 3PP: self>font (10 females, mean=19.5, sd=1.2)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=20
+-42	29	-8
+-57	26	10
+-36	5	49
+-3	56	31
+-9	26	61
+-9	44	52
+ 21	-79	-38
+-42	-58	28
+-54	-43	25
+-9	-49	28
+-9	-46	1
+54	11	-29
+30	17	-14
+36	26	-14
+36	17	-26
+-18	5	4
+-27	-1	-2
+-15	8	19
+
+// Martial, 2018: Self General > Control (12 females, mean=22, sd=2, 19-26) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=20
+8	-86	-6
+52	-64	34
+12	4	14
+-44	28	-8
+
+// Modinos, 2011: Self > Semantic (Subjects With Low Psychosis Proneness, 8 females, mean=20.8, sd=2.3)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=18
+-8	52	-2
+-4	58	22
+-6	-52	26
+-34	18	-12
+32	18	-16
+
+// Noll, 2018: Self>Change (37 females, mean=31.16, sd=5.78, 20-43) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=37
+0	34	-6
+-4	34	2
+0	50	0
+-10	-62	18
+4	-62	26
+6	-52	26
+-46	-56	50
+-42	-54	42
+-34	-68	52
+42	14	46
+0	-16	40
+0	-6	6
+-2	-18	10
+-44	48	2
+-8	-28	50
+34	-46	-28
+22	-50	-26
+34	54	0
+46	-60	48
+46	-52	40
+
+// Ochsner, 2005: Self>Syllable (exp1, 9 females, mean=29)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=17
+-6	32	30
+
+// Oetken, 2017: self>lex (11 females, mean=26.5, sd=5.51, 21-42) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=20
+-51	26	-8
+-42	 -58	28
+27	-76	-29
+-3	-49	28
+42	29	-17
+-42	14	49
+45	14	-35
+60	-64	28 
+
+// Pauly, 2013: self-evaluation>lexical baseline (12 females, mean=33.84, sd=7.13, PSE, encoding)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=24
+-3	59	16
+-50	26	-7
+-3	-56	23
+-53	-73	30
+-56	-13	-10
+36	17	-33
+-23	-13	-23
+
+// Pauly, 2014: Self>lexical (Control, 6 females, mean=34.46, sd=8.58)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-3	59	20
+-43	30	-17
+40	20	-33
+-3	-53	20
+-50	-10	-20
+
+// Pfeifer, 2007: self>rest (adults, 6 females, mean=26.1, 23-31.7)  
+// Standardized name for contrast: self>nonPerson 
+// Subjects=12
+-67.98	-24.1	1.2
+61.77	-29.4	6.24
+-59.62	-2.13	-16.81
+50.84	-26.02	-2.88
+-48.4	-29.59	10.37
+51.06	-30.95	13.29
+-48.43	22.71	18.64
+59.41	23.77	1.02
+-59.43	23.35	3.08
+57.16	23.14	-5.61
+-50.95	20	-10.18
+48.43	24.61	-12.33
+-55.46	9.82	-27.02
+54.87	6.78	-19.64
+-15.93	51.93	30.89
+-5.27	59.65	20.98
+-3.34	68.84	4.35
+14.04	65.27	11.13
+-58.98	-34.55	26.73
+3.69	29.23	39.52
+-2.65	21.53	49.36
+-37.84	18.96	0.91
+-18.44	9.9	-5.25
+9.86	7.2	10.22
+-41.51	6.29	49.29
+-50.28	16.27	41.72
+
+// Powell, 2010: self>other in the Agentic Self-reference Task (experiment1, 9 females, mean=20, 18-24)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+44	-48	50
+46	28	30
+-48	-44	50
+24	4	56
+
+// Powell, 2010: self>other in the Agentic Self-reference Task (experiment2, 8 females, mean=20, 18-31)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=15
+44	-32	44 
+-40	-36	46 
+-22	-4	54 
+-56	10	38 
+26	4	62 
+12	40	20
+
+// Schmitz, 2004: self evaluation>semantic evaluation (9 females, mean=24, sd=3) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=18
+7.35	61.46	-6.31
+3.67	-60.69	19.29
+3.33	-23.85	-0.04
+-3.5	19.55	-17.67
+
+// Van buuren, 2010: self>control (11 females, mean=21.5, sd=1.9)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=19
+-4	48	16
+-8	-60	8
+-32	16	-24
+44	-16	-20
+
+// Van buuren, 2012: self>non-referential (HC, 11 females, mean=27.5, sd=8.1)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=18
+8	64	8
+-32	28	-16
+-48	-72	24
+32	20	-16
+
+// Wade-Bohleber, 2019: self-relevant>control (27 females, mean=33.85, sd=12.65)
+// Standardized name for contrast: self>nonPerson 
+// Subjects=35
+32	-54	6
+32	16	10
+-24	16	10
+-14	-54	30
+-54	-68	8
+52	-70	0
+-2	2	50
+
+// Wang, 2012, Self>Font judgment (16 females, mean=22.7, sd=1.9, 19-27) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=32
+-8	42	50
+-38	24	-14
+-48	-60	20
+-6	-64	16
+-10	16	8
+ 
+// Zhu, 2007: self>font (Chinese, 5 females, mean=21.5, sd=1.13)  
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-44.59	23.45	-19.59
+3.26	60.98	11.74
+-13.89	68.54	24.73
+
+// Zhu, 2007: self>font (Western, 5 females, mean=23.1, sd=2.33)  
+// Standardized name for contrast: self>nonPerson 
+// Subjects=13
+-65.74	-36.65	4.64
+-31.63	16.91	-21.41
+-4.68	33.4	61.66
+-5.05	61.31	38.74
+
+// Yang, 2012: Self-reference>Semantic (8 females, mean=22.4, sd=1.6, 19-24) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=17
+-4.27	51.38	12.81
+18.87	41.71	45.87
+-16.11	13.38	8.93
+0.49	-52.53	26.38
+
+// Yoshimura, 2009: self>semantic (8 females, mean=23.3, sd=2.7) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=15
+-6.82	-49.62	46.38
+-7.03	-61.06	27.35
+10.27	-47.72	31.34
+-3.63	46.99	-22.62
+3.08	41.03	-6.46
+7.23	38.73	-19.75
+5.36	61.63	7.15
+-.93	59.77	22.01
+-58.74	4.07	-30.88
+-60.75	-11.26	-22.61
+55.78	2.25	-33.77
+64.63	-8.18	-19.45
+-62.21	-55.29	23.24
+
+// Zeng, 2021, Personal self-worth>control (27 females, mean=20.16, sd=1.5, 18-24) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=50
+24	57	12 
+-24	45	21
+36	33	33
+39	-18	54 
+-30	15	-15 
+6	30	21
+-6	12	63
+-30	-45	42
+-54	-9	18
+-12	-54	-18
+
+// Zhang, 2006: Self>Semantic (3 females, mean=20.4, 18-22, experiment1)  
+// Standardized name for contrast: self>nonPerson 
+// Subjects=7
+3.14	62.27	2.65
+9.68	53.99	5.59
+-.68	50.69	39.72
+1.2	55.21	19.07
+
+// Zhang, 2006: Self>Semantic (experiment2, 4 females, mean=20.4, 18-22)  
+// Standardized name for contrast: self>nonPerson 
+// Subjects=7
+25.32	38.23	42.75
+-18.04	-57.13	12.58
+1.02	58.22	5.32
+9.69	51.87	5.8
+7.72	59.9	22.97
+
+// Zhang, 2015: self>semantic (HC, 9 females, mean=29.95, sd=10.99) 
+// Standardized name for contrast: self>nonPerson 
+// Subjects=21
+-2	62	14	
+-18	56	32	
+-20	50	38	
+-6	-56	32	
+-2	-18	34	
+12	-70	60	
+-52	-64	38	
+-46	-56	24	
+-48	-60	32	
+26	-82	-34	
+42	-44	62
+58	-26	52
+38	-36	42

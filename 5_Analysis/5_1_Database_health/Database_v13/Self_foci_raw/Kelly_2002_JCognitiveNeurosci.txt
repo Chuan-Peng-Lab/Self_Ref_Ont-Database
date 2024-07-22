@@ -1,0 +1,7 @@
+// Reference=Talairach
+// Kelley, 2002: self>Bush (9 females, mean=20, 18-30)
+// Standardized name for contrast: self>celebrity
+// Subjects=21
+10	52	2
+12	-48	50
+

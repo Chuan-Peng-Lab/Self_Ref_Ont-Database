@@ -1,0 +1,11 @@
+// Reference=MNI
+// Lombardo, 2010: Self>British Queen (Controls, mean=27.97, sd=6.1, 18-42)
+// Standardized name for contrast: self>celebrity
+// Subjects=33
+-6	50	-6
+ -4	62	2
+ 22	-82	 -24
+
+// Lombardo, 2010: Self>British Queen (Controls>ASC)
+// Subjects=62
+ -4	46	 -10

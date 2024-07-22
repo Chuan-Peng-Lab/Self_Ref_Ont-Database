@@ -1,0 +1,89 @@
+// Reference=Talairach
+// Furuichi, 2019: self>button (healthy subjects, 7 females, mean=27.5, sd=4.3)  
+// Standardized name for contrast: self>nonPerson
+// Subjects=15
+-18	-95	-2
+-42	13	24
+-5	17	47
+-1	-19	8
+-48	-35	0
+
+// Furuichi, 2019: friend>button (healthy subjects, 7 females, mean=27.5, sd=4.3)  
+// Subjects=15
+15	-71	-21
+-41	1	43
+-1	19	47
+-59	-12	-8
+-7	-64	-39
+-43	0	-38
+
+// Furuichi, 2019: (self>button)>(friend>button) (healthy subjects, 7 females, mean=27.5, sd=4.3)  
+// Standardized name for contrast: self>close
+// Subjects=15
+-23	-21	-10
+-1	-15	46
+
+// Furuichi, 2019: (friend>button)>(self>button) (healthy subjects, 7 females, mean=27.5, sd=4.3)  
+// Subjects=15
+NA
+
+// Furuichi, 2019: self>button (Schizophrenia, 7 females, mean=27, sd=5.3)  
+// Subjects=13
+-22	-93	0
+4	21	40
+-34	-57	46
+-3	-43	-13
+36	20	-3
+-59	-44	8
+42	20	22
+
+// Furuichi, 2019: friend>button (Schizophrenia, 7 females, mean=27, sd=5.3)  
+// Subjects=13
+-28	-87	3
+-43	17	-9
+-28	-57	47
+-52	-18	-10
+27	19	3
+-3	-62	-36
+
+// Furuichi, 2019: (Self>Button)>(friend>Button) (Schizophrenia, 7 females, mean=27, sd=5.3)  
+// Subjects=13
+NA
+
+// Furuichi, 2019: (friend >Button)>(Self>Button) (Schizophrenia, 7 females, mean=27, sd=5.3)  
+// Subjects=13
+NA
+
+// Furuichi, 2019: Self>Button (Healthy subjects>Schizophrenia patients)  
+// Subjects=28
+NA
+
+// Furuichi, 2019: friend>Button (Healthy subjects>Schizophrenia patients)  
+// Subjects=28
+NA
+
+// Furuichi, 2019: (Self>Button)>(friend>Button) (Healthy subjects>Schizophrenia patients)  
+// Subjects=28
+NA
+
+// Furuichi, 2019: (friend>Button)>(Self>Button) (Healthy subjects>Schizophrenia patients)  
+// Subjects=28
+NA
+
+// Furuichi, 2019: Self>Button (Schizophrenia patients>Healthy subjects) 
+// Subjects=28
+49	-43	41
+30	15	50
+
+// Furuichi, 2019: friend>Button (Schizophrenia patients>Healthy subjects)  
+// Subjects=28
+27	17	3
+
+// Furuichi, 2019: (friend> Button)>(Self>Button) (Schizophrenia patients>Healthy subjects)  
+// Subjects=28
+-23	-21	-10
+
+// Furuichi, 2019: (Self>Button)>(friend>Button) (Schizophrenia patients>Healthy subjects)  
+// Subjects=28
+NA
+

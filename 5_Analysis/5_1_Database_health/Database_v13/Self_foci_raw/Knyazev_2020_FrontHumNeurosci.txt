@@ -1,0 +1,6 @@
+// Reference=MNI
+// Knyazev, 2020: Me>Friends>Stranger>Unpleasant (26 females, mean=23.5, sd=4.9, foci is not clearly defined) 
+// Standardized name for contrast: self>close
+// Subjects=47
+27	-64	50
+9	-55	53

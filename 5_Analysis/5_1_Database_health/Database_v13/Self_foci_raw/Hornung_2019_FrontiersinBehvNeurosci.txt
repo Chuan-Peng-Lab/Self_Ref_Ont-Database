@@ -1,0 +1,49 @@
+// Reference=MNI
+// Hornung, 2019: Self>Julia Roberts or Brad Pitt (17 females, mean=33.59, sd=13.09) 
+// Standardized name for contrast: self>celebrity
+// Subjects=34
+-3	38	5
+-47	-49	26
+28	-81	-34
+47	-34	1
+
+// Reference=MNI
+// Hornung, 2019: Julia Roberts or Brad Pitt>Self (17 females, mean=33.59, sd=13.09) 
+// Subjects=34
+6	-65	37
+56	-9	1
+-53	-9	5
+3	-21	66
+-41	51	-2
+
+// Hornung, 2019: Self>Lexical (17 females, mean=33.59, sd=13.09) 
+// Standardized name for contrast: self>nonPerson
+// Subjects=34
+-10	54	34
+28	-81	-34
+59	-6	-20
+-28	-81	-34
+
+// Hornung, 2019: Lexical>Self (17 females, mean=33.59, sd=13.09) 
+// Subjects=34
+-38 	-43 	41
+-44 	38 	26
+-10 	-74 	-38
+
+// Hornung, 2019: Julia Roberts or Brad Pitt>Lexical (17 females, mean=33.59, sd=13.09) 
+// Subjects=34
+-10 	54 	34
+-44 	29 	-9
+-3 	-53	 26
+-47	-68 	30
+28	-81 	-34
+-22 	-15 	-13
+53 	-65 	30
+59 	-6 	-16
+19 	-9 	-16
+
+// Hornung, 2019: Lexical>Julia Roberts or Brad Pitt (17 females, mean=33.59, sd=13.09) 
+// Subjects=34
+-38 	-43 	44
+-41 	41 	26
+-10	-74 	-34

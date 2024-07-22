@@ -1,0 +1,8 @@
+// Reference=MNI
+// Koski, 2020: Self>Unrelated other (study2, 48 females, mean=20.16, sd=2.27) 
+// Standardized name for contrast: self>stranger
+// Subjects=48
+56	74	56
+72	40	50
+54	52	47
+35	88	55
