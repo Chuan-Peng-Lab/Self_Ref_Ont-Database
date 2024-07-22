@@ -14,67 +14,59 @@ Participants (N = 4054, 2406 females) range from adolescents to the elderly. In 
 - Used Zotero for literature organization and MATLAB R2021A for analysis (Versions 3).
 
 ## Related Publication
-Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).[DOI: 10.11922/11-6035.csd.2022.0047.zh](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)
+- Sun Shutting, Wang Nan, Wen Jiahui, et al. Neuroimaging cognitive ontology dataset of self-reference [J/OL]. China Science Data, 2023, 8(3). (2023-07-27).[DOI: 10.11922/11-6035.csd.2022.0047.zh](https://doi.org/10.11922/11-6035.csd.2022.0047.zh)
+
+- Hu, C., Di, X., Eickhoff, S. B., Zhang, M., Peng, K., Guo, H., & Sui, J. (2016). Distinct and common aspects of physical and psychological self-representation in the brain: A meta-analysis of self-bias in facial and self-referential judgements. Neuroscience & Biobehavioral Reviews, 61, 197–207. https://doi.org/10.1016/j.neubiorev.2015.12.003
 
 ## Repository Structure
-### `Self_foci_raw/`
-This folder contains fMRI coordinate results extracted from each literature source included in the study. Each file within the folder is named after the corresponding study and formatted according to the BrainMap.
-#### Example Files
-- `Bach_2021_EurArchPsychiatryCliNeurosci.txt`: This file includes fMRI results from the study by Bach et al. (2021), published in the European Archives of Psychiatry and Clinical Neuroscience, detailing the brain regions activated during self-referential tasks.
-
-### `Suppl_Materials_Version2/`
-The `Suppl_Materials_Version2` folder contains supplementary materials for a meta-analysis conducted using the version 2 database. This collection supports the results of the meta-analysis by providing detailed data, visualizations, and analysis scripts.
-
-### Database encoding related files
-- `Self_Ref_Article_Info.csv`: Basic information on selected literature, such as author, journal, sample size.
-- `Self_Ref_Operationalization.csv`: Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
-- `Codebook_Self_Ref_Article_Info.csv`: Codebook for `Self_Ref_Article_Info.csv`.
-- `Codebook_Self_Ref_Operationalization.csv`: Codebook for `Self_Ref_Operationalization.csv`.
-- `自我参照_文章信息.csv`: Basic information on selected literature, such as author, journal, sample size.
-- `自我参照_操作化定义.csv`: Operational definitions of the self-referential effect in the selected literature, including experimental stimuli, design, tasks, etc.
-- `手册_自我参照_文章信息.csv`: Codebook for `自我参照_文章信息.csv`.
-- `手册_自我参照_操作化定义.csv`: Codebook for `自我参照_操作化定义.csv`.
 
 ```
 .
-├── Self_foci_raw
-│ ├── Abraham_2013_Brain_Imaging_Behav.txt
+├── 1_Reference
+│ ├── About.txt
 │ ├── ...
-│ └── Zhang_2015_NeuroimageClin.txt
+│ └── 补充材料2:编码手册.pdf
 │
-├── Suppl_Materials_Version2
-│ ├── Suppl_Data_Results_Version2
-│ │ ├── celebrity-nonPerson_cFWE.nii
-│ │ ├── close-celebrity_cFWE.nii
-│ │ ├── close-nonPerson_cFWE.nii
-│ │ ├── Figure4_data.csv
-│ │ ├── Interrater_Reliability_Raw.csv
-│ │ ├── self_all_cFWE.nii
-│ │ ├── Self_all.txt
-│ │ ├── Self_celebrity.txt
-│ │ ├── Self_close.txt
-│ │ ├── Self_nonPerson.txt
-│ │ ├── Suppl_RNotebook.nb.html
-│ │ └── Suppl_RNotebook.Rmd
-│ └── Supplementary_Materials_Version2.docx
+├── 2_Literature_Search
+│ ├── About.txt
+│ ├── Keyword_search.txt
+│ └── Literature_Search.docx
 │
-├── 手册_自我参照_操作化定义.csv
-├── 手册_自我参照_文章信息.csv
-├── 自我参照_操作化定义.csv
-├── 自我参照_文章信息.csv
-├── Codebook_Self_Ref_Article_Info.csv
-├── Codebook_Self_Ref_Operationalization.csv
-├── Self_Ref_Article_Info.csv
-├── Self_Ref_Operationalization.csv
+├── 3_Article_Screen
+│ ├── Endnote_files
+│ │ ├── 3_1_Self-ref_hcp
+│ │ ├── ...
+│ │ └── add_Neurosy+Query_0710
+│ ├── Literature_neuroQuery.docx
+│ ├── Search_flow.png
+│ └── self_ref_screen_flow.docx
 │
+├── 4_Data_Extraction
+│ ├── 4_1_Codebook
+│ ├── 4_2_Coordinate
+│ └── 4_3_Manual
+│
+├── 5_Analysis
+│ ├── 5_3_ThirdTrial
+│ └── About.txt
+│
+├── 6_Reports
+│ ├── 6_1_Project_reports [slides]
+│ └── 6_2_Preprint
+│ 
+├── 7_Dataset
+│ ├── Ont_Heal_Self_foci_v1
+│ └── self_foci_psy
+│
+├── LICENSE
 └── README.md (Overall project documentation)
 
 ```
 
 ## Contact
 - Prof. Hu Chuan-Peng (hcp4715@hotmail.com)
-- Shu-ting Sun (Version 2, sunshuting19@163.com)
 - Shanshan Zhu (Version 3, zhushanshan0717@gmail.com)
+- Shuting Sun (Version 2, sunshuting19@163.com)
 
 ## Contributors
 - **[2021.11-]** **Hu Chuan-Peng**: Overall scheme design, data verification, organization, and paper writing and revision.
