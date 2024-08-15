@@ -1,0 +1,15 @@
+// Reference=MNI
+// Long, 2020: friend>self (22 females, mean=19.7, 18-31) 
+// Subjects=38
+2	-60	26 
+12	54	-10
+56	-68	26 
+-42	-66	24 
+-56	-8	-14
+
+// Long, 2020: self>friend (22 females, mean=19.7, 18-31) 
+// Standardized name for contrast: self>close
+// Subjects=38
+NA
+
+

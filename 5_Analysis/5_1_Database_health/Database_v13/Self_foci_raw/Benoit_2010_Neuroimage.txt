@@ -1,0 +1,60 @@
+// Reference=MNI
+// Benoit, 2010: self>syllables (5 females, mean=24.2, range=19.4-31, Study phase)
+// Standardized name for contrast: self>nonPerson
+// Subjects=13
+-8	36	52
+50	30	-8
+-48	28	-8
+-50	-2	-32
+68	-10	-20
+-2	-12	36
+-6	-50	24
+-44	-56	26
+58	-64	24
+
+// Benoit,  2010: friend>syllables (5 females, mean=24.2, range=19.4-31, Study phase)
+// Subjects=13
+-10	-92	24
+0	60	14
+-12	56	28
+-8	36	52
+6	38	4
+46	30	-16
+30	22	-22
+58	26	4
+-48	28	-8
+-46	10	-30
+0	12	-12
+48	2	-32
+64	-2	-16
+26	-14	-16
+-20	-10	-14
+-4	-52	24
+-48	-58	26
+58	-64	24
+-12	-94	22
+
+// Benoit, 2010: self>friend (5 females, mean=24.2, range=19.4-31, Study phase)
+// Standardized name for contrast: self>close
+// Subjects=13
+26	50	26
+-12	34	26
+-42	32	10
+46	28	4
+52	10	-6
+42	4	24
+34	4	6
+38	-4	-34
+-32	0	2
+0	-2	18
+62	-36	40
+
+// Benoit, 2010: friend>self (5 females, mean=24.2, range=19.4-31,  Study phase)
+// Subjects=13
+0	14	-12
+-48	12	-32
+66	-2	-14
+60	-4	-24
+2	-54	28
+
+

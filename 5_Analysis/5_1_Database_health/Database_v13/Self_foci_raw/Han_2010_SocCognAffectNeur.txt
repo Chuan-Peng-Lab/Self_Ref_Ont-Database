@@ -1,0 +1,27 @@
+// Reference=MNI
+// Han, 2010: self>font (7 females, mean=25.4, sd=2.46)
+// Standardized name for contrast: self>nonPerson
+// Subjects=14
+-10	34	50
+-42	26	-4
+-38	8	46
+-58	0	-12
+32	-76	-32
+
+// Han, 2010: self>Zhu Rongji (7 females, mean=25.4, sd=2.46)
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+8	34	28
+-4	-18	42
+-34	10	-6
+
+// Han, 2010: self>Sakyamuni (7 females, mean=25.4, sd=2.46)
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+-4	40	16
+-34	8	-6
+
+// Han, 2010: self>Jesus (7 females, mean=25.4, sd=2.46)
+// Standardized name for contrast: self>celebrity
+// Subjects=14
+18	-98	6

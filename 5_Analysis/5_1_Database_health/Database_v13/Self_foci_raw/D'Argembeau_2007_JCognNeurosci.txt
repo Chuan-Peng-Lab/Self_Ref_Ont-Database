@@ -1,0 +1,11 @@
+// Reference=MNI
+// D'Argembeau, 2007: self>close friend or relative (11 females, mean=23, sd=3.4)
+// Standardized name for contrast: self>close
+// Subjects=17
+-10	46	22
+
+// D'Argembeau, 2007: third person perspective>first person perspective (11 females, mean=23, sd=3.4)
+// Subjects=17
+-10	14	62
+-8	-86	-6
+

@@ -1,0 +1,34 @@
+﻿Variable_Name,Variable_description,Variable_value,Variable_category
+First Author,the first named author of the article,NA,categorical
+Last Author,the last named author of the article,NA,categorical
+Year,the year when the article is published,NA,numeric
+Journal,the journal the article is publilshed,NA,categorical
+Study,order of independent studies contained in one paper,NA,numeric
+Article_ID,the ID of the article,Author_Year_Journal,categorical
+Definition of self-reference effect (verbal),author's definition of SRE in the article,NA,categorical
+Self-reference effect defined by control conditions,how self-reference effect is represented on a neural level by contrast,NA,categorical
+Standardized name for contrast,Standardized name for control conditions,"celebrity, close, stranger, nonPerson",categorical
+Task Name,name of the task,NA,categorical
+Deviation_from_Rogers_1977,whether the experiment design is different that of Rogers (1977),"Yes, No",categorical
+Exp_Design_Type,how experiment is designed,"within, between, mixed",categorical
+Independent_Variable,a variable whose value does not depend on another variable,NA,categorical
+Stimuli_Modality,modalities of stimuli,"visual, auditory, visual_auditory",categorical
+Stimuli_Content,content of stimuli ,"trait(personality description), statement(Non-personality description), card, colored circle, video, pictures, two sentence scenario(two statements in communication or moral contexts)",categorical
+Stimuli_Categories,principles of dividing the category or categories stimuli are divided into,NA,categorical
+Task_Phase_1_Name,simplified description of phase 1,"rating(scaled answers), judgment(yes or no answer), watch_calculate, select_card",categorical
+Task_Phase_2_Name,simplified description of phase 2,"retrieval_out_scanner(old or new judgment out of scanner), retrieval_in_scanner(old or new judgment in scanner), rating_out_scanner(rating out of scanner), rating_in_scanner(rating in scanner), passiveView_in_scanner(only view stimulus without response),retrievalRK_out_scanner(old or new judgment and remember or know judgment out of scanner), retrieval_visuAudi_out(old or new judgment out of scanner, in visual and auditory modality), retrieval_Audi_out(old or new judgment out of scanner, in auditory modality)",categorical
+Task_Phase_1_In_Scanner_or_Not,whether the first phrase of the study is conducted in fMRI,"Yes, No",categorical
+Task_Phase_1_Response_Type,choices available to participants,NA,categorical
+Task_Phase_1_Response_Method,how do participants respond to stimuli,"press buttons/keys, answer questions",categorical
+Task_Phase_1_Number_of_Trials_Total,number of trials in total,NA,numeric
+Task_Phase_1_Number_of_Trials_per_block,number of trials each block,NA,numeric
+Task_Phase_2_In_Scanner_or_Not,whether the second phrase of the study is conducted in fMRI,"Yes, No",categorical
+Task_Phase_2_Response_Type,choices available to participants,NA,categorical
+Task_Phase_2_Response_Method,how do participants respond to stimuli,"press buttons, press keys, answer questions",categorical
+Task_Phase_2_Number_of_Trials_Total,number of trials in total,NA,numeric
+Task_Phase_2_Number_of_Trials_per_block,number of trials each block,NA,numeric
+fMRI_Acquistion_sys,the system of fMRI equipment,NA,categorical
+fMRI_Acquistion_Magnetic_field,the magnetic field of fMRI equipment,NA,categorical
+fMRI_Software_Data_Analysis,the software people people used in analysis,NA,categorical
+fMRI_Results_Conditions,the conditions of the experiment,NA,categorical
+fMRI_Results_File_Names,the file names of fMRI results,NA,categorical

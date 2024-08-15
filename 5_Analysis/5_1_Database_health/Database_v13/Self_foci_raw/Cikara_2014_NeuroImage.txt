@@ -1,0 +1,50 @@
+// Reference=MNI
+// Cikara, 2014: self>Obama (11 females, mean=23.1, collapsing across moral/communication)
+// Standardized name for contrast: self>celebrity
+// Subjects=21
+-40	52	10
+-32	48	20
+-44	48	-4
+-42	-56	52
+-38	-58	50
+-36	-60	52
+-62	-46	-10
+-56	-34	-8
+-56	-24	-18
+-48	12	42
+-42	10	36
+-36	6	34
+
+// Cikara, 2014: Obama>self (11 females, mean=23.1, collapsing across moral/communication)
+// Subjects=21
+10	-28	-8
+18	-38	8
+10	-30	18
+42	-12	20
+50	0	26
+50	-6	18
+22	-4	-12
+36	-4	-34
+-2	-4	-20
+-28	-44	16
+-32	-42	0
+-30	-28	-14
+
+// Cikara, 2014: self>Obama (11 females, mean=23.1, Localizer Experiment)
+// Standardized name for contrast: self>celebrity 
+// Subjects=21
+-4	34	-4
+4	40	-4
+-2	36	4
+
+// Cikara, 2014: Obama>self (11 females, mean=23.1, Localizer Experiment)
+// Subjects=21
+6	-52	22
+4	-54	26
+0	-58	30
+60	-4	-18
+60	0	-24
+-42	-54	20
+-42	-64	26
+-52	-66	28
+-54	-6	-18
