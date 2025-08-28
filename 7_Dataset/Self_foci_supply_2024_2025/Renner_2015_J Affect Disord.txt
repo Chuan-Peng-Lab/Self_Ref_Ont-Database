@@ -1,0 +1,19 @@
+//Reference=Talairach
+//Renner, 2015: Personality-trait words>Non-words(all subjects, 25 females)
+//Subjects=35
+-4	-55	16
+-5	44	-1
+-11	48	11
+-24	24	43
+-32	-36	-10
+-44	-72	24
+-47	14	-26
+-62	-5	-17
+
+//Renner, 2015: Negative depression-related>Neutral(Controls>cMDD, 25 females, VOI)
+//Subjects=35
+-8	60	10
+
+//Renner, 2015: Positive>Neutral(Controls>cMDD, 25 females, VOI)
+//Subjects=35
+-25	17	39

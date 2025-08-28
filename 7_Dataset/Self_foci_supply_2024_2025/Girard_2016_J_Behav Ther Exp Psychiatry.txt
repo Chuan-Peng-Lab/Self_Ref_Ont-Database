@@ -1,0 +1,14 @@
+// Reference=MNI
+// Girard, 2016: SZ + HC/ emotion (schizophrenia patients，4 females, mean= 40.6，HC, 5 females, mean= 35.9，encoding phase, emotions: positive, neutral, negative)
+// Subjects=29
+8	18	46
+-22	50	28
+-8	38	10
+-48	16	-8
+-30	26	2
+-40	24	-2
+-38	-4	54
+-40	6	34
+-26	-12	56
+-6	-70	38
+-6	6	6

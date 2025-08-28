@@ -1,0 +1,46 @@
+// Reference=Talairach
+// Wanger, 2003: targets > non-targets (healthy controls, 10 females, mean=15.1, sd=1.9) 
+// Standardized name for contrast: self > stranger
+// Subjects=10
+49	14	35
+
+// Wanger, 2003: targets > netural (anorexia nervosa, 13 females, mean=15.3, sd=1.4) 
+// Subjects=13
+43	34	21
+49	14	35
+-51	14	35
+3	10	46
+39	13	3
+39	-49	-19
+-43	-55	-19
+40	-49	35
+-41	-57	35
+-4	20	38
+-2	-36	24
+
+// Wanger, 2003: targets > netural (healthy controls, 10 females, mean=15.1, sd=1.9)  
+// Subjects=10
+43	33	12
+-41	33	12
+50	4	32
+-42	0	32
+3	13	46
+35	13	2
+-37	16	3
+39	-49	-19
+-39	-51	-19
+40	-41	39
+-39	-41	36
+3	19	42
+2	-45	23
+
+// Wanger, 2003: targets > netural (anorexia nervosa vs. healthy controls)  
+// Subjects=23
+49	14	35
+-51	14	35
+45	-45	38
+37	-57	44
+-40	-58	43
+
+
+

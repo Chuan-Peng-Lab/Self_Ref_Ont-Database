@@ -1,0 +1,70 @@
+// Reference=MNI
+// Vinogradov, 2008, self-generated > externall presented (HC, 4 females, mean=28) 
+// Standardized name for contrast: self > nonperson
+// Subjects=8
+-10	48	18
+-4	57	19
+-4	49	12
+2	40	20
+8	59	19
+6	52	21
+-8	-56	36
+
+// Vinogradov, 2008, self-generated > externall presented (schizophrenia, 3 females, mean=38) 
+// Standardized name for contrast: self > nonperson
+// Subjects=8
+20	11	-6
+0	-37	39
+
+// Vinogradov, 2008, self-generated > externall presented (HC > schizophrenia) 
+// Standardized name for contrast: self > nonperson
+// Subjects=16
+6	51	20
+6	59	17
+18	20	47
+
+// Vinogradov, 2008, self-generated > externall presented (schizophrenia > HC) 
+// Standardized name for contrast: self > nonperson
+// Subjects=16
+-4	-14	62
+-4	-11	50
+0	-21	53
+22	9	-9
+14	-74	-5
+-2	12	36
+-16	8	-2
+-14	-2	4
+
+// Vinogradov, 2008, old > new (schizophrenia, 3 females, mean=38) 
+// Subjects=8
+-40	-72	29
+-38	-63	22
+-44	-69	24	
+
+// Vinogradov, 2008, old > new presented (HC > schizophrenia) 
+// Subjects=16
+59	-24	34
+38	-25	10
+40	-27	7
+
+// Vinogradov, 2008, externall presented (source memory task) > old (item recognition task) (HC, 4 females, mean=28) 
+// Subjects=8
+-6	33	-5
+4	31	-2
+-57	3	29
+-51	2	35
+44	-22	-8
+
+// Vinogradov, 2008, externall presented (source memory task) > old (item recognition task) (schizophrenia, 3 females, mean=38) 
+// Subjects=8
+-8	43	2
+
+// Vinogradov, 2008, externall presented (source memory task) > old (item recognition task) (HC > schizophrenia) 
+// Subjects=16
+-51	-4	30
+
+// Vinogradov, 2008, externall presented (source memory task) > old (item recognition task) (schizophrenia > HC) 
+// Subjects=16
+-2	0	6
+
+

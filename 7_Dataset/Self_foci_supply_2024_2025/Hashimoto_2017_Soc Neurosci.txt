@@ -1,0 +1,46 @@
+// Reference=MNI
+// Hashimoto, 2017: 1P_Self + 3P_Self > 1P_Other + 3P_Other (all subjucts, ASD < healthy controls) 
+// Standardized name for contrast: self > close
+// Subjects=50
+-36	-54	24
+
+// Hashimoto, 2017: (3P_Self + 3P_Other) - (1P_Self + 1P_Other) (all subjucts, ASD vs. healthy controls, functional connectivity, ROI) 
+// Subjects=50
+4	-26	46
+-14	-72	52
+22	-52	70
+30	-50	-8
+70	-28	6
+52	0	-10
+-68	-16	0
+-12	-72	16
+-36	-28	12
+
+// Hashimoto, 2017: (3P_Self - 3P_Other) - (1P_Self - 1P_Other) (all subjucts, ASD vs. healthy controls, functional connectivity, ROI) 
+// Subjects=50
+12	70	-2
+-22	66	-6
+52	-70	20
+-36	-68	16
+
+// Hashimoto, 2017: (1P_Self + 1P_Other) vs. (3P_Self + 3P_Other) (all subjucts, ASD + healthy controls, functional connectivity) 
+// Subjects=50
+-36	-30	56
+-30	-34	-8
+10	6	4
+18	12	60
+2	-94	2
+-22	52	34
+34	-38	0
+20	-50	-26
+-12	-22	48
+
+// Hashimoto, 2017: (3P_Self  - 3P_Other) vs. (1P_Self - 1P_Other) (all subjucts, ASD + healthy controls, functional connectivity) 
+// Subjects=50
+-36	16	34
+-42	-58	20
+-2	-64	28
+-4	52	22
+-12	-6	22
+-36	22	-18
+

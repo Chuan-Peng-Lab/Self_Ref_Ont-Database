@@ -1,0 +1,33 @@
+// Reference=Talairach
+// Blackwood, 2004: self > other (normal subjects) 
+// Standardized name for contrast: self > stranger
+// Subjects=8
+-4	50	-2
+42	26	-18
+-38	26	-22
+-2	24	52
+22	62	8
+-26	54	10
+-60	-52	10
+26	-92	-16
+
+// Blackwood, 2004: self > other (deluded subjects) 
+// Standardized name for contrast: self > stranger
+// Subjects=8
+-2	-44	-2
+50	20	-14
+-48	24	-16
+
+// Blackwood, 2004: self > other (control subjects > deluded subjects) 
+// Standardized name for contrast: self > stranger
+// Subjects=16
+0	34	4
+
+// Blackwood, 2004: self > other (deluded subjects > control subjects) 
+// Standardized name for contrast: self > stranger
+// Subjects=16
+8	-46	14
+
+
+
+
