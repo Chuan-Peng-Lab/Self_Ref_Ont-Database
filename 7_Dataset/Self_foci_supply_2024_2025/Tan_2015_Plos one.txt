@@ -1,0 +1,21 @@
+// Reference=MNI
+// Tan, 2015, self > semantic (HC > schizophrenia) 
+// Standardized name for contrast: self > nonperson
+// Subjects=35
+-6	36	15
+
+// Tan, 2015, other > semantic (HC < schizophrenia) 
+// Subjects=35
+27	-33	-21
+-12	63	0
+
+// Tan, 2015, other > semantic (Structural MRI, HC vs. schizophrenia) 
+// Subjects=35
+-52	6	0
+40	6	-12
+36	56	0
+32	-90	24
+-64	-10	-20
+
+
+

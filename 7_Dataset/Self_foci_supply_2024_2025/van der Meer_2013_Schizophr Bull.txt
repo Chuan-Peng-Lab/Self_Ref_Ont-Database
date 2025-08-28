@@ -1,0 +1,89 @@
+// Reference=MNI
+// van der Meer, 2013, self > other (all) 
+// Standardized name for contrast: self > close
+// Subjects=68
+58	-28	50
+60	-26	40
+
+// van der Meer, 2013, self > semantic (all) 
+// Standardized name for contrast: self > nonperson
+// Subjects=68
+-6	-52	34
+0	-20	32
+-2	64	12
+-4	54	6
+-12	58	32
+-46	-2	-30
+-48	-56	24
+-52	-62	36
+58	-26	50
+62	-20	40
+44	-32	42
+50	8	-30
+-28	18	-14
+58	-60	26
+
+// van der Meer, 2013, other > self (all) 
+// Standardized name for contrast: close > self
+// Subjects=68
+-2	-52	30
+-54	-4	-18
+-60	-10	-12
+-40	12	-30
+46	-58	28
+
+// van der Meer, 2013, other > semantic (all) 
+// Subjects=68
+-6	-52	34
+0	-22	30
+-2	64	14
+-6	60	32
+-8	50	44
+-48	-58	24
+-52	-64	34
+-50	0	-28
+-42	10	-32
+-56	-8	-16
+50	8	-30
+60	-4	-20
+36	16	-20
+58	-62	26
+50	-60	30
+
+// van der Meer, 2013, self > semantic (HC > schizophrenia) 
+// Standardized name for contrast: self > nonperson
+// Subjects=68
+-6	-38	28
+
+// van der Meer, 2013, other > semantic (HC > schizophrenia) 
+// Subjects=68
+-8	-46	18
+-6	-38	24
+4	-68	16
+
+// van der Meer, 2013, self > semantic (associations with insight for schizophrenia, 12 females, mean=34.3, sd=10.7, SAI-E subtotal) 
+// Standardized name for contrast: self > nonperson
+// Subjects=47
+-38	18	12
+-36	-64	42
+
+// van der Meer, 2013, self > semantic (associations with insight for schizophrenia, 12 females, mean=34.3, sd=10.7, SAI-E awareness of illness) 
+// Standardized name for contrast: self > nonperson
+// Subjects=47
+-38	18	12
+-36	-66	44
+-32	-36	34
+
+// van der Meer, 2013, self > semantic (associations with insight for schizophrenia, 12 females, mean=34.3, sd=10.7, SAI-E relabeling symptoms) 
+// Standardized name for contrast: self > nonperson
+// Subjects=47
+-38	16	12
+-38	-62	42
+-44	-50	30
+
+// van der Meer, 2013, self > semantic (associations with cognitive insight for schizophrenia, 12 females, mean=34.3, sd=10.7, self-reflectiveness) 
+// Standardized name for contrast: self > nonperson
+// Subjects=47
+-14	44	10
+10	54	12
+

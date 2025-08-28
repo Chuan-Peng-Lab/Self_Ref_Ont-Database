@@ -1,0 +1,55 @@
+// Reference=MNI
+// Sachdev, 2008: self-image > non-self-image (HC > anorexia nervosa) 
+// Standardized name for contrast: self > stranger
+// Subjects=20
+18	-80	26
+14	-76	0
+46	20	20
+-36	10	20
+
+// Sachdev, 2008: self-image > baseline (HC, 10 females, mean=22.6, sd=2.07) 
+// Standardized name for contrast: self > nonperson
+// Subjects=10
+56,	10	8
+62	-20	36
+26	-2	48
+-32	-54	54
+36	-96	-2
+-42	-90	-4
+12	-22	8
+-34	6	20
+
+// Sachdev, 2008: baseline > self-image (anorexia nervosa, 10 females, mean=18.8, sd=1.69) 
+// Standardized name for contrast: nonperson > self
+// Subjects=10
+8	-68	48
+10	-94	-14
+-8	-94	-14
+
+// Sachdev, 2008: non-self-image > baseline (anorexia nervosa, 10 females, mean=18.8, sd=1.69) 
+// Subjects=10
+-50	14	46
+-46	6	30
+-42	4	22
+54	30	12
+-30	-64	48
+42	-62	-8
+-36	-86	-4
+-20	-28	14
+
+// Sachdev, 2008: non-self-image > baseline (HC, 10 females, mean=22.6, sd=2.07) 
+// Subjects=10
+46	10	24
+48	38	16
+38	-70	44
+-22	-68	56
+52	-34	50
+-40	-90	-4
+44	-64	-16
+8	-18	6	
+
+// Sachdev, 2008: baseline > non-self-image (HC, 10 females, mean=22.6, sd=2.07) 
+// Subjects=10
+-10	50	-4
+-22	28	40
+

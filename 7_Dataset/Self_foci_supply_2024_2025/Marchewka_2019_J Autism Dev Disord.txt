@@ -1,0 +1,31 @@
+// Reference=Talairach
+// Marchewka, 2019: present-self  vs. past-self vs. close-other (ASD + TD) 
+// Subjects=30
+12	-39	42
+29	28	49
+5	42	0
+-38	-18	-4
+36	-4	-14
+40	39	14
+
+// Marchewka, 2019: present-self  vs. past-self vs. close-other (ASD > TD) 
+// Subjects=30
+50	-21	14
+
+// Marchewka, 2019: past-self  (ASD > TD) 
+// Subjects=30
+54	-21	0
+54	-49	7
+-13	-70	7
+-59	-14	-4
+-59	-46	11
+33	-21	14
+
+// Marchewka, 2019: present-self  >  close-other (ASD + TD) 
+// Standardized name for contrast: self > close
+// Subjects=30
+54	-21	0
+54	-49	7
+
+
+

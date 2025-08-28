@@ -1,0 +1,75 @@
+// Reference=MNI
+// Jimenez, 2018: self > baseline (encoding phase, healtyh controls, 5 females, mean=44.69, sd=11.1) 
+// Standardized name for contrast: self > nonperson
+// Subjects=16
+-48	-74	-8
+-4	8	58
+24	6	4
+52	8	30
+
+// Jimenez, 2018: self > baseline (encoding phase, schizophrenia, 7 females, mean=48.3, sd=9.9) 
+// Standardized name for contrast: self > nonperson
+// Subjects=20
+-30	-86	22
+-4	12	54
+26	0	44
+42	36	24
+
+// Jimenez, 2018: self > baseline (encoding phase, controls >schizophrenia) 
+// Standardized name for contrast: self > nonperson
+// Subjects=36
+-44	-68	-14
+
+// Jimenez, 2018: self > baseline (retrieval phase, healtyh controls, 5 females, mean=44.69, sd=11.1) 
+// Standardized name for contrast: self > nonperson
+// Subjects=16
+-46	-72	-6
+46	10	26
+-2	4	56
+14	-14	12
+
+// Jimenez, 2018: self > baseline (retrieval phase, schizophrenia, 7 females, mean=48.3, sd=9.9) 
+// Standardized name for contrast: self > nonperson
+// Subjects=20
+-6	8	54
+-10	-14	8
+30	0	48
+34	20	4
+
+// Jimenez, 2018: self > baseline (retrieval phase, controls >schizophrenia) 
+// Standardized name for contrast: self > nonperson
+// Subjects=36
+44	22	24
+
+// Jimenez, 2018: other > baseline (encoding phase, healtyh controls, 5 females, mean=44.69, sd=11.1) 
+// Subjects=16
+-36	-64	-8
+-6	6	58
+-28	-18	6
+-62	-42	6
+52	8	30
+
+// Jimenez, 2018: other > baseline (encoding phase, schizophrenia, 7 females, mean=48.3, sd=9.9) 
+// Subjects=20
+-32	-60	50
+32	-6	48
+
+// Jimenez, 2018: other > baseline (retrieval phase, healtyh controls, 5 females, mean=44.69, sd=11.1) 
+// Subjects=16
+-46	-70	-8
+-2	22	44
+42	16	26
+0	-28	32
+
+// Jimenez, 2018: other > baseline (retrieval phase, schizophrenia, 7 females, mean=48.3, sd=9.9) 
+// Subjects=20
+-6	6	54
+-8	-16	10
+30	2	50
+
+
+
+
+
+
+
